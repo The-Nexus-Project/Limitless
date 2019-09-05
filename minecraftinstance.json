@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-09-04T23:40:14.0384271Z",
+  "lastPlayed": "2019-09-05T13:40:54.3852832Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1282,7 +1282,7 @@
       "dateInstalled": "2019-09-04T22:06:31.8529274Z",
       "dateUpdated": "2019-09-04T22:06:31.8539265Z",
       "dateLastUpdateAttempted": "2019-09-04T22:06:31.8539265Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1817,7 +1817,7 @@
       "dateInstalled": "2019-09-04T22:29:19.9338219Z",
       "dateUpdated": "2019-09-04T22:29:19.935822Z",
       "dateLastUpdateAttempted": "2019-09-04T22:29:19.935822Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2048,7 +2048,7 @@
       "dateInstalled": "2019-09-04T22:29:22.4895792Z",
       "dateUpdated": "2019-09-04T22:29:22.4915909Z",
       "dateLastUpdateAttempted": "2019-09-04T22:29:22.4915909Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7286,6 +7286,143 @@
       "installedTargets": null
     },
     {
+      "addonID": 337396,
+      "gameInstanceID": "941fb6cc-e2d3-484b-9225-f0089dc86fed",
+      "installedFile": {
+        "id": 2778250,
+        "displayName": "Version 1.0.3 for Minecraft 1.14.4",
+        "fileName": "extraboats-1.0.3-1.14.4.jar",
+        "fileDate": "2019-09-04T16:58:55.383Z",
+        "fileLength": 101970,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2778/250/extraboats-1.0.3-1.14.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4219236569,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2965527985,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 404326385,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4098075265,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2214322775,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 967579579,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "extraboats-1.0.3-1.14.4.jar"
+      },
+      "dateInstalled": "2019-09-04T22:26:46.6221512Z",
+      "dateUpdated": "2019-09-04T22:26:46.6231521Z",
+      "dateLastUpdateAttempted": "2019-09-04T22:26:46.6231521Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 314002,
+      "gameInstanceID": "941fb6cc-e2d3-484b-9225-f0089dc86fed",
+      "installedFile": {
+        "id": 2721714,
+        "displayName": "overloadedarmorbar-3.0.0.jar",
+        "fileName": "overloadedarmorbar-3.0.0.jar",
+        "fileDate": "2019-06-08T04:58:23.413Z",
+        "fileLength": 17210,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2721/714/overloadedarmorbar-3.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3559728316,
+            "type": 0
+          },
+          {
+            "foldername": "locusway",
+            "fingerprint": 2746382103,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4253522632,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1306393264,
+        "gameVersion": [
+          "1.14.4",
+          "1.14.3",
+          "1.14.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-05-27T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "overloadedarmorbar-3.0.0.jar"
+      },
+      "dateInstalled": "2019-09-04T22:11:24.8895469Z",
+      "dateUpdated": "2019-09-04T22:11:24.890947Z",
+      "dateLastUpdateAttempted": "2019-09-04T22:11:24.890947Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 308989,
       "gameInstanceID": "941fb6cc-e2d3-484b-9225-f0089dc86fed",
       "installedFile": {
@@ -7376,143 +7513,6 @@
       "dateInstalled": "2019-09-04T22:11:34.9890309Z",
       "dateUpdated": "2019-09-04T22:11:35.0869873Z",
       "dateLastUpdateAttempted": "2019-09-04T22:11:35.0869873Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 314002,
-      "gameInstanceID": "941fb6cc-e2d3-484b-9225-f0089dc86fed",
-      "installedFile": {
-        "id": 2721714,
-        "displayName": "overloadedarmorbar-3.0.0.jar",
-        "fileName": "overloadedarmorbar-3.0.0.jar",
-        "fileDate": "2019-06-08T04:58:23.413Z",
-        "fileLength": 17210,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2721/714/overloadedarmorbar-3.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3559728316,
-            "type": 0
-          },
-          {
-            "foldername": "locusway",
-            "fingerprint": 2746382103,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 4253522632,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1306393264,
-        "gameVersion": [
-          "1.14.4",
-          "1.14.3",
-          "1.14.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-05-27T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "overloadedarmorbar-3.0.0.jar"
-      },
-      "dateInstalled": "2019-09-04T22:11:24.8895469Z",
-      "dateUpdated": "2019-09-04T22:11:24.890947Z",
-      "dateLastUpdateAttempted": "2019-09-04T22:11:24.890947Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 337396,
-      "gameInstanceID": "941fb6cc-e2d3-484b-9225-f0089dc86fed",
-      "installedFile": {
-        "id": 2778250,
-        "displayName": "Version 1.0.3 for Minecraft 1.14.4",
-        "fileName": "extraboats-1.0.3-1.14.4.jar",
-        "fileDate": "2019-09-04T16:58:55.383Z",
-        "fileLength": 101970,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2778/250/extraboats-1.0.3-1.14.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4219236569,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2965527985,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 404326385,
-            "type": 0
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 4098075265,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2214322775,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 967579579,
-        "gameVersion": [
-          "1.14.4",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "extraboats-1.0.3-1.14.4.jar"
-      },
-      "dateInstalled": "2019-09-04T22:26:46.6221512Z",
-      "dateUpdated": "2019-09-04T22:26:46.6231521Z",
-      "dateLastUpdateAttempted": "2019-09-04T22:26:46.6231521Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -8265,7 +8265,7 @@
       "dateInstalled": "2019-09-04T22:14:36.0247902Z",
       "dateUpdated": "2019-09-04T22:14:36.0267773Z",
       "dateLastUpdateAttempted": "2019-09-04T22:14:36.0267773Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
