@@ -4,3 +4,7 @@ logs/
 realms_persistence.json
 
 options.txt
+
+craftpresence/
+
+knownkeys.txt
