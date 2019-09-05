@@ -1,0 +1,15 @@
+{
+  "minecraft": {
+    "chicken": true,
+    "wolf": true,
+    "mooshroom": true,
+    "silverfish": true,
+    "cow": true,
+    "squid": true,
+    "polarbear": true,
+    "spider": true,
+    "sheep": true,
+    "pig": true,
+    "cavespider": true
+  }
+}

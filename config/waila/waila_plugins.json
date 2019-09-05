@@ -10,6 +10,12 @@
     "redstone": true,
     "repeater": true
   },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "showpasswords": true,
+    "showcustomname": true
+  },
   "waila": {
     "show_registry": false,
     "show_entity_hp": true,

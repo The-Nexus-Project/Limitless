@@ -1,0 +1,66 @@
+#Can the codebreaker be used?
+allowCodebreakerItem = true
+#Can the admin tool be used?
+allowAdminTool = false
+#Should mines spawn fire after exploding?
+shouldSpawnFire = true
+#Should players be able to break a mine without it exploding?
+ableToBreakMines = true
+#Is the level 1 keycard craftable?
+ableToCraftKeycard1 = true
+#Is the level 2 keycard craftable?
+ableToCraftKeycard2 = true
+#Is the level 3 keycard craftable?
+ableToCraftKeycard3 = true
+#Is the level 4 keycard craftable?
+ableToCraftKeycard4 = true
+#Is the level 5 keycard craftable?
+ableToCraftKeycard5 = true
+#Is the limited use keycard craftable?
+ableToCraftLUKeycard = true
+#Should mines' explosions be smaller than usual.
+smallerMineExplosion = false
+#Should mines explode if broken while in Creative mode?
+mineExplodesWhenInCreative = true
+#From how many blocks can the portable radar detect players?
+#Range: 0.0 ~ 1.7976931348623157E308
+portableRadarSearchRadius = 25.0
+#From how many blocks can the username logger detect players?
+#Range: > 0
+usernameLoggerSearchRadius = 3
+#From how many blocks away can a laser block connect to another laser block?
+#Range: > 0
+laserBlockRange = 5
+#If an alarm is activated, how many seconds in-between alarm sounds effects?
+#Range: > 0
+alarmTickDelay = 2
+#If a portable radar is activated, how many seconds should pass before the radar searches again?
+#Range: > 0
+portableRadarDelay = 4
+#From how many blocks can the claymore mine be tripped from?
+#Range: > 0
+claymoreRange = 5
+#How many blocks away can the I.M.S. detect players from?
+#Range: > 0
+imsRange = 12
+#From how many blocks away can an inventory scanner connect to another inventory scanner?
+#Range: > 0
+inventoryScannerRange = 2
+#How many blocks away can the Motion Activated Light detect entities from?
+#Range: 0.0 ~ 1.7976931348623157E308
+motionActivatedLightSearchRadius = 5.0
+#Should SecurityCraft run in debug mode? (logs extra things to the console, may add unfinished items/blocks that could be buggy.)
+debuggingMode = false
+#Allow claiming unowned blocks?
+allowBlockClaim = false
+#Display a 'tip' message at spawn?
+sayThanksMessage = true
+#Should SecurityCraft check for new updates of the mod through SecurityCraft's GitHub repository?
+checkForUpdates = true
+#What volume should the alarm sound effect be played at?
+#Range: 0.0 ~ 1.7976931348623157E308
+alarmSoundVolume = 0.3
+#How fast can you rotate when mounted to a camera and holding W-A-S-D?
+#Range: 0.0 ~ 1.7976931348623157E308
+cameraSpeed = 2.0
+
