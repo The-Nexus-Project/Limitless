@@ -1,0 +1,7 @@
+
+[general]
+	#Enable integration with Cursed Earth
+	"cursed earth integration" = true
+	#Allowed Container Types
+	containers = ["minecraft:crafting", "fastbench:fastbench"]
+

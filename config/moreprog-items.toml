@@ -1,0 +1,17 @@
+#Enable ianite items in the game [true / false]
+ianiteItemsEnabled = true
+#Enable paxels in the game [true / false]
+paxelsEnabled = true
+#Enable enderanium items in the game [true / false]
+enderaniumItemsEnabled = true
+#Enable glorium items in the game [true / false]
+gloriumItemsEnabled = true
+#Enable bone items in the game [true / false]
+boneItemsEnabled = true
+#Enable star items in the game [true / false]
+starItemsEnabled = true
+#Enable tritanium items in the game [true / false]
+tritaniumItemsEnabled = true
+#Enable dragon items in the game [true / false]
+dragonItemsEnabled = true
+

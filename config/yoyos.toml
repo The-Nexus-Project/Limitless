@@ -1,0 +1,172 @@
+
+[Vanilla]
+	#If set to false, removes the collecting enchantment from the game.
+	#Range: > 1
+	maxCollectingLevel = 5
+	#If set to false, removes the collecting enchantment from the game.
+	collectingEnabled = true
+	#If set to false, all vanilla yoyos will be disabled, disregarding their individual settings.
+	enabled = true
+
+	[Vanilla.Gold]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 600
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 3.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 11.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 5.5
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Yohoe]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 400
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 6.5
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 9.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 2.2
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Wooden]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 100
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 3.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 6.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 2.2
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Shear]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 300
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 5.5
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 8.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 5.1
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Creative]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = -1
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 9001.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 24.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 0.9
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Iron]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 300
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 5.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 8.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 5.0
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Diamond]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 400
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 6.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 9.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 1.7
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Stone]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 200
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 4.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 7.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 4.0
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+	[Vanilla.Sticky]
+		#The time (in ticks) after being thrown that this yoyo will be forced to retract.
+		#Range: > -1
+		duration = 400
+		#How much damage this yoyo does when it hits an entity.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		damage = 0.0
+		#The maximum distance this yoyo can be from its user
+		#Range: 0.0 ~ 1.7976931348623157E308
+		length = 9.0
+		#Affects how fast this yoyo moves.
+		#speed = (distance to target) * min(1/weight, 1)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		weight = 1.8
+		#If set to false, this yoyo will not be registered
+		enabled = true
+
+[General]
+	#By default, yoyos pull the user back towards the yoyo when they get too far apart. Setting this to false disabled this behavior.
+	yoyoSwing = true
+	#By default, farming/hoe yoyos replant whatever crop they harvest using any seeds that might have dropped. Setting this to false disables this behavior.
+	farmingYoyoReplant = true
+	#This number is doubled for every level of the collecting enchantment on a yoyo. It represents how many individual items a yoyo can pick up.
+	#Range: > 1
+	collectingMultiplier = 64
+

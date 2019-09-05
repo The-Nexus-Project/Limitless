@@ -1,0 +1,11 @@
+#Generate Dust Wastelands in the world [true / false ]
+dustWastelandGeneration = true
+#Generate Mystical Forests in the world [true / false]
+mysticalForestGeneration = true
+#Generate Corrupted Forests in the world [true / false ]
+corruptedForestGeneration = true
+#Generate Terracotta Plains in the world [true / false ]
+terracottaPlainsGeneration = true
+#Generate Fields in the world [true / false]
+fieldGeneration = true
+

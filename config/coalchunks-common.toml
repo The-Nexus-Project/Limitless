@@ -1,0 +1,10 @@
+
+#General settings
+[general]
+	#Charcoal chunks burn time in ticks (200 ticks = 1 item)
+	#Range: > 0
+	charcoalBurn = 200
+	#Coal chunks burn time in ticks (200 ticks = 1 item)
+	#Range: > 0
+	coalBurn = 200
+

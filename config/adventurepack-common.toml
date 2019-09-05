@@ -1,0 +1,13 @@
+
+["General Configuration"]
+	#The range of the Mining Helmet.
+	#Range: > 2
+	helmetRange = 7
+	#If the rope should teleport the user to their spawn if it has no stored location
+	ropeSpawn = true
+	#If the rope should be instant
+	instantRope = false
+	#The maximum radius of the Ender Lantern.
+	#Range: > 0
+	lanternMax = 4
+

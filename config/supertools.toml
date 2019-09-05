@@ -1,0 +1,40 @@
+
+#Config File of the Super Tools mod.
+[SuperTools]
+	#Enable Super Tools(Not the mod) (Default: true)
+	supertools = true
+
+	[SuperTools.Durabilities]
+		#Super Tools durabilty (Default: 1561)
+		#Range: 0 ~ 999999999
+		emerald_tools_durabilty = 1561
+		#Super Tools durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		redstone_tools_durabilty = 100
+		#Super Tools durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		"a_bag_of_bonemeal _durabilty" = 100
+		#Super Tools durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		obsidian_tools_durabilty = 2000
+		#Super Tools durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		special_cup_durabilty = 2000
+		#Super Tools durabilty (Default: 150)
+		#Range: 0 ~ 999999999
+		lapis_tools_durabilty = 150
+		#Super Tools durabilty (Default: 1350)
+		#Range: 0 ~ 999999999
+		super_tools_durabilty = 1350
+		#Super Tools durabilty (Default: 1700)
+		#Range: 0 ~ 999999999
+		cup_durabilty = 1700
+		#Super Tools durabilty (Default: 1000)
+		#Range: 0 ~ 999999999
+		quartz_tools_durabilty = 1000
+
+	[SuperTools."Super Axe"]
+		#Set the Maxmium amount of Wood Logs being chopped with the Super Axe
+		#Range: 0 ~ 999999999
+		max_wood_logs = 64
+

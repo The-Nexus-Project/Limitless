@@ -1,0 +1,15 @@
+
+[General]
+	#Enables/Disables debug mode (SPAMS LOGS! Is for detailed bug reports; You probably don't want this for normal play) [false/true|default:false]
+	isDebug = false
+	#Enables/Disables the limited air system [false/true|default:true]
+	consumeAir = true
+	#How quickly should the air return 1x the speed it takes to lose it, 2x the speed, etc. [1..4|default:2]
+	#Range: 1 ~ 4
+	regainAirSpeed = 2
+	#How many minutes of air do you have on one tank [1..10|default:2]
+	#Range: 1 ~ 10
+	minutesOfAir = 2
+	#Enables/Disables the rendering of air time left in tank [false/true|default:true]
+	displayAirRemaining = true
+

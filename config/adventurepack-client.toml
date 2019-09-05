@@ -1,0 +1,6 @@
+
+["Client-side Configuration"]
+	#The search radius of the Ender Lantern.
+	#Range: > 0
+	lanternRange = 4
+
