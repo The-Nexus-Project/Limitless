@@ -1,4 +1,16 @@
 
+[world]
+	#The rate at which cave spiders spawn underground
+	#Range: 0 ~ 100
+	cave_spider_spawn_rate = 30
+	#Enable or disable the decoration of jungle caves with vines and such.
+	jungle_caves_enabled = true
+	#Enable or disable the decoration of cold biome caves with ice and snow.
+	ice_caves_enabled = true
+	#The rate at which illusioners spawn in roofed forest biomes.
+	#Range: 0 ~ 100
+	illusioner_spawn_rate = 90
+
 [foods]
 	#Enable or disable the fish-based foods.
 	fish_foods_enabled = true

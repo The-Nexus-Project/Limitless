@@ -1,7 +1,9 @@
 #Enable MoreProgression rock block variants in the game (Marble, Limestone, and Basalt) [true / false]
 rockBlocksEnabled = true
 #Enable the ender infuser block in the game [true / false]
-enderInfuser = true
+enderInfuserEnabled = true
+#Enable the reinforced barrel block in the game [true / false]
+reinforcedBarrelEnabled = false
 #Enable mystiwood wood type in the game [true / false]
 mystiwoodWoodEnabled = true
 #Enable the crusher block in the game [true / false]
