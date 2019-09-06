@@ -4,7 +4,7 @@
 	#Display the status and the current FPS at the specified location.
 	#(0:off, 1:top-left, 2:top-right, 3:bottom-right, 4:bottom-left)
 	#Range: 0 ~ 4
-	hudLocation = 2
+	hudLocation = 0
 	#Detect movement of player position. (0:OFF, 1:Riding/Flying, 2:Always)
 	#Range: 0 ~ 2
 	detectMoving = 1
