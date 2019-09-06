@@ -5,7 +5,7 @@
 	#Range: > 1
 	HammerDuraLossMulti = 2
 	#Range: > 1
-	GreataxeDuraLossMulti = 3
-	#Range: > 1
 	ExcavatorDuraLossMulti = 2
+	#Range: > 1
+	GreataxeDuraLossMulti = 3
 
