@@ -10,6 +10,10 @@
     "redstone": true,
     "repeater": true
   },
+  "fluidtank": {
+    "fluidtank.waila.shortinfo": true,
+    "fluidtank.waila.tankinfo": true
+  },
   "securitycraft": {
     "showowner": true,
     "showmodules": true,
