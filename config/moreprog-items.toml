@@ -7,7 +7,7 @@ enderaniumItemsEnabled = true
 #Enable glorium items in the game [true / false]
 gloriumItemsEnabled = true
 #Enable bone items in the game [true / false]
-boneItemsEnabled = true
+boneItemsEnabled = false
 #Enable star items in the game [true / false]
 starItemsEnabled = true
 #Enable tritanium items in the game [true / false]
