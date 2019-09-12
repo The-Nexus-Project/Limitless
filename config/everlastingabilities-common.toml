@@ -43,7 +43,7 @@
 		#Mobs that won't have abilities that can be dropped via totems. You can add things like 'minecraft:pig'.
 		mobDropBlacklist = []
 		#The maximum amount of abilities a player can have, -1 is infinite.
-		maxPlayerAbilities = -1
+		maxPlayerAbilities = 6
 		#If potion abilities should show particle effects. This will also make them appear as in-game symbols.
 		showPotionEffectParticles = false
 		#These mobs will not be affected by hostile area potion effects such as poison or weakness. (Java regular expressions are allowed)
@@ -57,17 +57,17 @@
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained by combining totems in a crafting grid.
-		obtainableOnCraft = true
+		obtainableOnCraft = false
 		#If this can be obtained in loot chests.
 		obtainableOnLoot = true
 		#The xp required per level.
-		xpPerLevel = 150
+		xpPerLevel = 450
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 		#If this can be obtained by spawning mobs.
 		obtainableOnMobSpawn = true
 		#Rarity of this ability.
-		rarity = 3
+		rarity = 10
 
 	[ability.luck]
 		#The maximum ability level.
@@ -111,7 +111,7 @@
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 		#If this can be obtained by spawning mobs.
 		obtainableOnMobSpawn = true
 		#Rarity of this ability.
@@ -257,7 +257,7 @@
 		#The xp required per level.
 		xpPerLevel = 100
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 		#If this can be obtained by spawning mobs.
 		obtainableOnMobSpawn = true
 		#Rarity of this ability.
@@ -481,7 +481,7 @@
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 		#If this can be obtained by spawning mobs.
 		obtainableOnMobSpawn = true
 		#Rarity of this ability.
@@ -515,7 +515,7 @@
 		#The xp required per level.
 		xpPerLevel = 20
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 		#If this can be obtained by spawning mobs.
 		obtainableOnMobSpawn = true
 		#Rarity of this ability.
