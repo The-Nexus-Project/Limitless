@@ -1,0 +1,9 @@
+
+[general]
+	#Decide if you want that Endermen will target you if you break enderium-ore
+	clientEnderiumEndermen = true
+	#Decide if you want that CastleDoorFences are indistructible for Players (they can still be destroyed by explosions)
+	clientCastleDoorIndistructible = false
+	#Decide if you want that Pigzombies will target you if you break flarus-ore
+	clientFlarusPigmen = true
+
