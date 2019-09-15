@@ -1,0 +1,6 @@
+
+#Server configuration settings
+[server]
+	#Draws the collision shape rather than the selection shape when hovering blocks. Used for debugging collisions.
+	drawCollisionShapes = false
+
