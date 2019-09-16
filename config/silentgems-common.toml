@@ -60,6 +60,8 @@
 		"silentgems:thunderstorm" = true
 		#Create a patch of corrupted blocks
 		"silentgems:corrupt_blocks" = true
+		#Applies negative potion effects to the player
+		"silentgems:chaos_sickness" = true
 		#Spawn several lightning bolts that do not cause fire
 		"silentgems:chaos_lightning" = true
 		#Spawn a group of wisps (random element)
