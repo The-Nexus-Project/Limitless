@@ -33,7 +33,7 @@ rockpiles_spawnrate = 12
 speleothems_spawnrate = 24
 #Limestone patches spawn rate (min=1 ; max=50 ; default=6)
 #Range: 1 ~ 50
-limestone_spawnrate = 6
+limestone_spawnrate = 0
 #Packed ice patches spawn rate (min=1 ; max=50 ; default=6)
 #Range: 1 ~ 50
 ice_spawnrate = 6
