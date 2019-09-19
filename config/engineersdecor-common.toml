@@ -105,4 +105,7 @@
 		#Defines how much RF per tick the the electrical furnace consumed (average) for smelting. The feeders transferring items from/to adjacent have this consumption/8 for each stack transaction. The default value is only slightly higher than a furnace with an IE external heater (and no burning fuel inside).The config value can be changed on-the-fly for tuning.
 		#Range: 10 ~ 256
 		e_furnace_power_consumption = 16
+		#Defines the peak power production (at noon) of the Small Solar Panel. Note that the agerage power is much less, as no power is produced at all during the night, and the power curve is nonlinear rising/falling during the day. Bad weather conditions also decrease the production. The config value can be changed on-the-fly for tuning.
+		#Range: 10 ~ 256
+		small_solar_panel_peak_production = 45
 
