@@ -7,32 +7,32 @@
 	#What sound should play when the toggle is turned on
 	ToggleOn = ""
 	#What sound should play when the hud is turned off
-	HudOff = ""
+	HudOff = "ui.button.click"
 	#Enables/Disables the hold keybind [false/true|default:true]
 	EnableHold = true
 	#Sets the chance for the randomization of sound to occur out of 100000
 	#Range: 0 ~ 100000
 	RandomizerChance = 10
 	#What sound should play when the toggle is turned off
-	ToggleOff = ""
+	ToggleOff = "ui.button.click"
 	#The list of sounds that the randomizer can use
-	RandomizerSounds = [""]
+	RandomizerSounds = ["ui.button.click"]
 	#Enables/Disables randomizer [false/true|default:true]
-	EnableRandomizer = false
+	EnableRandomizer = true
 	#Enables/Disables the toggle keybind [false/true|default:true]
 	EnableToggle = false
 	#Enable the sound to play when using the hold key
 	EnableHoldSound = false
 	#What sound should play when the hold is turned on
-	HoldOn = ""
+	HoldOn = "ui.button.click"
 	#Enable the sound to play when using the hud key
 	EnableHudSound = false
 	#Enable the sound to play when using the toggle key
 	EnableToggleSound = false
 	#What sound should play when the hold is turned off
-	HoldOff = ""
+	HoldOff = "ui.button.click"
 	#What sound should play when the hud is turned on
-	HudOn = ""
+	HudOn = "ui.button.click"
 	#Enables/Disables the Hud keybind [false/true|default:true]
 	EnableHud = false
 

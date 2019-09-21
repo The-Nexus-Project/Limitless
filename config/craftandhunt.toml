@@ -1,0 +1,312 @@
+
+#Drop Chance is out of 100 with the formula: <random 0-99 <= x + Lucky*3 + Looting*2>. This means the Dice will pick a number 0-99, and if you roll less then X in the formula, the item will drop.
+["Drop Chance"]
+	#Drop chance for shark skin (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_shark_leather = 24
+	#Drop chance for Wither Skeleton Spine (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_wither_skeleton = 9
+	#Drop chance for spider chitin  (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_spider_chitin = 24
+	#Drop chance for panda leather  (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_panda_leather = 24
+	#Drop chance for polar leather  (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_polar_leather = 24
+	#Drop chance for Ghast's Flame Lung (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_ghast = 9
+	#Drop chance for Evoker's Book (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_evoker = 9
+	#Drop chance for Gloomy Ink Sack (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_squid = 9
+	#Drop chance for guardian hide (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_guardian_leather = 24
+	#Drop chance for Mystical Fox Tail (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_fox = 9
+	#Drop chance for Vampire's Fang (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_lamprey = 9
+	#Drop chance for Poison Sack (Default: 9).
+	#Range: 0 ~ 100
+	drop_chance_cave_spider = 9
+
+#Turtle/Shell armor is not listed here since their values are based off a in game material by Mojang.
+[Armor]
+
+	[Armor."Wither Armor"]
+		#Wither Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		wither_bootsdefense = 3
+		#Wither Durability Value (Default: 25).
+		#Range: 1 ~ 50
+		wither_durabilityValue = 25
+		#Wither Chest Defense Value (Default: 7).
+		#Range: 1 ~ 50
+		wither_chestdefense = 7
+		#Wither Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		wither_legsdefense = 6
+		#Wither Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		wither_enchantability = 15
+		#Wither Helm Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		wither_helmDefense = 5
+
+	[Armor."Magma Armor"]
+		#Magma Legs Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		blaze_legsdefense = 4
+		#Magma Chest Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		blaze_chestdefense = 5
+		#Magma Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		blaze_bootsdefense = 1
+		#Magma Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		blaze_helmDefense = 2
+		#Magma Enchantability Value (Default: 24).
+		#Range: 1 ~ 50
+		blaze_enchantability = 24
+		#Magma Durability Value (Default: 20).
+		#Range: 1 ~ 50
+		blaze_durabilityValue = 20
+
+	[Armor."Guardian Armor"]
+		#Guardian Legs Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		guardian_legsdefense = 3
+		#Guardian Durability Value (Default: 20).
+		#Range: 1 ~ 50
+		guardian_durabilityValue = 9
+		#Guardian Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		guardian_helmDefense = 1
+		#Guardian Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		guardian_bootsdefense = 1
+		#Guardian Chest Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		guardian_chestdefense = 3
+		#Guardian Enchantability Value (Default: 25).
+		#Range: 1 ~ 50
+		guardian_enchantability = 1
+
+	#Note for Durability Value in Armor. Vanilla values are; Leather:5, Gold:7, Iron:15, Turtle:25, Diamond:33
+	[Armor."Bone Armor"]
+		#Bone Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bone_enchantability = 15
+		#Bone Chest Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_chestdefense = 3
+		#Bone Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_helmDefense = 1
+		#Bone Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_bootsdefense = 1
+		#Bone Durability Value (Default: 9).
+		#Range: 1 ~ 50
+		bone_durabilityValue = 9
+		#Bone Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_legsdefense = 3
+
+	[Armor."Spider Armor"]
+		#Spider Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_bootsdefense = 1
+		#Spider Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_helmDefense = 1
+		#Spider Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		spider_chestdefense = 4
+		#Spider Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		spider_legsdefense = 3
+		#Spider Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		spider_durabilityValue = 10
+		#Spider Enchantability Value (Default: 16).
+		#Range: 1 ~ 50
+		spider_enchantability = 16
+
+	[Armor."Phantom Armor"]
+		#Phantom Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		phantom_bootsdefense = 1
+		#Phantom Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		phantom_chestdefense = 3
+		#Phantom Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		phantom_helmDefense = 1
+		#Phantom Enchantability Value (Default: 18).
+		#Range: 1 ~ 50
+		phantom_enchantability = 1
+		#Phantom Legs Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		phantom_legsdefense = 3
+		#Phantom Durability Value (Default: 18).
+		#Range: 1 ~ 50
+		phantom_durabilityValue = 9
+
+	[Armor."Shulker Armor"]
+		#Shulker Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		shulker_legsdefense = 3
+		#Shulker Durability Value (Default: 30).
+		#Range: 1 ~ 50
+		shulker_durabilityValue = 9
+		#Shulker Enchantability Value (Default: 13).
+		#Range: 1 ~ 50
+		shulker_enchantability = 1
+		#Shulker Helm Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		shulker_helmDefense = 1
+		#Shulker Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		shulker_bootsdefense = 1
+		#Shulker Chest Defense Value (Default: 8).
+		#Range: 1 ~ 50
+		shulker_chestdefense = 3
+
+	[Armor."Bear Armor"]
+		#Bear Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bear_legsdefense = 3
+		#Bear Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bear_chestdefense = 3
+		#Bear Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bear_bootsdefense = 1
+		#Bear Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bear_helmDefense = 1
+		#Bear Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bear_enchantability = 1
+		#Bear Durability Value (Default: 5).
+		#Range: 1 ~ 50
+		bear_durabilityValue = 9
+
+	[Armor."Shark Armor"]
+		#Shark Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		shark_bootsdefense = 1
+		#Shark Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		shark_chestdefense = 3
+		#Shark Enchantability Value (Default: 19).
+		#Range: 1 ~ 50
+		shark_enchantability = 1
+		#Shark Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		shark_legsdefense = 3
+		#Shark Durability Value (Default: 7).
+		#Range: 1 ~ 50
+		shark_durabilityValue = 9
+		#Shark Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		shark_helmDefense = 1
+
+#Attack damage is based off the pickaxe. Shovels will deal .5 damage more, Swords will deal 2 damage more, axes 5 damage more. Harvest level is simple. 0 is wood, 1 is stone, 2 is iron, and 3 is diamond. Nothing vanilla goes past 3. Efficiancy is how fast a thing mines. 2 is wood, 4 is stone, 6 is iron, 8 is diamond.
+[Tools]
+
+	[Tools."Shell Tools"]
+		#Shell Tools Enchantability (Default: 25).
+		#Range: 1 ~ 50
+		shell_tool_enchantability = 25
+		#Shell Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 10
+		shell_tool_harvestLevel = 3
+		#Shell Tools Efficiency (Default: 9.5).
+		#Range: 1.0 ~ 50.0
+		shell_tool_efficiency = 9.5
+		#Shell Tools Durability (Default: 562).
+		#Range: 1 ~ 50000
+		shell_tool_durability = 562
+		#Shell Tools Attack Damage (Default: 3).
+		#Range: 1.0 ~ 10.0
+		shell_tool_attackDamage = 4.0
+
+	[Tools."Wither Tools"]
+		#Wither Tools Enchantability (Default: 20).
+		#Range: 1 ~ 50
+		wither_tool_enchantability = 1
+		#Wither Tools Durability (Default: 251).
+		#Range: 1 ~ 50000
+		wither_tool_durability = 251
+		#Wither Tools Harvest Level (Default: 2).
+		#Range: 1 ~ 50
+		wither_tool_harvestLevel = 2
+		#Wither Tools Efficiency (Default: 5.5).
+		#Range: 1.0 ~ 50.0
+		wither_tool_efficiency = 5.5
+		#Wither Tools Attack Damage (Default: 4.0).
+		#Range: 1.0 ~ 50.0
+		wither_tool_attackDamage = 4.5
+
+	[Tools."Magma Tools"]
+		#Magma Tools Efficiency (Default: 5.5).
+		#Range: 1.0 ~ 50.0
+		blaze_tool_efficiency = 5.5
+		#Magma Tools Durability (Default: 562).
+		#Range: 1 ~ 50000
+		blaze_tool_durability = 562
+		#Magma Tools Attack Damage (Default: 3).
+		#Range: 1.0 ~ 10.0
+		blaze_tool_attackDamage = 3.0
+		#Magma Tools Harvest Level (Default: 2).
+		#Range: 1 ~ 10
+		blaze_tool_harvestLevel = 2
+		#Magma Tools Enchantability (Default: 25).
+		#Range: 1 ~ 50
+		blaze_tool_enchantability = 25
+
+	[Tools."Spider Tools"]
+		#Spider Tools Durability (Default: 132).
+		#Range: 1 ~ 50000
+		spider_tool_durability = 132
+		#Spider Tools Harvest Level (Default: 1).
+		#Range: 1 ~ 50
+		spider_tool_harvestLevel = 1
+		#Spider Tools Efficiency (Default: 5.5).
+		#Range: 1.0 ~ 50.0
+		spider_tool_efficiency = 5.5
+		#Spider Tools Attack Damage (Default: 2.5).
+		#Range: 1.0 ~ 50.0
+		spider_tool_attackDamage = 3.0
+		#Spider Tools Enchantability (Default: 16).
+		#Range: 1 ~ 50
+		spider_tool_enchantability = 1
+
+	[Tools."Bone Tools"]
+		#Bone Tools Enchantability (Default: 15).
+		#Range: 1 ~ 10
+		bone_tool_enchantability = 10
+		#Bone Tools Durability (Default: 132).
+		#Range: 1 ~ 50000
+		bone_tool_durability = 132
+		#Bone Tools Harvest Level (Default: 1).
+		#Range: 1 ~ 10
+		bone_tool_harvestLevel = 1
+		#Bone Tools Efficiency (Default: 5.5).
+		#Range: 1.0 ~ 50.0
+		bone_tool_efficiency = 5.5
+		#Bone Tools Attack Damage (Default: 2).
+		#Range: 1.0 ~ 10.0
+		bone_tool_attackDamage = 2.0
+

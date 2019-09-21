@@ -37,6 +37,13 @@
 				#Larger regions will make finding many types of gems more difficult.
 				regionSize = 4
 
+		[world.generation.ores]
+
+			[world.generation.ores.silver]
+				#Number of veins of silver ore per chunk. Set 0 to disable.
+				#Default: 0 if Silent's Mechanisms is installed when config is created, 2 otherwise
+				veinCount = 0
+
 		[world.generation.end]
 
 			[world.generation.end.gems]
@@ -76,6 +83,10 @@
 	masterSwitch = false
 
 [teleporter]
+	#Only allow teleporters to be linked to teleporters made with the same gem
+	sameGemOnly = false
+	#Allow teleporters to link to teleporter anchors
+	allowAnchors = true
 
 	[teleporter.chaos]
 		#The chaos produced per block traveled (ignores Y-axis)

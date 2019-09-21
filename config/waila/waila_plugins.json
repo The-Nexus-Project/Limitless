@@ -11,6 +11,8 @@
     "repeater": true
   },
   "fluidtank": {
+    "fluidtank.waila.tank_info": true,
+    "fluidtank.waila.short_info": true,
     "fluidtank.waila.shortinfo": true,
     "fluidtank.waila.tankinfo": true
   },
