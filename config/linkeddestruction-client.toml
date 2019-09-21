@@ -1,0 +1,50 @@
+
+[General]
+	#Enables/Disables the sending of enable packets to the server [false/true|default:true]
+	Enable = true
+
+[Keybind]
+	#What sound should play when the toggle is turned on
+	ToggleOn = ""
+	#What sound should play when the hud is turned off
+	HudOff = ""
+	#Enables/Disables the hold keybind [false/true|default:true]
+	EnableHold = true
+	#Sets the chance for the randomization of sound to occur out of 100000
+	#Range: 0 ~ 100000
+	RandomizerChance = 10
+	#What sound should play when the toggle is turned off
+	ToggleOff = ""
+	#The list of sounds that the randomizer can use
+	RandomizerSounds = [""]
+	#Enables/Disables randomizer [false/true|default:true]
+	EnableRandomizer = false
+	#Enables/Disables the toggle keybind [false/true|default:true]
+	EnableToggle = false
+	#Enable the sound to play when using the hold key
+	EnableHoldSound = false
+	#What sound should play when the hold is turned on
+	HoldOn = ""
+	#Enable the sound to play when using the hud key
+	EnableHudSound = false
+	#Enable the sound to play when using the toggle key
+	EnableToggleSound = false
+	#What sound should play when the hold is turned off
+	HoldOff = ""
+	#What sound should play when the hud is turned on
+	HudOn = ""
+	#Enables/Disables the Hud keybind [false/true|default:true]
+	EnableHud = false
+
+[Hud]
+	#Display hud text in addition to icon [false/true|default:true]
+	EnableHudText = false
+	#Display hud text in addition to icon [false/true|default:true]
+	EnableHudVersionText = false
+	#Only display the hud when LinkedDestruction is on [false/true|default:true]
+	OnlyOn = true
+	#Enables/Disables the Hud [false/true|default:true]
+	Enable = false
+	#Display Hud Text with the version of the mod
+	HudVersionText = "LinkedDestruction v0.7.0-BETA"
+

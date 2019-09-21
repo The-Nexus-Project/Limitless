@@ -1,0 +1,72 @@
+
+[General]
+	#How much XP is used block mined [-100000.0..100000.0|default:0]
+	#Range: -100000.0 ~ 100000.0
+	XpStart = 0.01
+	#How much XP is used per block is increased [-10000.0..10000.0|default:0]
+	#Range: -100000.0 ~ 100000.0
+	XpIncrease = 0.001
+	#The amount of durability that should remain on a tool in DAMAGE mode [0..1000|default:2]
+	#Range: 0 ~ 1000
+	RemainingDurability = 1
+	#Enables/Disables the whole Mod [false/true|default:true]
+	enableMod = true
+	#How should blocks be linked together by default [REGISTRY|default:REGISTRY]
+	#Allowed Values: EVERYTHING, REGISTRY, HARVEST, CHECKMATE
+	HarvestMode = "REGISTRY"
+	#The break mode for the tool [DAMAGE,DESTROY|default:DAMAGE]
+	#Allowed Values: DESTROY, DAMAGE
+	BreakMode = "DAMAGE"
+	#Should we only use the starting tool or active tool [START,ACTIVE|default:START]
+	#Allowed Values: ACTIVE, START
+	ToolMode = "START"
+	#How many blocks are attempted each second [1..1000|default:100]
+	#Range: 1 ~ 1000
+	BreakLimit = 100
+	#Is the player required to have XP before mining is allowed [default:false]
+	XpNeeded = false
+	#Is the player requiered to have food before mining is allowed [default:true]
+	FoodNeeded = true
+	#How should we limit the blocks broken [DISTANCE,BLOCKS,NO_LIMIT|default:DISTANCE]
+	#Allowed Values: NO_LIMIT, DISTANCE, BLOCKS
+	LimitMode = "DISTANCE"
+	#How much food use is increased per block [-10000.0..10000.0|default:0]
+	#Range: -100000.0 ~ 100000.0
+	FoodIncrease = 0.1
+	#Sets the block or distance limit [0..10000000|default:50]
+	#Range: 0 ~ 10000000
+	Limit = 4
+	#How much food is used per block mined, this is in addition to default Minecraft values [-100000.0..100000.0|default:0]
+	#Range: -100000.0 ~ 100000.0
+	FoodStart = 0.05
+	#Distance around the broken block to search [1..100|default:1]
+	#Range: 1 ~ 100
+	SearchDistance = 1
+	#Where should we drop the harvested blocks [ON_START,IN_PLACE|default:ON_START]
+	#Allowed Values: IN_PLACE, ON_PLAYER, ON_START, ON_PLAYER_TOTAL, ON_START_TOTAL
+	DropMode = "ON_START"
+
+[BlockList]
+	#If the list is a white or blacklsit [WHITELIST,BLACKLISTdefault:BLACKLIST]
+	#Allowed Values: BLACKLIST, WHITELIST
+	Mode = "BLACKLIST"
+	#List Enabled [default:false]
+	Enable = true
+	#List of blocks [default:[]]
+	List = ["minecraft:dirt", "minecraft:grass_block", "minecraft:stone", "minecraft:diorite", "minecraft:granite", "minecraft:andesite"]
+
+[ToolList]
+	#If the list is a white or blacklsit [WHITELIST,BLACKLISTdefault:BLACKLIST]
+	#Allowed Values: BLACKLIST, WHITELIST
+	Mode = "BLACKLIST"
+	#List Enabled [default:false]
+	Enable = false
+	#List of tools, note that an empty hand is minecraft:air [default:[]]
+	List = []
+
+[LinkList]
+	#List Enabled [default:true]
+	Enable = false
+	#List of blocks [default:[]]
+	List = []
+
