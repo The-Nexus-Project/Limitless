@@ -22,7 +22,7 @@
 	ToolMode = "START"
 	#How many blocks are attempted each second [1..1000|default:100]
 	#Range: 1 ~ 1000
-	BreakLimit = 100
+	BreakLimit = 50
 	#Is the player required to have XP before mining is allowed [default:false]
 	XpNeeded = false
 	#Is the player requiered to have food before mining is allowed [default:true]
@@ -35,10 +35,10 @@
 	FoodIncrease = 0.1
 	#Sets the block or distance limit [0..10000000|default:50]
 	#Range: 0 ~ 10000000
-	Limit = 4
+	Limit = 7
 	#How much food is used per block mined, this is in addition to default Minecraft values [-100000.0..100000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodStart = 0.05
+	FoodStart = 0.08
 	#Distance around the broken block to search [1..100|default:1]
 	#Range: 1 ~ 100
 	SearchDistance = 1
@@ -53,7 +53,7 @@
 	#List Enabled [default:false]
 	Enable = true
 	#List of blocks [default:[]]
-	List = ["minecraft:dirt", "minecraft:grass_block", "minecraft:stone", "minecraft:diorite", "minecraft:granite", "minecraft:andesite"]
+	List = ["minecraft:dirt", "minecraft:grass_block", "minecraft:stone", "minecraft:diorite", "minecraft:granite", "minecraft:andesite", "minecraft:sand", "minecraft:red_sand"]
 
 [ToolList]
 	#If the list is a white or blacklsit [WHITELIST,BLACKLISTdefault:BLACKLIST]
