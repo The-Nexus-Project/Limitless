@@ -32,13 +32,13 @@
 	LimitMode = "DISTANCE"
 	#How much food use is increased per block [-10000.0..10000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodIncrease = 0.05
+	FoodIncrease = 0.03
 	#Sets the block or distance limit [0..10000000|default:50]
 	#Range: 0 ~ 10000000
 	Limit = 7
 	#How much food is used per block mined, this is in addition to default Minecraft values [-100000.0..100000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodStart = 0.05
+	FoodStart = 0.01
 	#Distance around the broken block to search [1..100|default:1]
 	#Range: 1 ~ 100
 	SearchDistance = 1
@@ -60,9 +60,9 @@
 	#Allowed Values: BLACKLIST, WHITELIST
 	Mode = "BLACKLIST"
 	#List Enabled [default:false]
-	Enable = false
+	Enable = true
 	#List of tools, note that an empty hand is minecraft:air [default:[]]
-	List = []
+	List = ["minecraft:air"]
 
 [LinkList]
 	#List Enabled [default:true]
