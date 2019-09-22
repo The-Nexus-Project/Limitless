@@ -8,7 +8,7 @@
 	XpIncrease = 0.001
 	#The amount of durability that should remain on a tool in DAMAGE mode [0..1000|default:2]
 	#Range: 0 ~ 1000
-	RemainingDurability = 1
+	RemainingDurability = 2
 	#Enables/Disables the whole Mod [false/true|default:true]
 	enableMod = true
 	#How should blocks be linked together by default [REGISTRY|default:REGISTRY]
@@ -32,13 +32,13 @@
 	LimitMode = "DISTANCE"
 	#How much food use is increased per block [-10000.0..10000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodIncrease = 0.1
+	FoodIncrease = 0.05
 	#Sets the block or distance limit [0..10000000|default:50]
 	#Range: 0 ~ 10000000
 	Limit = 7
 	#How much food is used per block mined, this is in addition to default Minecraft values [-100000.0..100000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodStart = 0.08
+	FoodStart = 0.05
 	#Distance around the broken block to search [1..100|default:1]
 	#Range: 1 ~ 100
 	SearchDistance = 1
@@ -53,7 +53,7 @@
 	#List Enabled [default:false]
 	Enable = true
 	#List of blocks [default:[]]
-	List = ["minecraft:dirt", "minecraft:grass_block", "minecraft:stone", "minecraft:diorite", "minecraft:granite", "minecraft:andesite", "minecraft:sand", "minecraft:red_sand"]
+	List = ["minecraft:dirt", "minecraft:grass_block", "minecraft:stone", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone"]
 
 [ToolList]
 	#If the list is a white or blacklsit [WHITELIST,BLACKLISTdefault:BLACKLIST]
