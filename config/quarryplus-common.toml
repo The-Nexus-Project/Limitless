@@ -1,6 +1,8 @@
 
 #Beginning of QuarryPlus configuration.
 [common]
+	#True to enable RS control of machines.
+	EnableRSControl = false
 	#True to allow machines to remove bedrock. (Just removing. Not collecting)
 	RemoveBedrock = false
 	#True to enable ChunkDestroyer to collect bedrock as item.
