@@ -13,7 +13,7 @@ silverwoodTreeGeneration = true
 #Generate Ender Ore in the world [true / false ]
 enderOreGeneration = true
 #Generate Limestone in the world [true / false ]
-limestoneGeneration = true
+limestoneGeneration = false
 #Generate Blueberry Bushes in the world [true / false ]
 blueberryBushGeneration = true
 #Generate Glorium Ore in the world [true / false ]

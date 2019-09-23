@@ -11,7 +11,7 @@ gen_ice = true
 #Generate cabins
 gen_cabins = true
 #Generate alternate stones
-gen_stones = true
+gen_stones = false
 #Mosses spawn rate (min=1 ; max=50 ; default=16)
 #Range: 1 ~ 50
 mosses_spawnrate = 16
@@ -39,7 +39,7 @@ limestone_spawnrate = 1
 ice_spawnrate = 6
 #Lavastone patches spawn rate (min=1 ; max=50 ; default=6)
 #Range: 1 ~ 50
-lavastone_spawnrate = 6
+lavastone_spawnrate = 1
 #Dungeons spawn rate (min=1 ; max=20 ; default=3)
 #Range: 1 ~ 20
 dungeons_spawnrate = 3
