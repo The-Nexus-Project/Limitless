@@ -25,12 +25,12 @@
 	enableFpsReducer = true
 	#Waiting time(sec) until reducing FPS.
 	#Range: 0 ~ 86400
-	waitingTime = 300
+	waitingTime = 90
 	#HUD scale (default: 1.0)
 	#Range: 0.1 ~ 2.0
 	hudScale = 1.0
 	#Force reducing FPS if the window is inactive.
-	reducingInBackground = false
+	reducingInBackground = true
 	#Suppression master volume ratio in inactive (0-100).
 	#Range: 0 ~ 100
 	suppressedVolume = 10
