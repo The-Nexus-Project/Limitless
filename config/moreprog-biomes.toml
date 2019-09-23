@@ -1,5 +1,5 @@
 #Generate Dust Wastelands in the world [true / false ]
-dustWastelandGeneration = true
+dustWastelandGeneration = false
 #Generate Mystical Forests in the world [true / false]
 mysticalForestGeneration = true
 #Generate Corrupted Forests in the world [true / false ]
