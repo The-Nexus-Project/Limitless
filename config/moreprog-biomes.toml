@@ -5,7 +5,7 @@ mysticalForestGeneration = true
 #Generate Corrupted Forests in the world [true / false ]
 corruptedForestGeneration = false
 #Generate Terracotta Plains in the world [true / false ]
-terracottaPlainsGeneration = true
+terracottaPlainsGeneration = false
 #Generate Fields in the world [true / false]
 fieldGeneration = true
 
