@@ -11,4 +11,4 @@ footsteps:true
 flowers:true
 compression:false
 coordinates:true
-globalVersion:5
+globalVersion:7
