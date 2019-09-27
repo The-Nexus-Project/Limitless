@@ -27,3 +27,10 @@
 	#Range: 1 ~ 32
 	rockroot_size = 3
 
+[droprate]
+	#Rate of hemp seed drops from grass blocks.
+	#Range: 0 ~ 100
+	hemp_seed_rate = 8
+	#Whether to have seeds from this mod drop from grass at all.
+	drop_seeds = true
+
