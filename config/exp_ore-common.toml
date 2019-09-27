@@ -2,7 +2,7 @@
 [general]
 	#Defines maximum exp that the ore can drop
 	#Range: 1 ~ 300000
-	maximum_exp_from_ore = 350
+	maximum_exp_from_ore = 200
 	#Defines how small (minimally) can be one vein
 	#Range: 1 ~ 10
 	minimum_vein_size = 2
@@ -16,7 +16,7 @@
 	veins_per_chunk = 3
 	#Defines minimum exp that the ore can drop
 	#Range: 1 ~ 100000
-	minimum_exp_from_ore = 150
+	minimum_exp_from_ore = 125
 	#Defines max height that the ore can generate at
 	#Range: 8 ~ 255
 	maximum_ore_height = 65
