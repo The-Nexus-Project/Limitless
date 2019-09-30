@@ -1,8 +1,30 @@
 
 #Config File of the Super Tools mod.
 [SuperTools]
+	#Enable that the Super Tools drop Blocks in Creative Mode(Default: false)
+	creative_block_drops = false
 	#Enable Super Tools(Not the mod) (Default: true)
 	supertools = true
+
+	[SuperTools."Armor Effects"]
+		#Enable the Armor Potion Effects (Default: true)
+		armor_potion_effects = true
+
+		[SuperTools."Armor Effects"."Obsidian Effetcs"]
+			#Enable the Obsidian Armor Potion Effects (Default: true)
+			obsidian_armor_potion_effects = true
+
+			[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1"]
+				#Enable the Obsidian Armor Potion Effects when you have only 1 piece or more pieces (Default: true)
+				obsidian_armor_potion_effects_level1 = true
+
+				[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1".Level2]
+					#Enable the Armor Status Effects when you have every piece(Default: true)
+					obsidian_armor_potion_effects_level2 = true
+
+		[SuperTools."Armor Effects"."Quartz Effects"]
+			#Enable the Quartz Armor Potion Effects (Default: true)
+			quartz_armor_potion_effects = true
 
 	[SuperTools.Durabilities]
 		#Super Tools durabilty (Default: 1561)

@@ -101,6 +101,26 @@
 		#Range: 1 ~ 50
 		guardian_enchantability = 1
 
+	[Armor."Bee Armor"]
+		#Bee Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bee_chestdefense = 3
+		#Bee Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bee_bootsdefense = 1
+		#Bee Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bee_legsdefense = 3
+		#Bee Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bee_helmDefense = 1
+		#Bee Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bee_enchantability = 1
+		#Bee Durability Value (Default: 5).
+		#Range: 1 ~ 50
+		bee_durabilityValue = 9
+
 	#Note for Durability Value in Armor. Vanilla values are; Leather:5, Gold:7, Iron:15, Turtle:25, Diamond:33
 	[Armor."Bone Armor"]
 		#Bone Enchantability Value (Default: 15).
@@ -225,6 +245,23 @@
 #Attack damage is based off the pickaxe. Shovels will deal .5 damage more, Swords will deal 2 damage more, axes 5 damage more. Harvest level is simple. 0 is wood, 1 is stone, 2 is iron, and 3 is diamond. Nothing vanilla goes past 3. Efficiancy is how fast a thing mines. 2 is wood, 4 is stone, 6 is iron, 8 is diamond.
 [Tools]
 
+	[Tools."Shulkers Tools"]
+		#Shulker Tools Attack Damage (Default: 3).
+		#Range: 1.0 ~ 10.0
+		shulker_tool_attackDamage = 3.0
+		#Shulker Tools Durability (Default: 1024).
+		#Range: 1 ~ 50000
+		shulker_tool_durability = 1024
+		#Shulker Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 10
+		shulker_tool_harvestLevel = 3
+		#Shulker Tools Efficiency (Default: 3.5).
+		#Range: 1.0 ~ 50.0
+		shulker_tool_efficiency = 3.5
+		#Shulker Tools Enchantability (Default: 25).
+		#Range: 1 ~ 50
+		shulker_tool_enchantability = 30
+
 	[Tools."Shell Tools"]
 		#Shell Tools Enchantability (Default: 25).
 		#Range: 1 ~ 50
@@ -309,4 +346,10 @@
 		#Bone Tools Attack Damage (Default: 2).
 		#Range: 1.0 ~ 10.0
 		bone_tool_attackDamage = 2.0
+
+[Foods]
+	#Should Bear Flanks exist? (Default: True)
+	bearFlank_true = true
+	#Should Calamari exist? (Default: True)
+	calamari_true = true
 
