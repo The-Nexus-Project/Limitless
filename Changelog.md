@@ -8,11 +8,11 @@
 - Tea and Biscuits
 - Quirky Generators
 - Polys Ores
-- Explorecraft
 - Better Signs
 - Wyrmroost
 - Better Muffling
 - Berry Bushes
+- Nethercraft Classic
 
 **Removed**
 
