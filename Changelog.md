@@ -13,7 +13,6 @@
 - Better Muffling
 - Berry Bushes
 - Nethercraft Classic
-- Extra Boats
 
 **Removed**
 
