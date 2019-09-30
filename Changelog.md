@@ -6,7 +6,6 @@
 - No Default Auto Jump
 - The Last Supper
 - Tea and Biscuits
-- Quirky Generators
 - Polys Ores
 - Better Signs
 - Wyrmroost
