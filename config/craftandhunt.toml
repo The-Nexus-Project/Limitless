@@ -45,7 +45,7 @@
 		#Wither Boots Defense Value (Default: 3).
 		#Range: 1 ~ 50
 		wither_bootsdefense = 3
-		#Wither Durability Value (Default: 25).
+		#Wither Durability Value (Default: 10).
 		#Range: 1 ~ 50
 		wither_durabilityValue = 25
 		#Wither Chest Defense Value (Default: 7).
@@ -62,13 +62,13 @@
 		wither_helmDefense = 5
 
 	[Armor."Magma Armor"]
-		#Magma Legs Defense Value (Default: 4).
+		#Magma Legs Defense Value (Default: 5).
 		#Range: 1 ~ 50
 		blaze_legsdefense = 4
 		#Magma Chest Defense Value (Default: 5).
 		#Range: 1 ~ 50
 		blaze_chestdefense = 5
-		#Magma Boots Defense Value (Default: 1).
+		#Magma Boots Defense Value (Default: 2).
 		#Range: 1 ~ 50
 		blaze_bootsdefense = 1
 		#Magma Helm Defense Value (Default: 2).
@@ -77,7 +77,7 @@
 		#Magma Enchantability Value (Default: 24).
 		#Range: 1 ~ 50
 		blaze_enchantability = 24
-		#Magma Durability Value (Default: 20).
+		#Magma Durability Value (Default: 24).
 		#Range: 1 ~ 50
 		blaze_durabilityValue = 20
 
@@ -102,22 +102,22 @@
 		guardian_enchantability = 1
 
 	[Armor."Bee Armor"]
-		#Bee Chest Defense Value (Default: 2).
+		#Bee Chest Defense Value (Default: 4).
 		#Range: 1 ~ 50
 		bee_chestdefense = 3
 		#Bee Boots Defense Value (Default: 1).
 		#Range: 1 ~ 50
 		bee_bootsdefense = 1
-		#Bee Legs Defense Value (Default: 2).
+		#Bee Legs Defense Value (Default: 3).
 		#Range: 1 ~ 50
 		bee_legsdefense = 3
 		#Bee Helm Defense Value (Default: 1).
 		#Range: 1 ~ 50
 		bee_helmDefense = 1
-		#Bee Enchantability Value (Default: 15).
+		#Bee Enchantability Value (Default: 16).
 		#Range: 1 ~ 50
 		bee_enchantability = 1
-		#Bee Durability Value (Default: 5).
+		#Bee Durability Value (Default: 9).
 		#Range: 1 ~ 50
 		bee_durabilityValue = 9
 

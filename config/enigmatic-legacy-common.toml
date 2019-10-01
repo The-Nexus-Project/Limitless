@@ -47,6 +47,8 @@
 	superMagnetRingEnabled = true
 	#Whether or not Extrapolated Megasponge should be enabled.
 	megaSpongeEnabled = true
+	#Whether or not Etherium Ore should generate among dungeon loot.
+	etheriumOreEnabled = true
 	#Whether or not Will of the Ocean should be enabled.
 	oceanStoneEnabled = true
 	#Whether or not Angel's Blessing should be enabled.
