@@ -23,6 +23,6 @@
 - Every mod with an update (Will have a better system to print updated mods soon)
 
 **Server Files**
-- You can download Server Files [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless).
+- You can download Server Files [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless/files/2799416).
 
 <h1>v1.00
