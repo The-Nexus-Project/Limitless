@@ -14,7 +14,7 @@ tankbarAlternateFilledColor = "ff000043"
 #Range: 0 ~ 2
 showTank = 1
 #If true there will be a readme note for first-time players
-spawnNote = true
+spawnNote = false
 #A list of blocks for which we don't show chest contents automatically except if sneaking
 dontShowContentsUnlessSneaking = []
 #Format for displaying RF
