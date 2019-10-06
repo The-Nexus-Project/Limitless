@@ -7,7 +7,7 @@
 		#Set 'true' to enable development debug mode. This will result in a lower performance!
 		debug = false
 		#If the version checker should be enabled.
-		versionChecker = true
+		versionChecker = false
 		#If the recipe loader should crash when finding invalid recipes.
 		crashOnInvalidRecipe = false
 		#If mod compatibility loader should crash hard if errors occur in that process.
@@ -29,9 +29,9 @@
 		#If the magnetize ability should move xp.
 		magnetizeMoveXp = true
 		#1/x chance for mobs to have abilities.
-		mobAbilityChance = 50
+		mobAbilityChance = 10
 		#The multiplier for ability XP requirement
-		abilityXpMultiplier = 10
+		abilityXpMultiplier = 16
 		#The maximum rarity of totems to spawn when a player first logs in. [0-3], -1 disables totem spawning.
 		totemMaximumSpawnRarity = 1
 		#How many abilities should be dropped on player death.
