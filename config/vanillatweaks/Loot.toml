@@ -1,0 +1,11 @@
+
+#Mob Drops
+[Loot]
+	#Range: 0.0 ~ 10.0
+	batLeatherDropChance = 1.0
+	#The chance of creepers dropping TNT, out of 10.
+	#Range: 0.0 ~ 10.0
+	creeperDropTntChance = 1.0
+	#Does a nametag drop when named mob dies?
+	namedMobsDropNameTag = true
+

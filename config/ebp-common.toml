@@ -1,0 +1,6 @@
+
+[General]
+	#The duration in seconds of the strength effect when a player eats some blaze powder.
+	#Range: 1 ~ 3600
+	strengthDurationSeconds = 15
+

@@ -1,0 +1,6 @@
+
+[General]
+	#The duration in seconds of the fire resistance effect when a player eats some magma cream.
+	#Range: 1 ~ 3600
+	fireResistanceDurationSeconds = 15
+
