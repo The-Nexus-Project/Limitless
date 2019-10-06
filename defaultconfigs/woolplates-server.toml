@@ -1,0 +1,3 @@
+#true if the wool pressure plates should play a sound when stepped on/off, false otherwhise
+enable_sound = false
+
