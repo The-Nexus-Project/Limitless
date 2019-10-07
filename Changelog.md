@@ -36,12 +36,11 @@
 
 **Changed**
 - Disabled readme note on World-Spawn. (The One Probe) 
-- Hearts per milestone, 2 to 1. (The One Probe) 
+- Hearts per milestone, 2 to 1. (Spice of Life Carrot) 
 
 
 **Removed**
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-- [Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system)
 - [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - [Everlasting Abilities](https://www.curseforge.com/minecraft/mc-mods/everlastingabilities)
 - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) (A requirement for EA^)
@@ -57,7 +56,7 @@
 
 
 **Server Files**
-- You can download Server Files on our CurseForge page [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless). (Server-Packs on the left side)
+- You can download Server Files on our CurseForge page [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless). (Server-Packs on the right side)
 
 
 
