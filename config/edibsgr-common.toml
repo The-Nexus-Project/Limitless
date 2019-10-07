@@ -1,0 +1,14 @@
+
+[General]
+	#The maximum amount of sugar a player can eat before receiving the weakness effect.
+	#Range: 0 ~ 1280
+	maxSugarPerDay = 5
+	#The duration in seconds of the speed effect when a player eats some sugar.
+	#Range: 1 ~ 3600
+	speedDurationSeconds = 15
+	#The duration of the weakness effect in seconds when eating too much sugar.
+	#Range: 1 ~ 3600
+	weaknessDurationSeconds = 60
+	#When enabled, gives the player a negative effect after eating more sugar in a day defined in 'maxSugarPerDay'.
+	enableNegativeEffect = true
+
