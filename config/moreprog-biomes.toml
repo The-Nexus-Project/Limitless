@@ -8,4 +8,6 @@ corruptedForestGeneration = false
 terracottaPlainsGeneration = false
 #Generate Fields in the world [true / false]
 fieldGeneration = true
+#Generate Nether Groves in the Nether [true / false]
+netherGroveGeneration = false
 
