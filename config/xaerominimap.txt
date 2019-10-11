@@ -1,8 +1,9 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:210
+ignoreUpdate:211
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
+differentiateByServerAddress:true
 #INGAME SETTINGS (DO NOT EDIT!)
 minimap:true
 caveMaps:1

@@ -57,3 +57,13 @@
 	#Range: 1 ~ 256
 	DarkRunestoneMinHeight = 1
 
+[worldgen]
+	#Generate Edelwood Trees
+	generateEdelwood = true
+	#Generate Cherrywood Trees
+	generateCherrywood = true
+	#Generate Mysterywood Trees
+	generateMysterywood = true
+	#Generate Yellow Orchid
+	generateYellowOrchid = true
+

@@ -12,10 +12,14 @@ tritaniumOreGeneration = true
 silverwoodTreeGeneration = true
 #Generate Ender Ore in the world [true / false ]
 enderOreGeneration = true
+#Generate Cactus Berry Bushes in the world [true / false ]
+cactusBerryBushGeneration = true
 #Generate Limestone in the world [true / false ]
 limestoneGeneration = false
 #Generate Blueberry Bushes in the world [true / false ]
 blueberryBushGeneration = true
+#Generate Nether Berry Bushes in the world [true / false ]
+netherBerryBushGeneration = true
 #Generate Glorium Ore in the world [true / false ]
 gloriumOreGeneration = true
 

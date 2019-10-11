@@ -2,15 +2,15 @@
 #Server and Client side changes.
 [common]
 	#Obsidian Spire rarity (higher number = lower spawnrate)
-	obsidianSpireSpawnRate = 5
+	obsidianSpireSpawnRate = 3
 	#Elder Farlander house rarity (higher number = lower spawnrate)
 	elderHouseSpawnRate = 8
 	#Small Farlander house rarity (higher number = lower spawnrate)
-	smallHouseSpawnRate = 5
+	smallHouseSpawnRate = 4
 	#Medium Farlander house rarity (higher number = lower spawnrate)
-	mediumHouseSpawnRate = 6
+	mediumHouseSpawnRate = 5
 	#Large Farlander house rarity (higher number = lower spawnrate)
 	largeHouseSpawnRate = 7
 	#Farlander Loot Well rarity (higher number = lower spawnrate)
-	farlanderLootWellSpawnRate = 12
+	farlanderLootWellSpawnRate = 15
 
