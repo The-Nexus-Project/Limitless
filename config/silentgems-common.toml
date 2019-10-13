@@ -44,6 +44,10 @@
 				#Default: 0 if Silent's Mechanisms is installed when config is created, 2 otherwise
 				veinCount = 0
 
+		[world.generation.plants]
+			#Generate wild fluffy puff plants. If disabled, you will need to add some other way to obtain fluffy puff seeds.
+			wildFluffyPuffs = true
+
 		[world.generation.end]
 
 			[world.generation.end.gems]
