@@ -11,6 +11,8 @@
 	#Visible size of the Universal Clock.
 	#Range: -32768.0 ~ 32768.0
 	clockHudScale = 1.0
+	#Whether or not Universal Clock should be displayed only when in fullscreen mode.
+	clockHudOnlyInFullscreen = false
 	#Whether or not Universal Clock should be hidden when chat screen is opened.
 	clockHudHideInChat = true
 	#Position of Universal Clock on Y axis of the screen.
