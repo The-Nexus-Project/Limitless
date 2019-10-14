@@ -6,46 +6,46 @@
 	[oregen.Copper_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 6
-		#Number of veins per chunk (set to 0 to disable).
-		#Range: 0 ~ 256
-		minY = 32
-		#Number of veins per chunk (set to 0 to disable).
-		#Range: 0 ~ 256
-		maxY = 76
-		#Max size of the vein.
-		#Range: 1 ~ 256
-		veinSize = 12
-
-	#Silver ore generation.
-	[oregen.Silver_oregen]
-		#Number of veins per chunk (set to 0 to disable).
-		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 24
+		maxY = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 8
+		veinSize = 1
+
+	#Silver ore generation.
+	[oregen.Silver_oregen]
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		oreChances = 0
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		minY = 0
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		maxY = 0
+		#Max size of the vein.
+		#Range: 1 ~ 256
+		veinSize = 1
 
 	#Lead ore generation.
 	[oregen.Lead_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		minY = 8
+		minY = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 32
+		maxY = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 8
+		veinSize = 1
 
 	#Quicksilver ore generation.
 	[oregen.Quicksilver_oregen]
@@ -60,34 +60,34 @@
 		maxY = 16
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 4
+		veinSize = 1
 
 	#Amethyst ore generation.
 	[oregen.Amethyst_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 2
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 24
+		maxY = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 4
+		veinSize = 1
 
 	#Tin ore generation.
 	[oregen.Tin_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 6
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
-		#Range: 0 ~ 256
+		#Range: 0 ~ 0
 		minY = 24
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 64
+		maxY = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
