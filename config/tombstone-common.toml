@@ -147,30 +147,32 @@
 
 #Allows to disable some magic items
 [allowedMagicItems]
-	#Allow Scroll of Preservation [false/true|default:true]
-	allow_scroll_of_preservation = true
 	#Allow Book of Disenchantment [false/true|default:true]
 	allow_book_of_disenchantment = true
 	#Allow Scroll of Feather Fall [false/true|default:true]
 	allow_scroll_of_feather_fall = true
-	#Allow Tablet of Recall [false/true|default:true]
-	allow_tablet_of_recall = true
 	#Allow Voodoo Poppet [false/true|default:true]
 	allow_voodoo_poppet = true
+	#Allow Scroll of Unstable Intangibleness [false/true|default:true]
+	allow_scroll_of_unstable_intangibleness = true
+	#Allow Scroll of Purification [false/true|default:true]
+	allow_scroll_of_purification = true
+	#Allow Scroll of Reach [false/true|default:true]
+	allow_scroll_of_reach = true
+	#Allow Scroll of Preservation [false/true|default:true]
+	allow_scroll_of_preservation = true
+	#Allow Tablet of Recall [false/true|default:true]
+	allow_tablet_of_recall = true
 	#Allow Scroll of Knowledge [false/true|default:true]
 	allow_scroll_of_knowledge = true
 	#Allow Tablet of Assistance [false/true|default:true]
 	allow_tablet_of_assistance = true
 	#Allow Grave's Key [false/true|default:true]
 	allow_grave_key = true
-	#Allow Scroll of Unstable Intangibleness [false/true|default:true]
-	allow_scroll_of_unstable_intangibleness = true
 	#Allow Scroll of True Sight [false/true|default:true]
 	allow_scroll_of_true_sight = true
 	#Allow Lost Tablet [false/true|default:true]
 	allow_lost_tablet = true
-	#Allow Scroll of Purification [false/true|default:true]
-	allow_scroll_of_purification = true
 
 #Allows to change the chance to drop some items
 [loot]
