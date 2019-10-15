@@ -42,6 +42,8 @@
 - [Light Overlay Reloaded](https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded)
 - [Skeleton Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)
 - [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
+- [Minecolonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+- [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 
 **Changed**
 - Lowered the spawnrate of Farlander Houses.
