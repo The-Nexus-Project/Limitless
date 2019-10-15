@@ -83,7 +83,7 @@
 		#Range: 0 ~ 256
 		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
-		#Range: 0 ~ 0
+		#Range: 0 ~ 256
 		minY = 24
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
