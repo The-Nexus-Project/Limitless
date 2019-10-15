@@ -13,7 +13,6 @@
 - [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 - [Refined Relocation](https://www.curseforge.com/minecraft/mc-mods/refined-relocation-2)
 - [Extra Bows](https://www.curseforge.com/minecraft/mc-mods/extra-bows)
-- [Skeleton Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)
 - [Easy Elytra Takeoff](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)
 - [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)
 - [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
