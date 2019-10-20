@@ -1,9 +1,0 @@
-
-[general]
-	#The item used as a catalyst to create the last supper
-	catalystItem = "minecraft:diamond"
-	#The items used as ingredients for the last supper
-	ingredients = ["minecraft:chorus_fruit", "minecraft:golden_apple", "minecraft:rabbit_stew", "minecraft:mushroom_stew", "minecraft:beetroot_soup", "minecraft:suspicious_stew", "minecraft:cooked_porkchop", "minecraft:cooked_beef", "minecraft:cooked_mutton", "minecraft:cooked_chicken", "minecraft:cooked_salmon", "minecraft:cooked_cod", "minecraft:cooked_rabbit", "minecraft:spider_eye", "minecraft:bread", "minecraft:baked_potato", "minecraft:golden_carrot", "minecraft:dried_kelp", "minecraft:melon_slice", "minecraft:pumpkin_pie", "minecraft:cookie", "minecraft:cake", "minecraft:milk_bucket", "minecraft:pufferfish", "minecraft:sweet_berries", "minecraft:dried_kelp"]
-	#If true, the last supper will also provide infinite saturation as well as hunger
-	enableInfiniteSaturation = false
-
