@@ -34,7 +34,7 @@
 	allow_special_regen = true
 	#Chance to get Halloween Sticks during this event [0..1000|default:10]
 	#Range: 0 ~ 1000
-	chance_drop_pumpkin_stick = 10
+	chance_drop_pumpkin_stick = 2
 	#Allow flying in water [false/true|default:true]
 	allow_to_fly_in_water = true
 	#Defines the loottables having a chance to contain a Phial of Animation
