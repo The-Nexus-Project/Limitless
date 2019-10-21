@@ -12,7 +12,7 @@
 	use_spell = true
 	#Percent chance for a villager to successfully summon an Extra Golems golem
 	#Range: 0 ~ 100
-	villager_summon_chance = 16
+	villager_summon_chance = 0
 
 [golem_coal]
 	#Disables in-world building of the golem.
