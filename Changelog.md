@@ -1,3 +1,47 @@
+<h1>v1.04</h1>
+
+**Added**
++ [Endergetic](https://www.curseforge.com/minecraft/mc-mods/endergetic)
++ [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
++ [Hidden Levers](https://www.curseforge.com/minecraft/mc-mods/hidden-levers)
++ [Simply Trophies](https://www.curseforge.com/minecraft/mc-mods/simply-trophies)
++ [Flopper](https://www.curseforge.com/minecraft/mc-mods/flopper)
++ [Illagers+](https://www.curseforge.com/minecraft/mc-mods/illagers)
++ [Bountiful Baubles](https://www.curseforge.com/minecraft/mc-mods/bountifulbaubles)
++ [Persistent Bits Chunkload](https://www.curseforge.com/minecraft/mc-mods/persistent-bits)
++ [Thermal Solars](https://www.curseforge.com/minecraft/mc-mods/thermal-solars)
++ [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
++ [Double Door](https://www.curseforge.com/minecraft/mc-mods/double-doors)
++ [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
++ [Chunk Claim](https://www.curseforge.com/minecraft/mc-mods/chunk-claim)
++ [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
++ [Quantum Storage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
++ [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)
++ [Title Changer](https://www.curseforge.com/minecraft/mc-mods/title-changer)
++ [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch)
++ [Colytra](https://www.curseforge.com/minecraft/mc-mods/colytra)
+
+**Removed**
+- [Wild Netherwart](https://www.curseforge.com/minecraft/mc-mods/wild-netherwart)
+- [Extra Enrichments](https://www.curseforge.com/minecraft/mc-mods/extra-enrichments) (To be re-added if fixed later.)
+
+
+**Changed**
+✎ Lowered the Summon % of Golem spawning from 90 > 0. (Temporarily till' fixed.)
+✎ Infernals no longer spawn from Mob Spawners.
+✎ Lowered Chance of 'Halloween Stick' dropping.
+✎ Titlescreen updates.
+
+
+**Fixed**
+~ Not being able to hurt Mobs while on fire. (i hope.)
+
+
+**Updated**
+~ Every mod with an update available.
+~ Forge to version 28.1.61!
+
+
 <h1>v1.03</h1>
 
 **NOTE**
@@ -45,17 +89,17 @@
 - [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 
 **Changed**
-- Lowered the spawnrate of Farlander Houses.
-- Disabled Beta Reminder message from Silent's Mechanics.
-- Disabled EnigmaticLegacy Clock-HUD.
+✎ Lowered the spawnrate of Farlander Houses.
+✎ Disabled Beta Reminder message from Silent's Mechanics.
+✎ Disabled EnigmaticLegacy Clock-HUD.
 
 **Fixed**
-- Dungeon Loottables not generating.
-- Ruins Structures not generating.
+~ Dungeon Loottables not generating.
+~ Ruins Structures not generating.
 
 **Updated**
-- Every mod with an update available.
-- Forge to version 28.1.44!
+~ Every mod with an update available.
+~ Forge to version 28.1.44!
 
 
 <h1>v1.02.1</h1>
@@ -64,10 +108,10 @@
 - [Adventure Tools](https://www.curseforge.com/minecraft/mc-mods/adventure-tools)
 
 **Updated**
-- Every mod with an update.
+~ Every mod with an update.
 
 **NOTE**
-- Adventure Tools is removed temporarily to fix Server Issues.
+~ Adventure Tools is removed temporarily to fix Server Issues.
 
 
 
@@ -108,8 +152,8 @@
 
 
 **Changed**
-- Disabled readme note on World-Spawn. (The One Probe) 
-- Hearts per milestone, 2 to 1. (Spice of Life Carrot) 
+✎ Disabled readme note on World-Spawn. (The One Probe) 
+✎ Hearts per milestone, 2 to 1. (Spice of Life Carrot) 
 
 
 **Removed**
@@ -120,12 +164,12 @@
 - [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) (Added in Vanilla Tweaks)
 
 **Fixed**
-- An EnigmaticLegacy ore that dropped experience would make the & client & server crash.
-- Other minor bugs.
+~ An EnigmaticLegacy ore that dropped experience would make the & client & server crash.
+~ Other minor bugs.
 
 
 **Updated**
-- Every mod with an update.
+~ Every mod with an update.
 
 
 **Server Files**
@@ -151,11 +195,11 @@
 - None
 
 **Fixed**
-- Minor bugs.
+~ Minor bugs.
 
 **Updated**
-- Updated Forge to 28.1.20
-- Every mod with an update (Will have a better system to print updated mods soon)
+~ Updated Forge to 28.1.20
+~ Every mod with an update (Will have a better system to print updated mods soon)
 
 **Server Files**
 - You can download Server Files [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless/files/2799416).

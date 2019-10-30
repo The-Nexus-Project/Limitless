@@ -12,7 +12,9 @@
 #Run '/sfm reload componentGroups' after updating config
 [procedures]
 	EnableItemImport = true
+	EnableRedstoneTrigger = true
 	EnableItemExport = true
+	EnableRedstoneEmitter = true
 	EnableIntervalTrigger = true
 	EnableItemTransfer = true
 	EnableCrafting = true
