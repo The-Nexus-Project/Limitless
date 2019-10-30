@@ -9,6 +9,8 @@
 	#How long it should take to use the item
 	#Range: > 1
 	casttime = 100
+	#Allow to teleport across dimensions
+	allowCrossDimension = true
 	#Play sounds when using item
 	soundsEnabled = true
 
