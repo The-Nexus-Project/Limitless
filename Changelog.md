@@ -1,3 +1,21 @@
+<h1>v1.04a</h1>
+
+**Added**
+- None
+
+**Removed**
+- None
+
+**Changed**
+- None
+
+**Fixed**
+- Fixed Crash when joining world on a Server.
+
+**Updated**
+- 2 mods.
+
+
 <h1>v1.04</h1>
 
 **Added**
