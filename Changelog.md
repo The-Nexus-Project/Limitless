@@ -1,3 +1,21 @@
+<h1>v1.04b</h1>
+
+**Added**
+- None
+
+**Removed**
+- None
+
+**Changed**
+- ✎ Disabled Copper Ore-gen from TMechWorks.
+- ✎ Increased the max hearts you can gain from 5 to 50! (Can increase even more if needed.)
+
+**Fixed**
+- Fixed Crash when joining world on a Server, (another one).
+
+**Updated**
+- 1 mod.
+
 <h1>v1.04a</h1>
 
 **Added**
