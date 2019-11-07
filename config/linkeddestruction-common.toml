@@ -32,7 +32,7 @@
 	LimitMode = "DISTANCE"
 	#How much food use is increased per block [-10000.0..10000.0|default:0]
 	#Range: -100000.0 ~ 100000.0
-	FoodIncrease = 0.03
+	FoodIncrease = 0.01
 	#Sets the block or distance limit [0..10000000|default:50]
 	#Range: 0 ~ 10000000
 	Limit = 7
