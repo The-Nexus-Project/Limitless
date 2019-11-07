@@ -44,7 +44,7 @@
 	SearchDistance = 1
 	#Where should we drop the harvested blocks [ON_START,IN_PLACE|default:ON_START]
 	#Allowed Values: IN_PLACE, ON_PLAYER, ON_START, ON_PLAYER_TOTAL, ON_START_TOTAL
-	DropMode = "ON_START"
+	DropMode = "ON_PLAYER"
 
 [BlockList]
 	#If the list is a white or blacklsit [WHITELIST,BLACKLISTdefault:BLACKLIST]
