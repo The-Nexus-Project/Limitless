@@ -153,5 +153,6 @@
     "minecraft:thorns",
     "minecraft:projectile_protection"
   ],
-  "config_version": 0
+  "config_version": 0,
+  "dungeon_bosses": []
 }

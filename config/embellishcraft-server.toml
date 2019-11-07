@@ -1,7 +1,7 @@
 
 #Marble Generation
 [marble]
-	#Size of marble pockets [0-100, default: 25]
+	#Size of marble pockets [0-100, default: 20]
 	#Range: 0 ~ 100
 	marbleSize = 5
 	#Chances of marble pocket being generated [0-100, default: 10]
@@ -33,6 +33,40 @@
 	#Range: 0 ~ 100
 	basaltChance = 2
 
+#Larvikite Generation
+[larvikite]
+	#Chances of larvikite pocket being generated [0-100, default: 5]
+	#Range: 0 ~ 100
+	larvikiteChance = 10
+	#Minimal height for larvikite pocket generation, [0-255, default: 50]
+	#Range: 0 ~ 255
+	larvikiteMinHeight = 32
+	#Generate larvikite in the world [true / false]
+	larvikiteGeneration = true
+	#Size of larvikite pockets [0-100, default: 15]
+	#Range: 0 ~ 100
+	larvikiteSize = 20
+	#Maximal height for larvikite pocket generation [0-255, default: 100]
+	#Range: 0 ~ 255
+	larvikiteMaxHeight = 72
+
+#Jade Generation
+[jade]
+	#Chances of jade pocket being generated [0-100, default: 5]
+	#Range: 0 ~ 100
+	jadeChance = 5
+	#Maximal height for jade pocket generation [0-255, default: 100]
+	#Range: 0 ~ 255
+	jadeMaxHeight = 120
+	#Generate jade in the world [true / false]
+	jadeGeneration = true
+	#Minimal height for jade pocket generation, [0-255, default: 50]
+	#Range: 0 ~ 255
+	jadeMinHeight = 50
+	#Size of jade pockets [0-100, default: 15]
+	#Range: 0 ~ 100
+	jadeSize = 15
+
 #Gneiss Generation
 [gneiss]
 	#Chances of gneiss pocket being generated [0-100, default: 10]
@@ -46,7 +80,7 @@
 	#Maximal height for gneiss pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
 	gneissMaxHeight = 60
-	#Size of gneiss pockets [0-100, default: 25]
+	#Size of gneiss pockets [0-100, default: 33]
 	#Range: 0 ~ 100
 	gneissSize = 12
 

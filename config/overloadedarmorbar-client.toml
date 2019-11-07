@@ -1,7 +1,5 @@
 
 [general]
-	#offset armor?
-	offset = false
 	#Show empty armor icons?
 	"Show empty icons" = false
 	#Colors must be specified in #RRGGBB format

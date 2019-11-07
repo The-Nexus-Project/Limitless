@@ -1,0 +1,11 @@
+
+#Blacklist
+[blacklist]
+	#list of resourcelocations in string form
+	blacklist = [""]
+
+#Whitelist
+[whitelist]
+	#list of resourcelocations in string form
+	whitelist = [""]
+

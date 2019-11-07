@@ -19,3 +19,10 @@
 	EnableItemTransfer = true
 	EnableCrafting = true
 
+#Block property config options
+[blocks]
+	#Whether the redstone emitter block is considered a cable
+	IsRedstoneEmitterBlockCables = false
+	#Whether the redstone input block is considered a cable
+	IsRedstoneInputBlockCables = false
+

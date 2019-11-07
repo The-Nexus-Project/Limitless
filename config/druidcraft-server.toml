@@ -27,6 +27,11 @@
 	#Range: 1 ~ 32
 	rockroot_size = 3
 
+[toolcontrollers]
+	#Decides what blocks are allowed and not allowed to be affected by the sickle.
+	#Adding '+' to the start of the block will add it, and '-' will remove it.
+	sickle_block_list = []
+
 [droprate]
 	#Rate of hemp seed drops from grass blocks.
 	#Range: 0 ~ 100

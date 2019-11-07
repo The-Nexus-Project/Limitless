@@ -1,0 +1,72 @@
+
+#General settings
+[general]
+	#Accumulator range base (Modified by tier multiplier)
+	#Range: 1 ~ 128
+	accumulator_range = 4
+	#Maximum Endergy Storage
+	#Range: > 1
+	endergy_storage = 1000
+	#Multiplier for Ender tier.
+	#Range: 1 ~ 16
+	ender = 2
+	#Ender Porter range base (Modified by tier multiplier)
+	#Range: 10 ~ 128
+	porter_range = 25
+	#Agitator range base (Modified by tier multiplier)
+	#Range: 1 ~ 128
+	agitator_range = 4
+	#Multiplier for Empowered tier.
+	#Range: 1 ~ 16
+	empowered = 3
+	#Multiplier for Dull tier.
+	#Range: 1 ~ 16
+	dull = 1
+	#Multiplier for Extreme tier.
+	#Range: 1 ~ 16
+	extreme = 4
+
+#Ender Armor Settings
+[ender_armor]
+	#Range to teleport
+	#Range: 1 ~ 128
+	teleport_range = 32
+
+	#Attack Settings
+	[ender_armor.attack]
+		#Minimum number of pieces of Ender armor to cause a attack teleport.
+		#Set to 5 to never cause a attack teleport.
+		#Range: 1 ~ 5
+		ender = 3
+		#Minimum number of pieces of Empowered armor to cause a attack teleport.
+		#Set to 5 to never cause a attack teleport.
+		#Range: 1 ~ 5
+		empowered = 2
+		#Minimum number of pieces of Dull armor to cause a attack teleport.
+		#Set to 5 to never cause a attack teleport.
+		#Range: 1 ~ 5
+		dull = 4
+		#Minimum number of pieces of Extreme armor to cause a attack teleport.
+		#Set to 5 to never cause a attack teleport.
+		#Range: 1 ~ 5
+		extreme = 1
+
+	#Water Settings
+	[ender_armor.water]
+		#Minimum number of pieces of Ender armor to cause a water teleport.
+		#Set to 5 to never cause a water teleport.
+		#Range: 1 ~ 5
+		ender = 3
+		#Minimum number of pieces of Empowered armor to cause a water teleport.
+		#Set to 5 to never cause a water teleport.
+		#Range: 1 ~ 5
+		empowered = 4
+		#Minimum number of pieces of Dull armor to cause a water teleport.
+		#Set to 5 to never cause a water teleport.
+		#Range: 1 ~ 5
+		dull = 2
+		#Minimum number of pieces of Extreme armor to cause a water teleport.
+		#Set to 5 to never cause a water teleport.
+		#Range: 1 ~ 5
+		extreme = 5
+
