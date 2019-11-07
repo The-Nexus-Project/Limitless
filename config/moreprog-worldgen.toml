@@ -17,7 +17,7 @@ cactusBerryBushGeneration = true
 #Generate Limestone in the world [true / false ]
 limestoneGeneration = false
 #Generate Blueberry Bushes in the world [true / false ]
-blueberryBushGeneration = true
+blueberryBushGeneration = false
 #Generate Nether Berry Bushes in the world [true / false ]
 netherBerryBushGeneration = true
 #Generate Glorium Ore in the world [true / false ]
