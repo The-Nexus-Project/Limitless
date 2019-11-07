@@ -132,10 +132,10 @@
 [glowrose]
 	#The light level of free-standing glowroses [0 ~ 15]
 	#Requires a Minecraft restart
-	normalLight = 10
+	normalLight = 0
 	#The light level of glowroses planted in vanilla flower pots [0 ~ 15]
 	#Requires a Minecraft restart
-	pottedLight = 15
+	pottedLight = 0
 
 	[glowrose.world]
 		#The number of placement attempts when generating new chunks (higher numbers = bigger patches)
