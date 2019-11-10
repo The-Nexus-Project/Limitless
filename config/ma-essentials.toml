@@ -60,7 +60,7 @@
 
 	[Commands.kits]
 		#Enable command: /kit
-		enable = true
+		enable = false
 		starting_kit = false
 		starting_kit_name = "tools"
 
