@@ -1,3 +1,5 @@
+#allow horses to swim
+doHorsesSwim = true
 
 #Blacklist
 [blacklist]

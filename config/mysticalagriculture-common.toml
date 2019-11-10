@@ -7,6 +7,9 @@
 	#The amount of time in seconds between each Growth Accelerator growth tick.
 	#Range: > 1
 	growthAcceleratorCooldown = 10
+	#The percentage chance that harvesting a Resource Crop will drop a Fertilized Essence.
+	#Range: 0.0 ~ 1.0
+	fertilizedEssenceChance = 0.1
 	#The percentage chance that a passive or hostile mob will drop an Inferium Essence when killed.
 	#Range: 0.0 ~ 1.0
 	inferiumDropChance = 0.2

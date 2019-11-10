@@ -11,6 +11,7 @@
 	rightClickCraftsStack = true
 
 	[client.addons]
+		#State of this addon. Can be ENABLED, BUTTONS_ONLY, HOTKEYS_ONLY or DISABLED.
 		minecraft = "ENABLED"
 		#State of this addon. Can be ENABLED, BUTTONS_ONLY, HOTKEYS_ONLY or DISABLED.
 		refinedstorage = "ENABLED"
