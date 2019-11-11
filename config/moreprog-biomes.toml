@@ -1,13 +1,13 @@
 #Generate Dust Wastelands in the world [true / false ]
 dustWastelandGeneration = false
 #Generate Mystical Forests in the world [true / false]
-mysticalForestGeneration = true
+mysticalForestGeneration = false
 #Generate Corrupted Forests in the world [true / false ]
 corruptedForestGeneration = false
 #Generate Terracotta Plains in the world [true / false ]
 terracottaPlainsGeneration = false
 #Generate Fields in the world [true / false]
-fieldGeneration = true
+fieldGeneration = false
 #Generate Nether Groves in the Nether [true / false]
 netherGroveGeneration = false
 
