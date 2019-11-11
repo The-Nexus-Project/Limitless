@@ -37,6 +37,10 @@
 		cooldown = 30
 		command = true
 
+	[Commands.endc]
+		#Enable command: /endc
+		enable = true
+
 	[Commands.back]
 		#Range: > 0
 		delay = 5
@@ -63,6 +67,10 @@
 		enable = false
 		starting_kit = false
 		starting_kit_name = "tools"
+
+	[Commands.trash]
+		#Enable command: /trash
+		enable = true
 
 	[Commands.warps]
 		#Range: > 0
