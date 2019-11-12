@@ -1,3 +1,40 @@
+<h1>v1.05</h1>
+
+**Added**
++ [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
++ [Autoreg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
++ [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
++ [Cloud Boots](https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod)
++ [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
++ [Resourceful Tools](https://www.curseforge.com/minecraft/mc-mods/vanilla-plus-resourceful-tools)
++ [Snad](https://www.curseforge.com/minecraft/mc-mods/snad-back-to-the-past)
++ [Ender Enhancement](https://www.curseforge.com/minecraft/mc-mods/ender-enhancement)
++ [Cooking for Blockheads]https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
++ [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
++ [Longfall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
+
+**Removed**
+- [Double Door](https://www.curseforge.com/minecraft/mc-mods/double-doors) (In Quark now.)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) (To be re-added if errors are resolved.)
+- [Thermal Solars](https://www.curseforge.com/minecraft/mc-mods/thermal-solars) (Server Issues, re-added when solved.)
+- [Little Lumps](https://www.curseforge.com/minecraft/mc-mods/littlelumps) (Server Issues, re-added when solved.)
+
+**Changed**
+- ✎ Disabled the small light that emit from the Glowroses. (Silent's Gems) 
+- ✎ Changed the radius of the Regeneration effect around Campfires, from 16 to 4 blocks. (Healing Campfire)
+- ✎ Changed the duration of the Regeneration effect from Campfires, from 60s to 6s. (Healing Campfire)
+- ✎ Disabled Blueberry bushes world-gen. (More Progression)
+- ✎ Disabled Field & Mystical Forest biomes. (to be re-enabled when/if spawn % is toned down..) (More Progression) 
+
+**Fixed**
+- Duplicate Ores in worldgen, (again).
+- Minor stuff.
+
+**Updated**
+- Mods with updates available.
+- Forge to version 28.1.87!
+
+
 <h1>v1.04b</h1>
 
 **Added**
