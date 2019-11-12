@@ -9,7 +9,7 @@
 + [Resourceful Tools](https://www.curseforge.com/minecraft/mc-mods/vanilla-plus-resourceful-tools)
 + [Snad](https://www.curseforge.com/minecraft/mc-mods/snad-back-to-the-past)
 + [Ender Enhancement](https://www.curseforge.com/minecraft/mc-mods/ender-enhancement)
-+ [Cooking for Blockheads]https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
++ [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 + [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
 + [Longfall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
 
@@ -24,7 +24,7 @@
 - ✎ Changed the radius of the Regeneration effect around Campfires, from 16 to 4 blocks. (Healing Campfire)
 - ✎ Changed the duration of the Regeneration effect from Campfires, from 60s to 6s. (Healing Campfire)
 - ✎ Disabled Blueberry bushes world-gen. (More Progression)
-- ✎ Disabled Field & Mystical Forest biomes. (to be re-enabled when/if spawn % is toned down..) (More Progression) 
+- ✎ Disabled Field & Mystical Forest biomes. (to be re-enabled when/if spawn % is toned down.) (More Progression) 
 
 **Fixed**
 - Duplicate Ores in worldgen, (again).
