@@ -19,7 +19,7 @@
 	Range = 16
 	#Amount of exaustion per block excavated
 	#Range: 0.0 ~ 1.7976931348623157E308
-	Exaustion = 0.2
+	Exaustion = 0.15
 	#Temporarily reduces excavation speed if TPS begins to slow down
 	"TPS Guard" = true
 	#Experience cost per block excavated
