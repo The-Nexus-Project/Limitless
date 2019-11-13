@@ -38,3 +38,9 @@ optionsshaders.txt
 optionsof.txt
 
 changelog.md
+
+ct_dumps/entityType.txt
+
+ct_dumps/item.txt
+
+ct_dumps/recipetype.txt
