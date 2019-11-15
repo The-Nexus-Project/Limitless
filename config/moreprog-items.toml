@@ -9,7 +9,7 @@ gloriumItemsEnabled = true
 #Enable bone items in the game [true / false]
 boneItemsEnabled = false
 #Enable star items in the game [true / false]
-starItemsEnabled = true
+starItemsEnabled = false
 #Enable tritanium items in the game [true / false]
 tritaniumItemsEnabled = true
 #Enable dragon items in the game [true / false]
