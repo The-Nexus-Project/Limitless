@@ -17,6 +17,11 @@
       "minecraft:infested_cobblestone"
     ],
     [
+      "minecraft:diorite",
+      "minecraft:granite",
+      "minecraft:andesite"    
+    ],
+    [
       "minecraft:coal_ore",
       "janoeo:dense_coal_ore"    
     ],
