@@ -19,14 +19,14 @@
 	Range = 16
 	#Amount of exaustion per block excavated
 	#Range: 0.0 ~ 1.7976931348623157E308
-	Exaustion = 0.15
+	Exaustion = 0.2
 	#Temporarily reduces excavation speed if TPS begins to slow down
 	"TPS Guard" = true
 	#Experience cost per block excavated
 	#Range: > 0
 	Experience = 0
 	#Allow players to use shape mining
-	"Allow Shapes" = true
+	"Allow Shapes" = false
 	#Allow excavation with an open hand
 	"Open Hand" = false
 	#The default game stage required to unlock excavations (requires gamestages to be installed)
@@ -34,10 +34,10 @@
 	#Tools blacklisted from excavating
 	"Tool Blacklist" = []
 	#Blocks blacklisted from being excavated
-	"Block Blacklist" = []
+	"Block Blacklist" = ["minecraft:grass_block", "minecraft:stone", "minecraft:dirt", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone"]
 	#The maximum number of blocks that can be excavated at once
 	#Range: > 1
-	Limit = 128
+	Limit = 256
 	#How many excavations should be kept in undo history (may lead to exploits or instability)
 	#Range: > 0
 	"Max Undos" = 3
