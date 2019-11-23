@@ -2,7 +2,6 @@
 
 **Added**
 + [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
-+ [Autoreg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 + [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 + [Cloud Boots](https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod)
 + [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
