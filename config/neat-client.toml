@@ -5,7 +5,7 @@
 	"Display on Players" = true
 	"Plate Size (Boss)" = 50
 	"Show Max HP" = true
-	"Max Distance" = 24
+	"Max Distance" = 16
 	"Show Attributes" = true
 	"Show Current HP" = true
 	"Show Debug Info with F3" = true
