@@ -3,15 +3,15 @@
 [marble]
 	#Size of marble pockets [0-100, default: 20]
 	#Range: 0 ~ 100
-	marbleSize = 5
+	marbleSize = 8
 	#Chances of marble pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
-	marbleChance = 3
+	marbleChance = 4
 	#Generate marble in the world [true / false]
 	marbleGeneration = true
 	#Maximal height for marble pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	marbleMaxHeight = 65
+	marbleMaxHeight = 70
 	#Minimal height for marble pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
 	marbleMinHeight = 25
@@ -48,7 +48,7 @@
 	larvikiteSize = 20
 	#Maximal height for larvikite pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	larvikiteMaxHeight = 72
+	larvikiteMaxHeight = 40
 
 #Jade Generation
 [jade]
@@ -57,12 +57,12 @@
 	jadeChance = 5
 	#Maximal height for jade pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	jadeMaxHeight = 120
+	jadeMaxHeight = 42
 	#Generate jade in the world [true / false]
 	jadeGeneration = true
 	#Minimal height for jade pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
-	jadeMinHeight = 50
+	jadeMinHeight = 23
 	#Size of jade pockets [0-100, default: 15]
 	#Range: 0 ~ 100
 	jadeSize = 15
@@ -74,12 +74,12 @@
 	gneissChance = 6
 	#Minimal height for gneiss pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
-	gneissMinHeight = 25
+	gneissMinHeight = 26
 	#Generate gneiss in the world [true / false]
 	gneissGeneration = true
 	#Maximal height for gneiss pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	gneissMaxHeight = 60
+	gneissMaxHeight = 50
 	#Size of gneiss pockets [0-100, default: 33]
 	#Range: 0 ~ 100
 	gneissSize = 12
@@ -88,7 +88,7 @@
 [slate]
 	#Maximal height for slate pocket generation [0-255, default: 70]
 	#Range: 0 ~ 255
-	slateMaxHeight = 60
+	slateMaxHeight = 52
 	#Chances of slate pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
 	slateChance = 4
@@ -99,5 +99,5 @@
 	slateGeneration = true
 	#Minimal height for slate pocket generation, [0-255, default: 40]
 	#Range: 0 ~ 255
-	slateMinHeight = 25
+	slateMinHeight = 29
 
