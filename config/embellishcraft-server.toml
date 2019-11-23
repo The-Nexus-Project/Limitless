@@ -20,7 +20,7 @@
 [basalt]
 	#Maximal height for basalt pocket generation [0-255, default: 40]
 	#Range: 0 ~ 255
-	basaltMaxHeight = 35
+	basaltMaxHeight = 36
 	#Size of basalt pockets [0-100, default: 33]
 	#Range: 0 ~ 100
 	basaltSize = 12
@@ -28,10 +28,10 @@
 	basaltGeneration = true
 	#Minimal height for basalt pocket generation, [0-255, default: 0]
 	#Range: 0 ~ 255
-	basaltMinHeight = 18
+	basaltMinHeight = 16
 	#Chances of basalt pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
-	basaltChance = 2
+	basaltChance = 3
 
 #Larvikite Generation
 [larvikite]
@@ -40,7 +40,7 @@
 	larvikiteChance = 10
 	#Minimal height for larvikite pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
-	larvikiteMinHeight = 32
+	larvikiteMinHeight = 26
 	#Generate larvikite in the world [true / false]
 	larvikiteGeneration = true
 	#Size of larvikite pockets [0-100, default: 15]
@@ -57,15 +57,15 @@
 	jadeChance = 5
 	#Maximal height for jade pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	jadeMaxHeight = 42
+	jadeMaxHeight = 48
 	#Generate jade in the world [true / false]
 	jadeGeneration = true
 	#Minimal height for jade pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
-	jadeMinHeight = 23
+	jadeMinHeight = 25
 	#Size of jade pockets [0-100, default: 15]
 	#Range: 0 ~ 100
-	jadeSize = 15
+	jadeSize = 12
 
 #Gneiss Generation
 [gneiss]
@@ -74,27 +74,27 @@
 	gneissChance = 6
 	#Minimal height for gneiss pocket generation, [0-255, default: 50]
 	#Range: 0 ~ 255
-	gneissMinHeight = 26
+	gneissMinHeight = 23
 	#Generate gneiss in the world [true / false]
 	gneissGeneration = true
 	#Maximal height for gneiss pocket generation [0-255, default: 100]
 	#Range: 0 ~ 255
-	gneissMaxHeight = 50
+	gneissMaxHeight = 55
 	#Size of gneiss pockets [0-100, default: 33]
 	#Range: 0 ~ 100
-	gneissSize = 12
+	gneissSize = 10
 
 #Slate Generation
 [slate]
 	#Maximal height for slate pocket generation [0-255, default: 70]
 	#Range: 0 ~ 255
-	slateMaxHeight = 52
+	slateMaxHeight = 55
 	#Chances of slate pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
 	slateChance = 4
 	#Size of slate pockets [0-100, default: 33]
 	#Range: 0 ~ 100
-	slateSize = 12
+	slateSize = 16
 	#Generate slate in the world [true / false]
 	slateGeneration = true
 	#Minimal height for slate pocket generation, [0-255, default: 40]
