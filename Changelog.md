@@ -5,7 +5,6 @@
 + [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
 + [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
 + [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
-+ [Water Works](https://www.curseforge.com/minecraft/mc-mods/waterworks)
 + [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 + [Wrenchest](https://www.curseforge.com/minecraft/mc-mods/wrenchest)
 + [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
@@ -14,7 +13,6 @@
 
 **Removed**
 - [Linked Destruction](https://www.curseforge.com/minecraft/mc-mods/linked-destruction) (Replaced by Ore Excavation.)
-- [Waterworks](https://www.curseforge.com/minecraft/mc-mods/waterworks) 
 
 
 **Changed**
