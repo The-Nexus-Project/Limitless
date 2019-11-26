@@ -1,3 +1,43 @@
+<h1>v1.06</h1>
+
+**Added**
++ [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
++ [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
++ [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
++ [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
++ [Water Works](https://www.curseforge.com/minecraft/mc-mods/waterworks)
++ [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
++ [Wrenchest](https://www.curseforge.com/minecraft/mc-mods/wrenchest)
++ [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
++ [Sword Blocking Combat](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat)
+
+
+**Removed**
+- [Linked Destruction](https://www.curseforge.com/minecraft/mc-mods/linked-destruction) (Replaced by Ore Excavation.)
+
+
+**Changed**
+- ✎ Configured that Dense Ores gets Excavated when you mine the normal ore, linked. - (Ore Excavation)
+- ✎ Made Andesite, Granite, Diorite link when Excavated next to each other. - (Ore Excavation)
+- ✎ Made Leaf decay slower.
+- ✎ Increased Exhaustion Rate, 1.5 -> 2.0 - (Ore Excavation)
+- ✎ Increased Blocklimit when Excavating, 128 -> 256. - (Ore Excavation)
+- ✎ Added Missing recipes for Tin & Copper crate from Better Crates Mod.
+- ✎ Tweaked recipe for the Angel Ring.
+- ✎ Disabled Nether Star Tools.
+- ✎ Tweaked EmbellishCraft Stone World-Gen heights.
+- ✎ Lowered HP-Tag range from 24 blocks -> 16 blocks. (Neat) 
+
+**Fixed**
+- Minor stuff.
+- A "rare" occurrance that made you crash when you died.
+
+
+**Updated**
+- Mods that had an update available.
+- Forge to version 28.1.90!
+
+
 <h1>v1.05</h1>
 
 **Added**
