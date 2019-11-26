@@ -35,7 +35,7 @@
 
 **Updated**
 - Mods that had an update available.
-- Forge to version 28.1.90!
+- Forge to version 28.1.96!
 
 
 <h1>v1.05</h1>
