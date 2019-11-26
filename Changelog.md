@@ -14,6 +14,7 @@
 
 **Removed**
 - [Linked Destruction](https://www.curseforge.com/minecraft/mc-mods/linked-destruction) (Replaced by Ore Excavation.)
+- [Waterworks](https://www.curseforge.com/minecraft/mc-mods/waterworks) 
 
 
 **Changed**
