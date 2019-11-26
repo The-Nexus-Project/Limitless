@@ -1,4 +1,9 @@
 
+#General Settings
+[general]
+	#If set to true, dungeon crawl will use the old dungeon registry name. This will prevent errors when playing in worlds that have been used with Dungeon Crawl 1.4.0 or earlier before. If that is not the case, DO NOT activate this!
+	compatiblity_mode = false
+
 #World Generation Settings
 [world_generation]
 	#The probability of a dungeon getting generated on each fitting chunk.
@@ -12,7 +17,7 @@
 	#The Probability of a spawner entity having a shield in the offhand.
 	#Range: 0.01 ~ 1.0
 	shield_probability = 0.25
-	#The size of the dungeon. (1 unit = 8 blocks)
+	#The size of the dungeons. (1 unit = 8 blocks)
 	#Range: 4 ~ 16
 	size = 16
 	#If set to true, the dungeon generation will ignore the biome blacklist and generate dungeons in any overworld biome.

@@ -1,98 +1,189 @@
 
-["Spawn rates"]
-	#
-	#Crystals spawn rate (min=1 ; max=50 ; default=15)
-	#Range: 1 ~ 50
-	effectcrystals_spawnrate = 15
-	#
-	#Big speleothems spawn rate (min=1 ; max=50 ; default=16)
-	#Range: 1 ~ 50
-	big_speleothems_spawnrate = 16
-	#
-	#Mosses spawn rate (min=1 ; max=50 ; default=16)
-	#Range: 1 ~ 50
-	mosses_spawnrate = 16
-	#
-	#Pebbles spawn rate (min=1 ; max=50 ; default=18)
-	#Range: 1 ~ 50
-	pebbles_spawnrate = 18
-	#
-	#Pillars spawn rate (min=1 ; max=50 ; default=20)
-	#Range: 1 ~ 50
-	pillars_spawnrate = 20
-	#
-	#Cabins spawn rate (min=1 ; max=20 ; default=5)
-	#Range: 1 ~ 20
-	cabins_spawnrate = 5
-	#
-	#Rock piles spawn rate (min=1 ; max=50 ; default=14)
-	#Range: 1 ~ 50
-	rockpiles_spawnrate = 14
-	#
-	#Speleothems spawn rate (min=1 ; max=50 ; default=24)
-	#Range: 1 ~ 50
-	speleothems_spawnrate = 24
-	#
-	#Limestone patches spawn rate (min=1 ; max=50 ; default=6)
-	#Range: 1 ~ 50
-	limestone_spawnrate = 6
-	#
-	#Sanstone patches spawn rate (min=1 ; max=50 ; default=4)
-	#Range: 1 ~ 50
-	sandstone_spawnrate = 4
-	#
-	#Packed ice patches spawn rate (min=1 ; max=50 ; default=6)
-	#Range: 1 ~ 50
-	ice_spawnrate = 6
-	#
-	#Lavastone patches spawn rate (min=1 ; max=50 ; default=6)
-	#Range: 1 ~ 50
-	lavastone_spawnrate = 6
-	#
-	#Dungeons spawn rate (min=1 ; max=20 ; default=3)
-	#Range: 1 ~ 20
-	dungeons_spawnrate = 3
-	#
-	#Icy dungeons spawn rate (min=1 ; max=20 ; default=2)
-	#Range: 1 ~ 20
-	dungeons_ice_spawnrate = 2
-	#
-	#Sandstone dungeons spawn rate (min=1 ; max=20 ; default=2)
-	#Range: 1 ~ 20
-	dungeons_sandstone_spawnrate = 2
+[Spawn_rates]
 
-["Spawn conditions"]
+	[Spawn_rates.Decorations]
+		#
+		#Rock piles spawn rate (min=1 ; max=50 ; default=14)
+		#Range: 1 ~ 50
+		rockpiles_spawnrate = 14
+		#
+		#Speleothems spawn rate (min=1 ; max=50 ; default=24)
+		#Range: 1 ~ 50
+		speleothems_spawnrate = 24
+		#
+		#Flints spawn rate (min=1 ; max=50 ; default=8)
+		#Range: 1 ~ 50
+		flints_spawnrate = 8
+		#
+		#Crystals spawn rate (min=1 ; max=50 ; default=4)
+		#Range: 1 ~ 50
+		effectcrystals_spawnrate = 4
+		#
+		#Slime bulbs spawn rate (min=1 ; max=50 ; default=15)
+		#Range: 1 ~ 50
+		slime_bulbs_spawnrate = 15
+		#
+		#Big speleothems spawn rate (min=1 ; max=50 ; default=16)
+		#Range: 1 ~ 50
+		big_speleothems_spawnrate = 16
+		#
+		#Pebbles spawn rate (min=1 ; max=50 ; default=18)
+		#Range: 1 ~ 50
+		pebbles_spawnrate = 18
+
+	[Spawn_rates.Mushrooms]
+		#
+		#Sweet mushrooms spawn rate (min=1 ; max=50 ; default=10)
+		#Range: 1 ~ 50
+		sweet_mushroom_spawnrate = 10
+		#
+		#Goldishrooms spawn rate (min=1 ; max=50 ; default=4)
+		#Range: 1 ~ 50
+		goldishroom_spawnrate = 4
+		#
+		#Rockshrooms spawn rate (min=1 ; max=50 ; default=1)
+		#Range: 1 ~ 50
+		rockshroom_spawnrate = 1
+		#
+		#Lumishrooms spawn rate (min=1 ; max=50 ; default=7)
+		#Range: 1 ~ 50
+		lumishroom_spawnrate = 7
+		#
+		#Fluoshrooms spawn rate (min=1 ; max=50 ; default=8)
+		#Range: 1 ~ 50
+		fluoshroom_spawnrate = 8
+		#
+		#Shinyshrooms spawn rate (min=1 ; max=50 ; default=3)
+		#Range: 1 ~ 50
+		shinyshroom_spawnrate = 3
+
+	[Spawn_rates.Mosses]
+		#
+		#Jungle mosses spawn rate (min=1 ; max=50 ; default=20)
+		#Range: 1 ~ 50
+		jungle_mosses_spawnrate = 20
+		#
+		#Mosses spawn rate (min=1 ; max=50 ; default=16)
+		#Range: 1 ~ 50
+		mosses_spawnrate = 16
+
+	[Spawn_rates.Structures]
+		#
+		#Cabins spawn rate (min=1 ; max=20 ; default=5)
+		#Range: 1 ~ 20
+		cabins_spawnrate = 5
+		#
+		#Jungle cabins spawn rate (min=1 ; max=20 ; default=2)
+		#Range: 1 ~ 20
+		jungle_cabins_spawnrate = 2
+		#
+		#Spruce cabins spawn rate (min=1 ; max=20 ; default=2)
+		#Range: 1 ~ 20
+		spruce_cabins_spawnrate = 2
+		#
+		#Dungeons spawn rate (min=1 ; max=20 ; default=3)
+		#Range: 1 ~ 20
+		dungeons_spawnrate = 3
+		#
+		#Icy dungeons spawn rate (min=1 ; max=20 ; default=2)
+		#Range: 1 ~ 20
+		dungeons_ice_spawnrate = 2
+		#
+		#Sandstone dungeons spawn rate (min=1 ; max=20 ; default=2)
+		#Range: 1 ~ 20
+		dungeons_sandstone_spawnrate = 2
+
+	[Spawn_rates.Patches]
+		#
+		#Pillars spawn rate (min=1 ; max=50 ; default=20)
+		#Range: 1 ~ 50
+		pillars_spawnrate = 20
+		#
+		#Dirt patches spawn rate (min=1 ; max=50 ; default=8)
+		#Range: 1 ~ 50
+		dirt_spawnrate = 8
+		#
+		#Limestone patches spawn rate (min=1 ; max=50 ; default=6)
+		#Range: 1 ~ 50
+		limestone_spawnrate = 6
+		#
+		#Sanstone patches spawn rate (min=1 ; max=50 ; default=4)
+		#Range: 1 ~ 50
+		sandstone_spawnrate = 4
+		#
+		#Packed ice patches spawn rate (min=1 ; max=50 ; default=6)
+		#Range: 1 ~ 50
+		ice_spawnrate = 6
+		#
+		#Dirtstone patches spawn rate (min=1 ; max=50 ; default=9)
+		#Range: 1 ~ 50
+		dirtstone_spawnrate = 9
+		#
+		#Mudstone patches spawn rate (min=1 ; max=50 ; default=9)
+		#Range: 1 ~ 50
+		mudstone_spawnrate = 9
+		#
+		#Lavastone patches spawn rate (min=1 ; max=50 ; default=6)
+		#Range: 1 ~ 50
+		lavastone_spawnrate = 6
+		#
+		#Mud patches spawn rate (min=1 ; max=50 ; default=8)
+		#Range: 1 ~ 50
+		mud_spawnrate = 8
+
+[Spawn_conditions]
 	#
 	#Generate stones noise
 	gen_noise = false
 	#
+	#Generate ice that can melt in cold biomes (can cause lag issues if true)
+	gen_frosted_ice = false
+	#
+	#Generate patches of dirtstone in jungles
+	gen_dirtstone = true
+	#
+	#Generate patches of mudstone in swamps
+	gen_mudstone = true
+	#
+	#Generate jungle cabins in jungle biomes
+	gen_jungle_cabins = true
+	#
+	#Generate patches of packed ice in cold biomes
+	gen_ice = true
+	#
+	#Generate cabins everywhere
+	gen_cabins = true
+	#
+	#Generate alternate variations of stones
+	gen_stones = true
+	#
+	#Generate dungeons everywhere
+	gen_dungeons = true
+	#
+	#Generate spruce cabins in cold biomes
+	gen_spruce_cabins = true
+	#
 	#Generate tall decorations (double block)
 	gen_decorations_tall = true
 	#
-	#Generate ice that can melt (can cause lag issues if true)
-	gen_frosted_ice = false
-	#
-	#Generate sandstone in deserts
+	#Generate patches of smooth sandstone in deserts
 	gen_sandstone = true
 	#
 	#Generate mushrooms
 	gen_mushrooms = true
 	#
+	#Generate flints
+	gen_flints = true
+	#
 	#Generate pillars of stone
 	gen_pillars = false
 	#
-	#Generate ice blocks in cold biomes
-	gen_ice = true
+	#Generate patches of dirt in jungles
+	gen_dirt = true
 	#
-	#Generate cabins
-	gen_cabins = true
+	#Generate patches of mud in swamps
+	gen_mud = true
 	#
-	#Generate alternate stones
-	gen_stones = true
-	#
-	#Generate dungeons
-	gen_dungeons = true
-	#
-	#Generate pebbles, rocks and speleothems
+	#Generate pebbles, rocks, speleothems
 	gen_decorations = true
 

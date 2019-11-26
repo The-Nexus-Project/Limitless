@@ -138,5 +138,6 @@
 		EnchantMover = false
 		ModuleReplacer = false
 		ModuleExpPump = false
+		ModuleRemoveBedrock = false
 		MarkerPlus = false
 

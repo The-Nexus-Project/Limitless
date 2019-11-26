@@ -55,43 +55,54 @@
 
 [Tweaks]
 	"ComposterImprovements enabled" = true
+	#Adds music discs of all Minecraft ambient music.
+	#These additional discs will be dropped when a zombie is killed by a skeleton.
+	"ExtraMusicDiscs enabled" = true
 	#As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 	"UseTotemFromInventory enabled" = true
-	#Adds records (music discs) of all Minecraft background music.
-	#These additional records will be dropped when a zombie is killed by a skeleton.
-	"ExtraRecords enabled" = true
 	#Enabled anvil actions to be performed without an XP cost.This only applies to Charm actions and affects no vanilla functionality.
 	"NoAnvilMinimumXp enabled" = true
-	#Tamed animals no longer take direct damage from players.
-	#They still suffer secondary effects, such as burning.
-	"TamedAnimalsNoDamage enabled" = true
 	#Leather armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 	"LeatherArmorInvisibility enabled" = true
+	#Sneak right-clicking a villager with a block of emerald opens all the villager's closed trades and regenerates some health.
+	"EmeraldBlockOpensTrades enabled" = true
 	#Cauldrons can be used as a permanent water source when sneaking.
 	"CauldronWaterSource enabled" = true
 	#Landing on sponge absorbs some of the player's fall damage.
 	"SpongesReduceFallDamage enabled" = true
-	#Pickaxes become the optimal harvest tool for breaking pistons.
-	"PickaxesBreakPistons enabled" = true
-	#Husks spawn anywhere within their biome and drop sand, making them easier to farm.
-	"HuskImprovements enabled" = true
 	#Potions can stack (up to 16).
 	"StackablePotions enabled" = true
 	#Unlocks all vanilla recipes. This will be disabled if Quark is present, because Quark's module is better.
 	"AutomaticRecipeUnlock enabled" = true
 	#When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
 	"RemoveNitwits enabled" = true
-	#Animals will heal within range of a beacon with the regeneration effect.
-	#Monsters will be weakened within range of a beacon with the strength effect.
-	"MobsAffectedByBeacon enabled" = true
 	#A witch has a chance to drop a Potion of Luck when killed by a player.
 	"WitchesDropLuck enabled" = true
-	#Stops the background music when playing a music disc in a jukebox.
-	"RecordsStopBackgroundMusic enabled" = true
 	#Removes the potion enchantment glint so you can see what the potion color is.
 	"RemovePotionGlint enabled" = true
 	#Enchanted Books can stack (up to 16).
 	"StackableEnchantedBooks enabled" = true
+	#Expands vanilla ambient music and prevents the background music when playing a music disc in a jukebox.
+	"AmbientMusicImprovements enabled" = true
+	#Tamed animals no longer take direct damage from players.
+	#They still suffer secondary effects, such as burning.
+	"TamedAnimalsNoDamage enabled" = false
+	#Pickaxes become the optimal harvest tool for breaking pistons.
+	"PickaxesBreakPistons enabled" = true
+	#Husks spawn anywhere within their biome and drop sand, making them easier to farm.
+	"HuskImprovements enabled" = true
+	#Animals will heal within range of a beacon with the regeneration effect.
+	#Monsters will be weakened within range of a beacon with the strength effect.
+	"MobsAffectedByBeacon enabled" = true
+
+	[Tweaks.ComposterImprovements]
+		#List of extra items that may be composted.
+		#Specify the compost level chance (out of 1.0) after the item name.
+		"Input items" = ["minecraft:rotten_flesh=0.3"]
+		#Maximum number of extra items returned from composter.
+		"Maximum output" = 3
+		#List of extra items that can be returned from the composter.
+		"Output items" = ["minecraft:bone_meal", "minecraft:brown_mushroom", "minecraft:red_mushroom"]
 
 	[Tweaks.HuskImprovements]
 		#If true, husks drop sand when killed.
@@ -105,6 +116,14 @@
 		#Percentage (where 1.0 = 100%) of damage absorbed by sponge blocks.
 		"Damage absorbed" = 0.75
 
+	[Tweaks.AmbientMusicImprovements]
+		#If true, has a chance of playing Charm music.
+		"Play Charm music" = true
+		#If true, the six Creative music tracks may play in survival mode.
+		"Play Creative music" = true
+		#Override the delay (in ticks) between ambient music tracks.  If zero, does not override the track default.
+		"Override delay" = 3600
+
 	[Tweaks.WitchesDropLuck]
 		#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
 		"Drop chance" = 0.05
@@ -114,15 +133,6 @@
 		"Weaken monsters" = true
 		#Heal friendly animals within range. One of the beacon effects must be regeneration.
 		"Heal animals" = true
-
-	[Tweaks.ComposterImprovements]
-		#List of extra items that may be composted.
-		#Specify the compost level chance (out of 1.0) after the item name.
-		"Input items" = ["minecraft:rotten_flesh=0.3"]
-		#Maximum number of extra items returned from composter.
-		"Maximum output" = 3
-		#List of extra items that can be returned from the composter.
-		"Output items" = ["minecraft:bone_meal", "minecraft:brown_mushroom", "minecraft:red_mushroom"]
 
 [Smithing]
 	#Tallow can be combined on an anvil with a tool or armor to give a small durability boost.

@@ -28,7 +28,7 @@
 	#StackableEnchantedBooks
 	"StackableEnchantedBooks feature enabled" = true
 	#TamedAnimalsNoDamage
-	"TamedAnimalsNoDamage feature enabled" = true
+	"TamedAnimalsNoDamage feature enabled" = false
 	#RemovePotionGlint
 	"RemovePotionGlint feature enabled" = true
 	#PickaxesBreakPistons

@@ -30,6 +30,8 @@
 		without_lab_furnace = false
 		#Disable light sources
 		without_light_sources = false
+		#Disable the small milking machine.
+		without_milking_machine = false
 		#Disable treated wood table, stool, windowsill, etc.
 		without_treated_wood_furniture = false
 		#Disable the passive fluid accumulator.
@@ -46,8 +48,6 @@
 		without_mob_chair_sitting = false
 		#Disable rebar concrete and derived blocks.
 		without_rebar_concrete = false
-		#Disable directly picking up layers from slabs and slab  slices by left clicking while looking up/down.
-		without_direct_slab_pickup = false
 		#Opt-out any block by its registry name ('*' wildcard matching, comma separated list, whitespaces ignored. You must match the whole name, means maybe add '*' also at the begin and end. Example: '*wood*,*steel*' excludes everything that has 'wood' or 'steel' in the registry name. The matching result is also traced in the log file. 
 		pattern_excludes = ""
 		#Disable stackable 1/8 block slices.
@@ -83,8 +83,12 @@
 
 	#Miscellaneous settings
 	[server.miscellaneous]
+		#Disable directly picking up layers from slabs and slab  slices by left clicking while looking up/down.
+		without_direct_slab_pickup = false
 		#Enables experimental features. Use at own risk.
 		with_experimental = false
+		#Enable that devices are dropped as item also in creative mode, allowing  to relocate them with contents and settings.
+		with_creative_mode_device_drops = false
 
 	#Tweaks
 	[server.tweaks]
@@ -101,6 +105,9 @@
 		e_furnace_speed_percent = 200
 		#Defines if the electrical furnace automatically pulls items from an inventory at the input side.The config value can be changed on-the-fly for tuning.
 		e_furnace_automatic_pulling = false
+		#Defines how much time the Small Milking Machine needs work. Note this is a permanent standby power, not only when the device does something. Use zero to disable energy dependency and energy handling of the machine. The config value can be changed on-the-fly for tuning.
+		#Range: 0 ~ 128
+		milking_machine_energy_consumption = 0
 		#Defines how many millibuckets can be transferred (per tick) through the valves. That is technically the 'storage size' specified for blocks that want to fill fluids into the valve (the valve has no container and forward that to the output block), The value can be changed on-the-fly for tuning. 
 		#Range: 1 ~ 10000
 		pipevalve_max_flowrate = 1000
