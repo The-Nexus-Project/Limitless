@@ -131,6 +131,40 @@
 		#Range: 1 ~ 50
 		mud_spawnrate = 8
 
+[Patches_sizes]
+	#
+	#Lavastone patches size (min=1 ; max=100 ; default=40)
+	#Range: 1 ~ 100
+	lavastone_size = 40
+	#
+	#Sandstone patches size (min=1 ; max=100 ; default=60)
+	#Range: 1 ~ 100
+	sandstone_size = 60
+	#
+	#Dirtstone patches size (min=1 ; max=100 ; default=40)
+	#Range: 1 ~ 100
+	dirtstone_size = 40
+	#
+	#Dirt patches size (min=1 ; max=100 ; default=60)
+	#Range: 1 ~ 100
+	dirt_size = 60
+	#
+	#Limestone patches size (min=1 ; max=100 ; default=40)
+	#Range: 1 ~ 100
+	limestone_size = 40
+	#
+	#Mud patches size (min=1 ; max=100 ; default=60)
+	#Range: 1 ~ 100
+	mud_size = 60
+	#
+	#Packed ice patches size (min=1 ; max=100 ; default=60)
+	#Range: 1 ~ 100
+	packed_ice_size = 60
+	#
+	#Mudstone patches size (min=1 ; max=100 ; default=40)
+	#Range: 1 ~ 100
+	mudstone_size = 40
+
 [Spawn_conditions]
 	#
 	#Generate stones noise
@@ -141,6 +175,12 @@
 	#
 	#Generate patches of dirtstone in jungles
 	gen_dirtstone = true
+	#
+	#Generate patches of lavastone everywhere
+	gen_lavastone = true
+	#
+	#Generate sandstone dungeons in desert biomes
+	gen_dungeons_sandstone = true
 	#
 	#Generate patches of mudstone in swamps
 	gen_mudstone = true
@@ -175,6 +215,9 @@
 	#Generate flints
 	gen_flints = true
 	#
+	#Generate patches of limestone everywhere
+	gen_limestone = true
+	#
 	#Generate pillars of stone
 	gen_pillars = false
 	#
@@ -183,6 +226,9 @@
 	#
 	#Generate patches of mud in swamps
 	gen_mud = true
+	#
+	#Generate icy dungeons in cold biomes
+	gen_dungeons_ice = true
 	#
 	#Generate pebbles, rocks, speleothems
 	gen_decorations = true

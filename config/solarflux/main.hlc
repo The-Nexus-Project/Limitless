@@ -1,0 +1,80 @@
+# Main configurration file fur Solar Flux Reborn!
+# To implement custom panels, look for the custom_panels.js file!
+~ Saved With Solar Flux 14.1.0
+
++C:Solar Panels={
+  +C:Solar Panel 1={
+    +L:Capacity=25000
+
+    +L:Generation Rate=1
+
+    +L:Transfer Rate=8
+
+  }
+
+  +C:Solar Panel 2={
+    +L:Capacity=125000
+
+    +L:Generation Rate=8
+
+    +L:Transfer Rate=64
+
+  }
+
+  +C:Solar Panel 3={
+    +L:Capacity=425000
+
+    +L:Generation Rate=32
+
+    +L:Transfer Rate=256
+
+  }
+
+  +C:Solar Panel 4={
+    +L:Capacity=2000000
+
+    +L:Generation Rate=128
+
+    +L:Transfer Rate=1024
+
+  }
+
+  +C:Solar Panel 5={
+    +L:Capacity=8000000
+
+    +L:Generation Rate=512
+
+    +L:Transfer Rate=4096
+
+  }
+
+  +C:Solar Panel 6={
+    +L:Capacity=32000000
+
+    +L:Generation Rate=2048
+
+    +L:Transfer Rate=16348
+
+  }
+
+  +C:Solar Panel 7={
+    +L:Capacity=64000000
+
+    +L:Generation Rate=8192
+
+    +L:Transfer Rate=65536
+
+  }
+
+  +C:Solar Panel 8={
+    +L:Capacity=128000000
+
+    +L:Generation Rate=32768
+
+    +L:Transfer Rate=262144
+
+  }
+
+}
+
+

@@ -1,0 +1,6 @@
+
+#General Configuration
+[general]
+	#If true, the "Leave Bed" button will be hidden while the player is sleeping.
+	hide_gui_button = true
+

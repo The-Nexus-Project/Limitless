@@ -16,6 +16,6 @@ disable_entity_interaction = true
 disable_block_placing = true
 #Disallow non-owner and non-guests to break any blocks inside claimed chunk.
 disable_block_breaking = true
-#Disable all and any explosion damage to blocks inside claimed chunk.
+#Set the maximum claimable chunks per player.
 max_claimed_chunks = 9
 

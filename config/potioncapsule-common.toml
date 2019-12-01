@@ -3,6 +3,9 @@
 	# This number represents the stack limit of capsule inside the pendant
 	#Range: 1 ~ 4096
 	stackSize = 128
+	# This number tells the pendant how long before a specific effect goes off should it consume a capsule
+	#Range: 0 ~ 99
+	preUsage = 2
 	# This number decides how long is the effect in a Capsule and the amount extracts from the potion while crafting
 	#Range: 40 ~ 400
 	capacity = 100
@@ -17,6 +20,22 @@
 	removeExcessDuration = false
 	# Set this to true will allow Potion Capsules to be combined in crafting grids
 	allowCombine = true
+
+[specialcap]
+
+	[specialcap.bzd]
+		# Set this to false to disable the Bite the dust capsule
+		enable = true
+		# This specifies the max usages of Bite the dust capsule
+		#Range: 1 ~ 64
+		uses = 5
+
+	[specialcap.xmas]
+		# Set this to false to disable the Lost Christmas capsule
+		enable = true
+		# This specifies the max usages of Lost Christmas capsule
+		#Range: 1 ~ 64
+		uses = 5
 
 [misc]
 	# Set this to true will automatically replace any NightVision with NightVisionNoFlicker, a wrapper effect just to solve the vanilla flickering NightVision
