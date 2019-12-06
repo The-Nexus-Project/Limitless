@@ -27,6 +27,10 @@
 		#Range: 0 ~ 50
 		max_fly_speed = 20
 
+	[Commands.head]
+		#Enable command: /head
+		enable = true
+
 	[Commands.warps]
 		#Range: > 0
 		delay = 5
