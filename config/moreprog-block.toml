@@ -9,9 +9,9 @@ mystiwoodWoodEnabled = true
 #Enable the crusher block in the game [true / false]
 crusherEnabled = true
 #Enable the cherry wood type in the game [true / false]
-cherryWoodEnabled = true
+cherryWoodEnabled = false
 #Enable redwood wood type in the game [true / false]
-redwoodWoodEnabled = true
+redwoodWoodEnabled = false
 #Enable silverwood wood type in the game [true / false]
 silverwoodWoodEnabled = true
 
