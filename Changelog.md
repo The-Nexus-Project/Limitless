@@ -1,3 +1,45 @@
+<h1>v1.07</h1>
+
+**Added**
++ [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks) (RS Addon)
++ [JEI Beacons Addon](https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons)
++ [Permasomnia](https://www.curseforge.com/minecraft/mc-mods/permasomnia)
++ [Masonry](https://www.curseforge.com/minecraft/mc-mods/masonry)
++ [CT-Watercan](https://www.curseforge.com/minecraft/mc-mods/ct-watercan)
++ [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
++ [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
++ [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
++ [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
++ [Solarflux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)
++ [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
++ [GameMenuModOption](https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption)
++ [Firefly](https://www.curseforge.com/minecraft/mc-mods/firefly)
++ [Redstone Gates](https://www.curseforge.com/minecraft/mc-mods/redstone-gates)
++ [Dwarf Coal](https://www.curseforge.com/minecraft/mc-mods/dwarf-coal)
++ [Rock Candy](https://www.curseforge.com/minecraft/mc-mods/rock-candy)
+
+
+**Removed**
+- [Coal Chunks](https://www.curseforge.com/minecraft/mc-mods/coal-chunks)
+- [More Charcoal](https://www.curseforge.com/minecraft/mc-mods/more-charcoal)
+
+
+**Changed**
+- ✎ Disabled Cherrywood Forest. (MoreProg.) (In Biomes O' Plenty.)
+- ✎ Disabled Redwood Forest. (MoreProg.) (In Biomes O' Plenty.)
+- ✎ Disabled Insomnia overlay.
+- ✎ Disabled Coal & Charcoal pieces. (Pickle Tweaks)
+
+**Fixed**
+- Minor stuff.
+- Neat Nametags going dark in certain scenarios.
+
+
+**Updated**
+- Mods that had an update available.
+- Updated Forge from v28.1.96 to v28.1.104!
+
+
 <h1>v1.06</h1>
 
 **Added**
