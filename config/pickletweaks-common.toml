@@ -47,7 +47,7 @@
 	#Enable Magnet?
 	magnet = true
 	#Coal and Charcoal Piece enabled?
-	coalPiece = true
+	coalPiece = false
 	#Enable Meshes?
 	meshes = true
 
