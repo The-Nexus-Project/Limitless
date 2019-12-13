@@ -1,7 +1,7 @@
 #Enable ianite items in the game [true / false]
 ianiteItemsEnabled = true
 #Enable paxels in the game [true / false]
-paxelsEnabled = true
+paxelsEnabled = false
 #Enable enderanium items in the game [true / false]
 enderaniumItemsEnabled = true
 #Enable glorium items in the game [true / false]
