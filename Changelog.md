@@ -16,7 +16,6 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 
 **Changed**
-- ✎ Disabled Paxels from MoreProg.
 - ✎ Slightly lowered drop% of Creepers dropping a TNT. (1.0% -> 0.70%)
 - ✎ Title Screen update.
 
