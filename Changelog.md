@@ -1,8 +1,11 @@
 <h1>v1.07a</h1>
 
 **NOTE!**
+
 READ DO NOT SKIP!
+
 THIS UPDATE MESSES WITH WORLDGEN & ITEMS ARE REMOVED SO PLEASE CREATE A BACKUP OF YOUR WORLD BEFORE LOADING A WORLD WITH THIS UPDATE.
+
 Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - I pushed this update to maybe fix some issues going on, updated some mods etc.
 
