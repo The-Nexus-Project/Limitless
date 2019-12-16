@@ -3,4 +3,6 @@ autoFocus = false
 #Minimum size a container must be for a search bar to be added
 #Range: > 0
 minimumContainerSize = 27
+#Comma separated list of containers in which the search bar should be disabled. Name should be that which appears in the top left of the container's GUI. Example: blacklist=["Chest", "Large Chest"]
+blacklist = []
 
