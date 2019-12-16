@@ -1,3 +1,35 @@
+<h1>v1.07a</h1>
+
+**NOTE!**
+READ DO NOT SKIP!
+THIS UPDATE MESSES WITH WORLDGEN & ITEMS ARE REMOVED SO PLEASE CREATE A BACKUP OF YOUR WORLD BEFORE LOADING A WORLD WITH THIS UPDATE.
+Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
+- I pushed this update to maybe fix some issues going on, updated some mods etc.
+
+
+**Added**
+- No mods.
+
+
+**Removed**
+- [More Progression](https://www.curseforge.com/minecraft/mc-mods/moreprogression) - This mod messed with Loottables making them not work. Might re-add if fixed in the future!
+
+
+**Changed**
+- ✎ Disabled Paxels from MoreProg.
+- ✎ Slightly lowered drop% of Creepers dropping a TNT. (1.0% -> 0.70%)
+- ✎ Title Screen update.
+
+**Fixed**
+- Minor stuff.
+- Loottables not working in certain generated structures.
+
+
+**Updated**
+- Mods that had an update available.
+- Forge to version 28.1.107!
+
+
 <h1>v1.07</h1>
 
 **Added**
