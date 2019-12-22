@@ -23,19 +23,19 @@
 		#Range: 0 ~ 50
 		max_walk_speed = 20
 		#Enable command: /speed
-		enable = true
+		enable = false
 		#Range: 0 ~ 50
 		max_fly_speed = 20
 
 	[Commands.head]
 		#Enable command: /head
-		enable = true
+		enable = false
 
 	[Commands.warps]
 		#Range: > 0
-		delay = 5
+		delay = 3
 		#Enable commands: /setwarp, /delwarp, /warp
-		enable = true
+		enable = false
 		#Range: > 0
 		cooldown = 60
 
@@ -57,7 +57,7 @@
 
 	[Commands.homes]
 		#Range: > 0
-		delay = 5
+		delay = 3
 		#Enable commands: /sethome, /delhome, /home
 		enable = true
 		#Range: > 0
@@ -79,19 +79,19 @@
 		#Enable command: /rndtp
 		enable = true
 		#Range: > 0
-		cooldown = 60
+		cooldown = 900
 		#Range: 50 ~ 999
 		range_min = 500
 		#Range: > 1000
-		range_max = 7500
+		range_max = 5000
 
 	[Commands.tpa]
 		#Range: > 0
-		delay = 5
+		delay = 3
 		#Enable commands: /tpa, /tpahere, /tpaccept, /tpdeny
 		enable = true
 		#Range: > 0
-		cooldown = 60
+		cooldown = 120
 		#Range: > 0
 		timeout = 20
 
@@ -124,19 +124,19 @@
 		#Enable command: /kit
 		enable = false
 		starting_kit = false
-		starting_kit_name = "tools"
+		starting_kit_name = ""
 
 	[Commands.trash]
 		#Enable command: /trash
-		enable = true
+		enable = false
 
 	[Commands.fly]
 		#Enable command: /fly
-		enable = true
+		enable = false
 
 	[Commands.tpall]
 		#Enable command: /tpall
-		enable = true
+		enable = false
 
 	[Commands.spawn]
 		#Range: > 0
@@ -149,9 +149,9 @@
 
 	[Commands.time]
 		#Enable commands: /day, /night
-		enable = true
+		enable = false
 
 	[Commands.god]
 		#Enable command: /god
-		enable = true
+		enable = false
 

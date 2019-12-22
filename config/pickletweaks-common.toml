@@ -31,7 +31,7 @@
 	#Dark Glass enabled?
 	darkGlass = true
 	#Enable Emerald tools and armor?
-	emeraldGear = true
+	emeraldGear = false
 	#Enable right click crop harvesting?
 	rightClickHarvest = true
 	#Colored Cobblestone enabled?
@@ -45,7 +45,7 @@
 	#Diamond and Emerald Apples enabled?
 	apples = true
 	#Enable Magnet?
-	magnet = true
+	magnet = false
 	#Coal and Charcoal Piece enabled?
 	coalPiece = false
 	#Enable Meshes?

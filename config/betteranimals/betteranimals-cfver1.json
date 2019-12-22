@@ -7,9 +7,9 @@
     "cow": false,
     "squid": false,
     "polarbear": true,
-    "spider": true,
+    "spider": false,
     "sheep": false,
     "pig": false,
-    "cavespider": true
+    "cavespider": false
   }
 }

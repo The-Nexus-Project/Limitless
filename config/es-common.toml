@@ -1,6 +1,0 @@
-
-[General]
-	#The duration in seconds of the speed effect when a player eats some sugar.
-	#Range: 1 ~ 3600
-	speedDurationSeconds = 15
-
