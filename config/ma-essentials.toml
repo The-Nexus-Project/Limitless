@@ -130,6 +130,10 @@
 		#Enable command: /trash
 		enable = false
 
+	[Commands.invsee]
+		#Enable command: /invsee
+		enable = true
+
 	[Commands.fly]
 		#Enable command: /fly
 		enable = false

@@ -17,5 +17,5 @@ disable_block_placing = true
 #Disallow non-owner and non-guests to break any blocks inside claimed chunk.
 disable_block_breaking = true
 #Set the maximum claimable chunks per player.
-max_claimed_chunks = 9
+max_claimed_chunks = 27
 

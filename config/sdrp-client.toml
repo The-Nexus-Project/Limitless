@@ -3,7 +3,7 @@
 [common]
 	#Client ID
 	#Range: -9223372036854775808 ~ 9223372036854775807
-	clientID = 608012526537408579
+	clientID = 659745675939938345
 	#Enable Discord Rich Presence
 	discordRP = true
 

@@ -1,3 +1,88 @@
+<h1>v1.08</h1>
+
+**NOTE!**
+Updates from here on out will contain less mod additions and be more focused on trying to fix bugs & just trying to make the pack a more stable environment than vs how it is now.
+Mods will also be removed.
+This will probably take alittle while and a plentyful of updates, but it starts now.
+
+
+Also, 
+Forge won't be updated until a Mod depends on a newer version! Could've caused issues. Sorry to update it every update!
+
+
+*(If you had any items/blocks from Pandoras Creatures your items/blocks will be removed this update!)*
+**Removed Temporarily**
+- [Pandoras Creatures](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)
+*(Removal Note: This mod had some issues with Ticking Entity crashes in the Nether, until solved it'll be removed from TNP Limitless!)*
+
+
+**Added**
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
+- [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
+
+
+**Re-Added**
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+
+
+**Removed**
+- [Pregen Forge](https://www.curseforge.com/minecraft/mc-mods/pregenforge)
+- [Milk All The Mods](https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs)
+- [Edible Blazepowder](https://www.curseforge.com/minecraft/mc-mods/edible-blaze-powder)
+- [Edible Sugar](https://www.curseforge.com/minecraft/mc-mods/edible-sugar)
+- [Edible Magmacream](https://www.curseforge.com/minecraft/mc-mods/edible-magma-cream)
+- [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
+- [Coffee Spawner](https://www.curseforge.com/minecraft/mc-mods/coffee-spawner)
+- [Simple Harvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) - **(In Quark.)**
+- [Simple Colored Blocks](https://www.curseforge.com/minecraft/mc-mods/simple-colored-blocks) - **(Could be re-added at some point.)**
+- [WallpaperCraft AFR](https://www.curseforge.com/minecraft/mc-mods/wallpapercraft) - **(Could be re-added at some point.)**
+
+
+**Changes**
+- ✎ Changed the Ingame Button style.
+- ✎ Changed the Options Background texture to Snowy Bricks from Extended Caves mod.
+- ✎ Changed the Panorama Background to a Wintry Place.
+- ✎ Removed "Java Edition" on the Main Menu.
+- ✎ Changed the Default difficulty on Servers from Normal -> Hard. **(Change to your liking.)**
+- ✎ Added a more customized Discord Rich Presence when playing TNP Limitless.
+- ✎ Added the Limitless Server to Multiplayer Section by default. **(Fyi: removed if it goes down.)**
+- ✎ Increased Cooldown for the '/rtp' command, (15 minutes).
+- ✎ Decreased Max RTP Distance, 7500 -> 5000.
+- ✎ Increased Cooldown for the '/tpa' command, (2 minutes).
+- ✎ Disabled the '/warp' command.
+- ✎ Disabled Magnet from Pickle Tweaks Mod & Craft And Hunt Mod.
+- ✎ Disabled Emerald Tools from Pickle Tweaks Mod.
+- ✎ Removed Recipes for Bone Tools & Armor from Craft And Hunt Mod.
+- ✎ Removed Recipes for Knifes from the TrinityWeapons Mod. **(Making it possible to now craft Filet Knifes. For Food etc.)**
+- ✎ Re-Added Recipe for Emerald Paxel using SuperTools Mod Emerald Tools.
+- ✎ Added a recipe to craft any Chest to a Chest. **(Example: Spruce Chest to Vanilla Chest Variant.)**
+- ✎ Waddle Penguins now have a chance to drop 1-2 Fish.
+- ✎ Changed the default amount of Backups to keep, 12 -> 4.
+- ✎ Changed color of Cursed Earth to #CC00FF.
+- ✎ Reduced Max spawns from Cursed Earth, 250 -> 150.
+- ✎ Reduced Max time between Spawns on Cursed Earth, Min Time: 50 -> 95.
+- ✎ Increased the max amount of chunks that you can claim, 9 -> 27.
+- ✎ Title Screen Versioning update.
+
+
+**Fixes**
+- Fixed minor stuff.
+- Removed HorseStatsVanilla as it is a Fabric Mod, could've maybe caused issues. **(Oops)**
+- Disabled 'TrueType' font for RFTools Utility, preventing a crash using the Screen Block.
+- Xaero's Minimap not being ON by Default.
+- Fixed a [Crash](https://github.com/Kotori316/QuarryPlus/issues/75#issuecomment-568735325) while using the Quarry from AdditionalEnchantedMiner mod.
+- Fixed a [Crash](https://github.com/The-Nexus-Project/Limitless/issues/13#event-2905318359) on Server startup with the Upgrade Aquatic Mod.
+- Semi "Fixed" a Duplication bug with the Siphon Enchantment.
+- Fixed a Recipe Conflict with YoYo Cord & Quark's Rope Coil. - **(Minor change to the Rope Coil Recipe.)**
+- Removed some unneeded Configs from Mods that were removed some time ago.
+- Fixed a Tooltip crash with Silent Gear.
+- Fixed a 'Ticking Entity' crash while in The Nether. **(Fixed temporarily by removing the mod that caused it.)**
+
+
+**Updated**
+- Mods that had an update available.
+
+
 <h1>v1.07a</h1>
 
 **NOTE!**
