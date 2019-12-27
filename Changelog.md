@@ -1,3 +1,37 @@
+<h1>v1.08a</h1>
+! This update is **Optional** but needed if you wan't to use the Golem Spell item. !
+
+**NOTE!**
+Updates from here on out will contain less mod additions and be more focused on trying to fix bugs & just trying to make the pack a more stable environment than vs how it is now.
+Mods will also be removed.
+This will probably take alittle while and a plentyful of updates, but it starts now.
+
+Also, 
+Forge won't be updated until a Mod depends on a newer version! Could've caused issues. Sorry to update it every update!
+
+
+**Added**
+- Botania
+- Patchouli **(Required for Botania)**
+
+
+**Removed**
+- No Mods.
+
+
+**Changes**
+- ✎ Nothing.
+
+
+**Fixes**
+- Fixed minor stuff.
+- A Recipe Conflict with Extra Golems main item "Golem Spell". **(Changed recipe of the Golem Spell)**
+
+
+**Updated**
+- 1 Mod **(Poly Ores.)**
+
+
 <h1>v1.08</h1>
 
 **NOTE!**
