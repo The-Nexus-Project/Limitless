@@ -54,13 +54,13 @@
 		oreChances = 3
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		minY = 0
+		minY = 4
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		maxY = 16
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 1
+		veinSize = 4
 
 	#Amethyst ore generation.
 	[oregen.Amethyst_oregen]
