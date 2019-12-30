@@ -63,7 +63,7 @@
 		#Range: > 0
 		cooldown = 60
 		#Range: > 1
-		limit = 1
+		limit = 3
 
 	[Commands.up]
 		#Enable command: /up
@@ -81,8 +81,8 @@
 		#Range: > 0
 		cooldown = 900
 		#Range: 50 ~ 999
-		range_min = 500
-		#Range: > 1000
+		range_min = 999
+		#Range: > 999
 		range_max = 5000
 
 	[Commands.tpa]
