@@ -3,6 +3,8 @@
 [janoeo]
 	#Dense coal ore generation: disable / enable
 	denseCoalOreGen = true
+	#Sapphire ore generation: disable / enable
+	sapphireOreGen = false
 	#Copper ore generation: disable / enable
 	copperOreGen = false
 	#Tin ore generation: disable / enable
@@ -13,6 +15,8 @@
 	leadOreGen = false
 	#Dense gold ore generation: disable / enable
 	denseGoldOreGen = true
+	#Ruby ore generation: disable / enable
+	rubyOreGen = false
 	#Dense emerald ore generation: disable / enable
 	denseEmeraldOreGen = true
 	#Dense diamond ore generation: disable / enable
