@@ -1,0 +1,7 @@
+
+#Client config settings
+[client]
+	#Enable ShulkerBoxDisplay
+	#If set to false, all other ShulkerBox Display functionality is disabled.
+	config_shulkerboxdisplay_enable = true
+
