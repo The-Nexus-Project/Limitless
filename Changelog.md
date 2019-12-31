@@ -1,4 +1,74 @@
+<h1>v1.08a</h1>
+
+**Beta Release!**
+
+BE SURE TO BACKUP YOUR WORLD(S) AS ALWAYS!
+
+A Bug Fix Update / General Changes Update.
+Optional update, but kind of needed!
+
+
+**Note!**
+Items & Blocks from the mods [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) & [Potion Capsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule) will be removed from your worlds this update!
+This is only a temporary solution. They will be re-added when their issues have been resolved.
+Don't update if you are currently doing stuff with these mods. Though alot have been changed / fixed this update.
+
+
+**Added**
+- [Random Patches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
+
+
+**Temporarily Removed**
+- [Potion Capsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)
+(**Caused issues with Refined Storage, until it's solved the mod will be removed!**)
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+(**Caused crashes while in The Nether (pigman crashes etc.), until it's solved the mod will be removed!**)
+
+**Changes**
+- ✎ Updated the Server MOTD. (**Server Side**)
+- ✎ Changed the Default View-distance value on Servers from 10 -> 7. (**Server Side**)
+- ✎ Removed an un-needed Server Parameter. (**Server Side**)
+- ✎ Updated the Accessibility button texture to match the other buttons.
+- ✎ Changed the default amount of Homes '/home <name>' you can have, 1 -> 3. (**Ma Essentials**)
+- ✎ Changed the Minimum amount of range(blocks) teleported when using '/rndtp', 500 blocks -> 1000. (**Ma Essentials**)
+- ✎ Made Copper Tools & Armor craftable from any Copper Ingot. (**Mystical World**)
+- ✎ Made Tin Tools & Armor craftable from any Tin Ingot. (**Mystical World**)
+- ✎ Made Silver Tools & Armor craftable from any Silver Ingot. (**Mystical World**)
+- ✎ Made Lead Tools & Armor craftable from any Lead Ingot. (**Mystical World**)
+- ✎ Made Amethyst Tools & Armor craftable from any Amethyst Gem. (**Mystical World**)
+- ✎ Added (Scute) Shell Tools recipes. (**Craft And Hunt.**)
+- ✎ Re-Enabled the Quicksilver Ore. (**Mystical World**)
+- ✎ Blacklisted Soul Sand from being excavated.
+- ✎ Blacklisted Netherrack from being excavated.
+- ✎ Blacklisted End Stone from being excavated.
+
+
+**World Gen Changes**
+- Removed Small Enchantmenttable Hut.
+
+
+**Fixes**
+- "Fixed" Ticking Entity issues with Pigman in The Nether. (**Apotheosis temporarily removed.**)
+- Fixed Xaero's Minimap not being ON by Default. (**Again?**)
+- Fixed Server Console being spammed by the message "Event Fired!" (Cause: **Ender Enhancement**)
+- Fixed an occasional [Crash](https://www.curseforge.com/minecraft/mc-mods/default-options/files/2850753) on startup due to race condition. (**Default Options**)
+- Fixed a [Crash](https://www.curseforge.com/minecraft/mc-mods/default-options/files/2850753) on dedicated servers. (**Default Options**)
+- Fixed a [Crash](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms/files/2850665) when getting energy capabilities of removed blocks. (**Silent's Mechanisms**)
+- Fixed a Recipe Conflict with Extra Golems main item "Golem Spell". (**Changed recipe of the Golem Spell**)
+- Fixed Script Errors popping up in chat when crafting certain items.
+- Fixed Refined Storage [Crashes.](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2851365)
+- Fixed Items disappearing in the crafting grid when using the **Crafting Tweaks** buttons.
+- Fixed other minor stuff.
+
+
+**Updated**
+- Any mod that had an update available.
+
+
 <h1>v1.08</h1>
+
+**Release!**
+
 
 **NOTE!**
 Updates from here on out will contain less mod additions and be more focused on trying to fix bugs & just trying to make the pack a more stable environment than vs how it is now.
@@ -86,6 +156,8 @@ Forge won't be updated until a Mod depends on a newer version! Could've caused i
 
 <h1>v1.07a</h1>
 
+**Release!**
+
 **NOTE!**
 
 READ DO NOT SKIP!
@@ -119,6 +191,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 
 <h1>v1.07</h1>
+
+**Release!**
 
 **Added**
 + [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks) (RS Addon)
@@ -162,6 +236,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 <h1>v1.06</h1>
 
+**Release!**
+
 **Added**
 + [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 + [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
@@ -201,6 +277,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 <h1>v1.05</h1>
 
+**Release!**
+
 **Added**
 + [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 + [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
@@ -237,6 +315,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 <h1>v1.04b</h1>
 
+**Release!**
+
 **Changed**
 - ✎ Disabled Copper Ore-gen from TMechWorks.
 - ✎ Increased the max hearts you can gain from 5 to 50! (Can increase even more if needed.)
@@ -258,6 +338,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 
 <h1>v1.04</h1>
+
+**Release!**
 
 **Added**
 + [Endergetic](https://www.curseforge.com/minecraft/mc-mods/endergetic)
@@ -302,6 +384,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 
 <h1>v1.03</h1>
+
+**Release!**
 
 **NOTE**
 - Pack startup time might've been increased in this update!
@@ -362,6 +446,8 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 
 <h1>v1.02.1</h1>
+
+**Release!**
 
 **Removed**
 - [Adventure Tools](https://www.curseforge.com/minecraft/mc-mods/adventure-tools)
