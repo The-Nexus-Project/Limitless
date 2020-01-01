@@ -1,6 +1,6 @@
 <h1>v1.08a</h1>
 
-**Beta Release!**
+**New Release!**
 
 BE SURE TO BACKUP YOUR WORLD(S) AS ALWAYS!
 
