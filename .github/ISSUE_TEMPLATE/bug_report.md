@@ -19,9 +19,8 @@ assignees: Gbergz
 
 
 **Describe the bug**
-Remember to report it to the Mod Author if you can indentify which mod it is!
-
 A clear and concise description of what the bug is.
+Remember to report it to the Mod Author if you can indentify which mod it is!
 
 **To Reproduce**
 Steps to reproduce the behavior: (Change these steps if required.)
