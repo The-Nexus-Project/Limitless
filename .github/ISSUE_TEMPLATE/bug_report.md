@@ -11,7 +11,7 @@ assignees: Gbergz
 
 **IF YOU CAN IDENTIFY WHICH MOD CAUSES THE ISSUES/CRASHES PLEASE REPORT IT ON THEIR ISSUER TRACKER!**
 
-**^ Please remove the text above if you're reporting something else. ^ **
+^^ **Please remove the text above if you're reporting something else.** ^^
 
 
 **Describe the bug**
