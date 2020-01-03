@@ -1,5 +1,5 @@
-ignoreUpdate:59
-updateNotification:true
+ignoreUpdate:60
+updateNotification:false
 differentiateByServerAddress:true
 debug:false
 lighting:true
