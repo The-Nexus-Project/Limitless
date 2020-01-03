@@ -1033,7 +1033,7 @@
 				"Is Blacklist" = false
 
 [client]
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Variant Animal Textures" = true
 	"Improved Tooltips" = true
 	"Improved Mount Hud" = true
