@@ -71,10 +71,8 @@ Don't update if you are currently doing stuff with these mods. Though alot have 
 
 
 **NOTE!**
-Updates from here on out will contain less mod additions and be more focused on trying to fix bugs & just trying to make the pack a more stable environment than vs how it is now.
+Updates from here on out will contain less mod additions(though mods will still be added), and be more focused on trying to fix bugs & just trying to make the pack a more stable environment than vs how it is now.
 Mods will also be removed.
-This will probably take alittle while and a plentyful of updates, but it starts now.
-
 
 Also, 
 Forge won't be updated until a Mod depends on a newer version! Could've caused issues. Sorry to update it every update!
