@@ -1,5 +1,0 @@
-
-[General]
-	#Enable use of server configurations instead of common ones. By default this is false however it should be enabled for servers to keep clients in sync.
-	Enable = false
-

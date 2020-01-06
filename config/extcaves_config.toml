@@ -7,9 +7,13 @@
 		#Range: 1 ~ 50
 		rockpiles_spawnrate = 14
 		#
-		#Speleothems spawn rate (min=1 ; max=50 ; default=24)
+		#Speleothems spawn rate (min=1 ; max=50 ; default=40)
 		#Range: 1 ~ 50
 		speleothems_spawnrate = 24
+		#
+		#Big limestone speleothems spawn rate (min=1 ; max=50 ; default=12)
+		#Range: 1 ~ 50
+		big_speleothems_limestone_spawnrate = 12
 		#
 		#Flints spawn rate (min=1 ; max=50 ; default=8)
 		#Range: 1 ~ 50
@@ -23,11 +27,15 @@
 		#Range: 1 ~ 50
 		slime_bulbs_spawnrate = 15
 		#
-		#Big speleothems spawn rate (min=1 ; max=50 ; default=16)
+		#Big speleothems spawn rate (min=1 ; max=50 ; default=24)
 		#Range: 1 ~ 50
 		big_speleothems_spawnrate = 16
 		#
-		#Pebbles spawn rate (min=1 ; max=50 ; default=18)
+		#Limestone speleothems spawn rate (min=1 ; max=50 ; default=20)
+		#Range: 1 ~ 50
+		speleothems_limestone_spawnrate = 20
+		#
+		#Pebbles spawn rate (min=1 ; max=50 ; default=20)
 		#Range: 1 ~ 50
 		pebbles_spawnrate = 18
 
@@ -69,31 +77,35 @@
 
 	[Spawn_rates.Structures]
 		#
-		#Cabins spawn rate (min=1 ; max=20 ; default=5)
-		#Range: 1 ~ 20
+		#Cabins spawn rate (min=1 ; max=40 ; default=30)
+		#Range: 1 ~ 40
 		cabins_spawnrate = 5
 		#
-		#Jungle cabins spawn rate (min=1 ; max=20 ; default=2)
-		#Range: 1 ~ 20
+		#Jungle cabins spawn rate (min=1 ; max=40 ; default=28)
+		#Range: 1 ~ 40
 		jungle_cabins_spawnrate = 2
 		#
-		#Spruce cabins spawn rate (min=1 ; max=20 ; default=2)
-		#Range: 1 ~ 20
+		#Spruce cabins spawn rate (min=1 ; max=40 ; default=28)
+		#Range: 1 ~ 40
 		spruce_cabins_spawnrate = 2
 		#
-		#Dungeons spawn rate (min=1 ; max=20 ; default=3)
-		#Range: 1 ~ 20
+		#Dungeons spawn rate (min=1 ; max=40 ; default=24)
+		#Range: 1 ~ 40
 		dungeons_spawnrate = 3
 		#
-		#Icy dungeons spawn rate (min=1 ; max=20 ; default=2)
-		#Range: 1 ~ 20
+		#Icy dungeons spawn rate (min=1 ; max=40 ; default=22)
+		#Range: 1 ~ 40
 		dungeons_ice_spawnrate = 2
 		#
-		#Sandstone dungeons spawn rate (min=1 ; max=20 ; default=2)
-		#Range: 1 ~ 20
+		#Sandstone dungeons spawn rate (min=1 ; max=40 ; default=22)
+		#Range: 1 ~ 40
 		dungeons_sandstone_spawnrate = 2
 
 	[Spawn_rates.Patches]
+		#
+		#Marlstone patches spawn rate (min=1 ; max=50 ; default=9)
+		#Range: 1 ~ 50
+		marlstone_spawnrate = 9
 		#
 		#Pillars spawn rate (min=1 ; max=50 ; default=20)
 		#Range: 1 ~ 50
@@ -102,6 +114,10 @@
 		#Dirt patches spawn rate (min=1 ; max=50 ; default=8)
 		#Range: 1 ~ 50
 		dirt_spawnrate = 8
+		#
+		#Marble patches spawn rate (min=1 ; max=50 ; default=2)
+		#Range: 1 ~ 50
+		marble_spawnrate = 2
 		#
 		#Limestone patches spawn rate (min=1 ; max=50 ; default=6)
 		#Range: 1 ~ 50
@@ -153,9 +169,17 @@
 	#Range: 1 ~ 100
 	limestone_size = 40
 	#
+	#Marble patches size (min=1 ; max=100 ; default=70)
+	#Range: 1 ~ 100
+	marble_size = 70
+	#
 	#Mud patches size (min=1 ; max=100 ; default=60)
 	#Range: 1 ~ 100
 	mud_size = 60
+	#
+	#Marlstone patches size (min=1 ; max=100 ; default=40)
+	#Range: 1 ~ 100
+	marlstone_size = 40
 	#
 	#Packed ice patches size (min=1 ; max=100 ; default=60)
 	#Range: 1 ~ 100
@@ -164,6 +188,36 @@
 	#Mudstone patches size (min=1 ; max=100 ; default=40)
 	#Range: 1 ~ 100
 	mudstone_size = 40
+
+[Groups_sizes]
+	#
+	#Goldishrooms maximal group size (min=1 ; max=64 ; default=12)
+	#Range: 1 ~ 64
+	goldishroom_size = 12
+	#
+	#Large fluoshrooms maximal group size (min=1 ; max=64 ; default=8)
+	#Range: 1 ~ 64
+	fluoshroom_b_size = 8
+	#
+	#Rockshrooms maximal group size (min=1 ; max=64 ; default=8)
+	#Range: 1 ~ 64
+	rockshroom_size = 8
+	#
+	#Shinyshrooms maximal group size (min=1 ; max=64 ; default=6)
+	#Range: 1 ~ 64
+	shinyshroom_size = 6
+	#
+	#Sweet mushrooms maximal group size (min=1 ; max=64 ; default=20)
+	#Range: 1 ~ 64
+	sweet_mushroom_size = 20
+	#
+	#Lumishrooms maximal group size (min=1 ; max=64 ; default=16)
+	#Range: 1 ~ 64
+	lumishroom_size = 16
+	#
+	#Fluoshrooms maximal group size (min=1 ; max=64 ; default=16)
+	#Range: 1 ~ 64
+	fluoshroom_a_size = 16
 
 [Spawn_conditions]
 	#
@@ -182,6 +236,9 @@
 	#Generate sandstone dungeons in desert biomes
 	gen_dungeons_sandstone = true
 	#
+	#Generate patches of marble in mountains
+	gen_marble = true
+	#
 	#Generate patches of mudstone in swamps
 	gen_mudstone = true
 	#
@@ -196,6 +253,9 @@
 	#
 	#Generate alternate variations of stones
 	gen_stones = true
+	#
+	#Generate patches of marlstone in savannas and badlands
+	gen_marlstone = true
 	#
 	#Generate dungeons everywhere
 	gen_dungeons = true

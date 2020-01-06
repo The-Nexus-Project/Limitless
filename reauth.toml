@@ -1,0 +1,10 @@
+#Version Number of the Configuration File
+#Range: 1 ~ 1
+version = 1
+
+[credentials]
+	#Your Password in plaintext if chosen to save to disk
+	password = ""
+	#Your Username
+	username = ""
+

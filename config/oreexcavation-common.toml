@@ -16,7 +16,7 @@
 	"Invert Tool Blacklist" = false
 	#How far from the origin an excavation can travel
 	#Range: > 1
-	Range = 16
+	Range = 21
 	#Amount of exaustion per block excavated
 	#Range: 0.0 ~ 1.7976931348623157E308
 	Exaustion = 0.2
@@ -26,7 +26,7 @@
 	#Range: > 0
 	Experience = 0
 	#Allow players to use shape mining
-	"Allow Shapes" = false
+	"Allow Shapes" = true
 	#Allow excavation with an open hand
 	"Open Hand" = false
 	#The default game stage required to unlock excavations (requires gamestages to be installed)
@@ -34,7 +34,7 @@
 	#Tools blacklisted from excavating
 	"Tool Blacklist" = []
 	#Blocks blacklisted from being excavated
-	"Block Blacklist" = ["minecraft:grass_block", "minecraft:stone", "minecraft:dirt", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone", "minecraft:netherrack", "minecraft:soul_sand", "nethercraft:nether_dirt", "biomesoplenty:flesh", "mysticalagriculture:soulstone", "minecraft:end_stone"]
+	"Block Blacklist" = ["minecraft:grass_block", "minecraft:stone", "minecraft:dirt", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone", "minecraft:netherrack", "minecraft:soul_sand", "nethercraft:nether_dirt", "biomesoplenty:flesh", "mysticalagriculture:soulstone", "minecraft:end_stone", "extcaves:stone_lavastone", "embellishcraft:basalt"]
 	#The maximum number of blocks that can be excavated at once
 	#Range: > 1
 	Limit = 256

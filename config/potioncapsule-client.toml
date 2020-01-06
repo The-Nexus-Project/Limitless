@@ -1,0 +1,16 @@
+
+[capsule]
+	# This number decides that how many effect names are render behind the capsule name
+	#Range: 0 ~ 5
+	effectRenderCount = 3
+
+[pendant]
+	# Set this to true will mute the pop up status of Sunlight Yellow Overdrive Capsule
+	muteOverdriveUsage = true
+	# Set this to true will mute the game status which pops up while capsule being used from pendant
+	muteCapsuleUsage = false
+
+[misc]
+	# Set this to true will render the icon in the ingame HUD. This is false by default
+	renderNVNFHUD = false
+
