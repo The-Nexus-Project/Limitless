@@ -1,3 +1,58 @@
+<h1>v1.09</h1>
+
+**Known Issue**
+- Water is flashing brown whilst picking up any item around it. (**Botania**) (Being investigated and will be fixed in an a, b, c update!)
+- Ticking Entity Crash in the nether. (Being investigated.)
+
+
+**Added**
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) **(Required for Botania)**
+- [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth) (**No more Invalid Sessions!**)
+- [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-soundcontrol) (**Plus Addon**)
+
+
+**Re-Added**
+- [PotionCapsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)
+
+
+**Removed**
+- [Hidden Levers](https://www.curseforge.com/minecraft/mc-mods/hidden-levers)
+- [Naturally Charged Creepers](https://www.curseforge.com/minecraft/mc-mods/naturally-charged-creepers)
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) (**Use Quarks Inventory Sorting.**)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (**Caused Crashes, staying on the safe side**)
+
+
+**Changes**
+- New server available, located in the UK. (**Available by default in this update.**)
+- Lowered Distance of Health-Tags over mobs, 16 -> 8 blocks. (**Neat**)
+- Made Scroll Wheel button default Sorting Button. (**Quark**)
+- Disabled the showing of the Forge Version in Main Menu. (**Forge**)
+- Disabled "Greener Grass" option. (**Quark**)
+- Cleaned up Server Files. (**Removed Client-Side only mods, 10 mods.**)
+- Disabled any Seeds/Saplings Auto-Replant. (**Vanilla Tweaks**)
+- Removed some unneeded textures used for the Main Menu.
+- Disabled Xaero's Minimap/Worldmap Update notification when the game is done loading. (**Xaero's Minimap / WorldMap**)
+- Added Lavastone to Excavation Blacklist. (**Ore Excavation**)
+- Added Basalt to Excavation Blacklist. (**Ore Excavation**)
+- Enabled Excavate Shapes. (**Ore Excavation**)
+- Increased how far the Excavation can reach, 16 -> 21 blocks. (**Ore Excavation**)
+
+
+**Fixes**
+- Fixed a Recipe Conflict with Edelwood from Forbidden & Arcanus, allowing you to now get Dark Matter. (**Thanks Craft90!**)
+- Fixed Recipe Conflicts with Mystical World Cooked vegetables. (**Thanks Craft90!**)
+- Fixed the 'Animal Feed' recipe. (**Essentials**)
+- Fixed a few crashes.
+- Other minor fixes.
+
+
+**Updated**
+- Any mod that had an update available.
+
+
 <h1>v1.08a</h1>
 
 **New Release!**
