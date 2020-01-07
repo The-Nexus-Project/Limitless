@@ -26,7 +26,7 @@
 
 
 **Changes**
-- New server available, located in the UK. (**Available by default in this update.**)
+- New server available, located in Boston, US. (**Available by default in this update.**)
 - Lowered Distance of Health-Tags over mobs, 16 -> 8 blocks. (**Neat**)
 - Made Scroll Wheel button default Sorting Button. (**Quark**)
 - Disabled the showing of the Forge Version in Main Menu. (**Forge**)
