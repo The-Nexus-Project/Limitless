@@ -5,7 +5,7 @@ disable_block_interaction = true
 #Disable all and any explosion damage to blocks inside claimed chunk.
 disable_explosions = false
 #Disallow non-owner and non-guests to use (right-click) any items they hold inside claimed chunk.
-disable_item_activation = true
+disable_item_activation = false
 #Disable mob spawns inside claimed chunk.
 disable_entity_spawning = false
 #Disallow non-owner and non-guests to attack any living thing that is inside claimed chunk.
