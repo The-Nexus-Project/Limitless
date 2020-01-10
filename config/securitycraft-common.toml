@@ -49,14 +49,10 @@ inventoryScannerRange = 2
 #How many blocks away can the Motion Activated Light detect entities from?
 #Range: 0.0 ~ 1.7976931348623157E308
 motionActivatedLightSearchRadius = 5.0
-#Should SecurityCraft run in debug mode? (logs extra things to the console, may add unfinished items/blocks that could be buggy.)
-debuggingMode = false
 #Allow claiming unowned blocks?
 allowBlockClaim = false
 #Display a 'tip' message at spawn?
 sayThanksMessage = true
-#Should SecurityCraft check for new updates of the mod through SecurityCraft's GitHub repository?
-checkForUpdates = true
 #What volume should the alarm sound effect be played at?
 #Range: 0.0 ~ 1.7976931348623157E308
 alarmSoundVolume = 0.3

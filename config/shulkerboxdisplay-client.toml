@@ -4,4 +4,7 @@
 	#Enable ShulkerBoxDisplay
 	#If set to false, all other ShulkerBox Display functionality is disabled.
 	config_shulkerboxdisplay_enable = true
+	#Enable Grand Total
+	#If set to off, as we usually see(default false)
+	config_grandtotal_enable = false
 

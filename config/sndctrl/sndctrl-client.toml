@@ -5,7 +5,7 @@
 	#Range: > 0
 	"Sound Culling Interval" = 20
 	#Enable sound reverb and filtering
-	"Enable Enhanced Sounds" = false
+	"Enable Enhanced Sounds" = true
 	#Enable enhanced sounds for weather effects
 	"Enable Enhanced Weather Sounds" = true
 	#Options to configure sounds on an individual basis
@@ -15,8 +15,10 @@
 	"Background Workers" = 0
 	#Mute sound when Minecraft is in the background
 	"Mute when in Background" = true
+	#Enable sound occlusion calculations (sound muffling when positioned behind blocks)
+	"Enable Sound Occlusion Calculations" = false
 	#Possible sounds to play when client reaches main game menu
-	"Startup Sound List" = ["minecraft:entity.experience_orb.pickup", "minecraft:entity.chicken.egg", "minecraft:ambient.underwater.exit"]
+	"Startup Sound List" = ["minecraft:entity.experience_orb.pickup"]
 
 #Defines parameters for special effects
 ["Effect Options"]
