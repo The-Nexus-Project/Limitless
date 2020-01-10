@@ -3,7 +3,7 @@ disable_fake_block_interaction = true
 #Disallow non-owner and non-guests to interact with any blocks, doors, levers, buttons, etc. inside claimed chunk.
 disable_block_interaction = true
 #Disable all and any explosion damage to blocks inside claimed chunk.
-disable_explosions = false
+disable_explosions = true
 #Disallow non-owner and non-guests to use (right-click) any items they hold inside claimed chunk.
 disable_item_activation = false
 #Disable mob spawns inside claimed chunk.
