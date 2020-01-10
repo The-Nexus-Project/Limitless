@@ -65,7 +65,7 @@
 		#Set to false to disable extra craft recipes for water buckets and bottles; for instance the recipe to convert ice blocks to buckets of water.
 		extra_water_crafting = true
 		#Set to false to disable upsizing of wool drops from sheep-- VFP will no longer ensure at least 3 wool blocks are dropped per kill. Ignored if strict vanilla progression or general drops upsizing option disabled.
-		upsized_wool_drops = true
+		upsized_wool_drops = false
 		#Set to false to disable substitution of Animal Hide Straps as 'string' in some recipes. Ignored if strict vanilla progression is enabled.
 		straps_as_string = false
 		#Set to true to enable Felis Life Essence based craft recipes for some spawn eggs. Disabled by default; requires restart if changed. Ignored if strict vanilla progression is enabled.
@@ -75,7 +75,7 @@
 	#Set to true to enable mod bone drops regardless of the other mods present and super-compatibility mode setting. Leave as *DEFAULT* to let VFP decide if bone drops are appropriate per animal type. Requires game restart if changed.
 	include_bone_drops = "*DEFAULT*"
 	#Set to true to guarantee a minimum amount of items are dropped from killing cows, pigs, sheep, etc. The meat drop increase is from 0 to 3 more pieces with other items like hides, feathers, shells, and bones also guaranteed (1 per kill) unless blocked by another config option. This option applies to standard Minecraft mobs only. Enabled by default; requires restart if changed. Ignored if mod drops disabled.
-	ensure_death_drops = true
+	ensure_death_drops = false
 	#Set to false to disable mod drops from killing wolves (tamed and untamed). VFP adds raw wolf meat and special drops for custom potions. Enabled by default.
 	include_wolf_drops = true
 	#Set to true to have llamas drop regular (sheep) wool blocks instead of the custom VFP fleece wool blocks. Disabled by default. Ignored if llama drops in general are disabled.
