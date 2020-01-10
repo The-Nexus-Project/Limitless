@@ -1,4 +1,3 @@
-// Copper Tools Fix
 craftingTable.addShaped("shaped_coppersword", <item:mysticalworld:copper_sword>, 
 [[<tag:forge:ingots/copper>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/copper>, <item:minecraft:air>, <item:minecraft:air>], 
@@ -66,7 +65,6 @@ craftingTable.addShapedMirrored("shaped_copperknife4", <item:mysticalworld:coppe
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-// Lead Tools Fix
 craftingTable.addShaped("shaped_leadsword", <item:mysticalworld:lead_sword>, 
 [[<tag:forge:ingots/lead>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/lead>, <item:minecraft:air>, <item:minecraft:air>], 
@@ -133,7 +131,6 @@ craftingTable.addShapedMirrored("shaped_leadknife4", <item:mysticalworld:lead_kn
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-// Silver Tools Fix
 craftingTable.addShaped("shaped_silversword", <item:mysticalworld:silver_sword>, 
 [[<tag:forge:ingots/silver>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/silver>, <item:minecraft:air>, <item:minecraft:air>], 
@@ -200,8 +197,6 @@ craftingTable.addShapedMirrored("shaped_silverknife4", <item:mysticalworld:silve
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-
-// Tin Tools Fix
 craftingTable.addShaped("shaped_tinsword", <item:mysticalworld:tin_sword>, 
 [[<tag:forge:ingots/tin>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/tin>, <item:minecraft:air>, <item:minecraft:air>], 
@@ -268,8 +263,6 @@ craftingTable.addShapedMirrored("shaped_tinknife4", <item:mysticalworld:tin_knif
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-
-//Amethyst Tools
 craftingTable.addShaped("shaped_amethystsword", <item:mysticalworld:amethyst_sword>, 
 [[<tag:forge:gems/amethyst>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:gems/amethyst>, <item:minecraft:air>, <item:minecraft:air>], 

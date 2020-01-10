@@ -1,10 +1,9 @@
-// Copper Armor Fix
-craftingTable.addShapedMirrored("shaped_copperhelmet", <item:mysticalworld:copper_helmet>, 
+craftingTable.addShaped("shaped_copperhelmet", <item:mysticalworld:copper_helmet>, 
 [[<tag:forge:ingots/copper>, <tag:forge:ingots/copper>, <tag:forge:ingots/copper>], 
 [<tag:forge:ingots/copper>, <item:minecraft:air>, <tag:forge:ingots/copper>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.addShapedMirrored("shaped_copperhelmet2", <item:mysticalworld:copper_helmet>, 
+craftingTable.addShaped("shaped_copperhelmet2", <item:mysticalworld:copper_helmet>, 
 [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/copper>, <tag:forge:ingots/copper>, <tag:forge:ingots/copper>], 
 [<tag:forge:ingots/copper>, <item:minecraft:air>, <tag:forge:ingots/copper>]]);
@@ -24,15 +23,12 @@ craftingTable.addShapedMirrored("shaped_copperboots", <item:mysticalworld:copper
 [<tag:forge:ingots/copper>, <item:minecraft:air>, <tag:forge:ingots/copper>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-
-
-// Lead Armor Fix
-craftingTable.addShapedMirrored("shaped_leadhelmet", <item:mysticalworld:lead_helmet>, 
+craftingTable.addShaped("shaped_leadhelmet", <item:mysticalworld:lead_helmet>, 
 [[<tag:forge:ingots/lead>, <tag:forge:ingots/lead>, <tag:forge:ingots/lead>], 
 [<tag:forge:ingots/lead>, <item:minecraft:air>, <tag:forge:ingots/lead>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.addShapedMirrored("shaped_leadhelmet2", <item:mysticalworld:lead_helmet>, 
+craftingTable.addShaped("shaped_leadhelmet2", <item:mysticalworld:lead_helmet>, 
 [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/lead>, <tag:forge:ingots/lead>, <tag:forge:ingots/lead>], 
 [<tag:forge:ingots/lead>, <item:minecraft:air>, <tag:forge:ingots/lead>]]);
@@ -53,14 +49,12 @@ craftingTable.addShapedMirrored("shaped_leadboots", <item:mysticalworld:lead_boo
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-
-// Silver Armor Fix
-craftingTable.addShapedMirrored("shaped_silverhelmet", <item:mysticalworld:silver_helmet>, 
+craftingTable.addShaped("shaped_silverhelmet", <item:mysticalworld:silver_helmet>, 
 [[<tag:forge:ingots/silver>, <tag:forge:ingots/silver>, <tag:forge:ingots/silver>], 
 [<tag:forge:ingots/silver>, <item:minecraft:air>, <tag:forge:ingots/silver>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.addShapedMirrored("shaped_silverhelmet2", <item:mysticalworld:silver_helmet>, 
+craftingTable.addShaped("shaped_silverhelmet2", <item:mysticalworld:silver_helmet>, 
 [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/silver>, <tag:forge:ingots/silver>, <tag:forge:ingots/silver>], 
 [<tag:forge:ingots/silver>, <item:minecraft:air>, <tag:forge:ingots/silver>]]);
@@ -81,14 +75,12 @@ craftingTable.addShapedMirrored("shaped_silverboots", <item:mysticalworld:silver
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-
-// Tin Armor Fix
-craftingTable.addShapedMirrored("shaped_tinhelmet", <item:mysticalworld:tin_helmet>, 
+craftingTable.addShaped("shaped_tinhelmet", <item:mysticalworld:tin_helmet>, 
 [[<tag:forge:ingots/tin>, <tag:forge:ingots/tin>, <tag:forge:ingots/tin>], 
 [<tag:forge:ingots/tin>, <item:minecraft:air>, <tag:forge:ingots/tin>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.addShapedMirrored("shaped_tinhelmet2", <item:mysticalworld:tin_helmet>, 
+craftingTable.addShaped("shaped_tinhelmet2", <item:mysticalworld:tin_helmet>, 
 [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:ingots/tin>, <tag:forge:ingots/tin>, <tag:forge:ingots/tin>], 
 [<tag:forge:ingots/tin>, <item:minecraft:air>, <tag:forge:ingots/tin>]]);
@@ -109,14 +101,12 @@ craftingTable.addShapedMirrored("shaped_tinboots", <item:mysticalworld:tin_boots
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 
-
-//Amethyst
-craftingTable.addShapedMirrored("shaped_amethysthelmet", <item:mysticalworld:amethyst_helmet>, 
+craftingTable.addShaped("shaped_amethysthelmet", <item:mysticalworld:amethyst_helmet>, 
 [[<tag:forge:gems/amethyst>, <tag:forge:gems/amethyst>, <tag:forge:gems/amethyst>], 
 [<tag:forge:gems/amethyst>, <item:minecraft:air>, <tag:forge:gems/amethyst>], 
 [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.addShapedMirrored("shaped_amethysthelmet2", <item:mysticalworld:amethyst_helmet>, 
+craftingTable.addShaped("shaped_amethysthelmet2", <item:mysticalworld:amethyst_helmet>, 
 [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], 
 [<tag:forge:gems/amethyst>, <tag:forge:gems/amethyst>, <tag:forge:gems/amethyst>], 
 [<tag:forge:gems/amethyst>, <item:minecraft:air>, <tag:forge:gems/amethyst>]]);

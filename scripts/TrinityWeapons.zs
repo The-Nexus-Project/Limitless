@@ -1,4 +1,3 @@
-//Knifes Removal
 craftingTable.removeRecipe(<item:trinity:knife_wood>);
 craftingTable.removeRecipe(<item:trinity:knife_gold>);
 craftingTable.removeRecipe(<item:trinity:knife_stone>);

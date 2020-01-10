@@ -1,4 +1,3 @@
-// Shell Tools Fix - Craft And Hunt
 craftingTable.addShaped("shaped_shellsword", <item:craftandhunt:shell_sword>, 
 [[<item:minecraft:scute>, <item:minecraft:air>, <item:minecraft:air>], 
 [<item:minecraft:scute>, <item:minecraft:air>, <item:minecraft:air>], 

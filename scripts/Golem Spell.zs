@@ -1,4 +1,3 @@
-//New Golem Spell Addition
 craftingTable.removeRecipe(<item:golems:golem_paper>);
 craftingTable.addShaped("shaped_golemspell", <item:golems:golem_paper>, 
 [[<item:minecraft:feather>, <item:minecraft:redstone>, <item:minecraft:air>], 
