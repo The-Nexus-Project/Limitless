@@ -2,5 +2,5 @@
 #Common configuration settings
 [common]
 	#Determines whether or not the backpack should be dropped on death
-	keepBackpackOnDeath = true
+	keepBackpackOnDeath = false
 

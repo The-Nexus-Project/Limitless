@@ -26,6 +26,11 @@
 		#Durability (maximum item damage) of the REDIA tool.
 		#Range: 750 ~ 4000
 		redia_tool_durability = 3000
+		#If safe attacking is enabled, this defines in milliseconds how long you cannot accidentally hit passive non-agressive mobs when breaking blocks. The time does not affect preventing to hit villagers, own pets, or zombie pigmen.
+		#Range: 10 ~ 2500
+		redia_tool_attack_cooldown_ms = 10
+		#Disable the REDIA tool feature to prevent accidentally hitting own pets, villagers, or bloody zombie pigmen.
+		without_safe_attacking = false
 		#Defines the fortune depending on the durability. 
 		#Ten values have to given as integer numbers, (between 0 and 3), and the curve must be rising left-to-right.
 		redia_tool_furtune_curve = "0,0,0,0,0,1,2,2,3,3"

@@ -10,7 +10,7 @@
 	#GoldLantern
 	"GoldLantern feature enabled" = true
 	#RandomAnimalTextures
-	"RandomAnimalTextures feature enabled" = true
+	"RandomAnimalTextures feature enabled" = false
 	#AllTheBarrels
 	"AllTheBarrels feature enabled" = true
 

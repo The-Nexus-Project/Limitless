@@ -6,7 +6,7 @@
 	#Does anvil take damage
 	damageable = true
 	#Anvil renaming always costs 1 level
-	cheap_renaming = false
+	cheap_renaming = true
 	#Damage chance
 	#Range: 0.0 ~ 1.0
 	damage_chance = 0.12

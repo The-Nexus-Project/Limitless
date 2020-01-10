@@ -18,5 +18,5 @@
 	pipeChance = 100
 	#Chance of bunnies wearing a suit in their outfit, in percentage% (0-100)
 	#Range: 0 ~ 100
-	suitChance = 100
+	suitChance = 50
 

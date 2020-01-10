@@ -31,5 +31,5 @@
 	pipeChance = 100
 	#Chance of llamas wearing a moustache in their outfit, in percentage% (0-100)
 	#Range: 0 ~ 100
-	moustacheChance = 100
+	moustacheChance = 50
 

@@ -7,7 +7,7 @@
 		#Set 'true' to enable development debug mode. This will result in a lower performance!
 		debug = false
 		#If the version checker should be enabled.
-		versionChecker = true
+		versionChecker = false
 		#If the recipe loader should crash when finding invalid recipes.
 		crashOnInvalidRecipe = false
 		#If mod compatibility loader should crash hard if errors occur in that process.

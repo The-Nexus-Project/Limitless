@@ -1,3 +1,4 @@
 key_key.pickItem:key.keyboard.unknown:NONE
 key_quark.keybind.sort_player:key.mouse.middle:NONE
 key_quark.keybind.sort_container:key.mouse.middle:NONE
+key_key.dismount:key.keyboard.left.control:NONE

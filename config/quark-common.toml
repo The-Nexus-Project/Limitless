@@ -243,7 +243,7 @@
 	"Lock Rotation" = true
 	"Dragon Scales" = true
 	"Axe Leaf Harvesting" = true
-	"Sign Editing" = true
+	"Sign Editing" = false
 	"Dirt To Path" = true
 	"Simple Harvest" = true
 	"Hoe Harvesting" = true
@@ -1038,7 +1038,7 @@
 	"Improved Tooltips" = true
 	"Improved Mount Hud" = true
 	"Usage Ticker" = true
-	"Chest Searching" = true
+	"Chest Searching" = false
 
 	[client.usage_ticker]
 		#Switch the armor display to the off hand side and the hand display to the main hand side
