@@ -9,7 +9,7 @@
 	#Enables/disables debug logging of the mod
 	"Debug Logging" = false
 
-#Defines footstep effect generation
+#Defines footstep effect generation parameters
 ["Footstep Options"]
 	#Use first person footstep cadence
 	"First Person Cadence" = true
@@ -17,14 +17,16 @@
 	"Footsteps as Quadruped" = false
 	#Enable Footprint particle effects
 	"Enable Footprint Particles" = true
+	#Enable armor rustle and rain splash accents for footstep acoustics
+	"Enable Footstep Accents" = false
 	#Style of footprint to display for a player
 	#Allowed Values: SHOE, SQUARE, HORSESHOE, BIRD, PAW, SQUARE_SOLID, LOWRES_SQUARE
 	"Player Footprint Style" = "LOWRES_SQUARE"
 	#Footstep master volume scale
 	#Range: 0 ~ 100
-	"Footstep Volume Scale" = 25
+	"Footstep Volume Scale" = 30
 
-#Defines mob effect generation
+#Options for mob effect generation
 ["Mob Effect Options"]
 	#Show arrow particle trail during flight
 	"Show Arrow Particle Trail" = false
@@ -34,6 +36,8 @@
 	"Enable Toolbar Sound Effects" = false
 	#Enable item swing sound effects
 	"Enable Item Swing Sound Effects" = false
+	#Hides the player's potion particles to avoid cluttering display
+	"Hide Player Potion Particles" = true
 	#Enable bow/crossbow sound effects
 	"Enable Bow Sound Effects" = true
 
