@@ -2,7 +2,7 @@
 #Tweaks
 [Tweaks]
 	#Want a way to clear text in signs?
-	enableSignEditing = true
+	enableSignEditing = false
 	#Want to be able to sit on slabs and stairs?
 	enableSit = true
 	#Stack size for boat
@@ -29,7 +29,7 @@
 	#Do you want to neglect fall damage and get water spilled when you fall on a wet sponge?
 	squishySponge = true
 	#Want creeper's to burn in daylight?
-	creeperBurnInDaylight = true
+	creeperBurnInDaylight = false
 	#Want TNT to ignite when next to lava or magma block?
 	tntIgnition = true
 	#Stack size for ender pearls
