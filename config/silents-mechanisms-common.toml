@@ -13,23 +13,23 @@
 
 		[world.gen.URANIUM]
 			#Minimum Y-coordinate (base height) of veins
-			minHeight = 0
+			minHeight = 5
 			#Number of veins per chunk
-			veinCount = 1
-			#Maximum Y-coordinate (highest level) of veins
-			maxHeight = 18
-			#Size of veins
-			veinSize = 4
-
-		[world.gen.NICKEL]
-			#Minimum Y-coordinate (base height) of veins
-			minHeight = 0
-			#Number of veins per chunk
-			veinCount = 1
+			veinCount = 2
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 24
 			#Size of veins
-			veinSize = 6
+			veinSize = 3
+
+		[world.gen.NICKEL]
+			#Minimum Y-coordinate (base height) of veins
+			minHeight = 5
+			#Number of veins per chunk
+			veinCount = 2
+			#Maximum Y-coordinate (highest level) of veins
+			maxHeight = 22
+			#Size of veins
+			veinSize = 4
 
 		[world.gen.BAUXITE]
 			#Minimum Y-coordinate (base height) of veins
@@ -37,9 +37,9 @@
 			#Number of veins per chunk
 			veinCount = 6
 			#Maximum Y-coordinate (highest level) of veins
-			maxHeight = 50
+			maxHeight = 45
 			#Size of veins
-			veinSize = 8
+			veinSize = 6
 
 		[world.gen.SILVER]
 			#Minimum Y-coordinate (base height) of veins
@@ -49,7 +49,7 @@
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 40
 			#Size of veins
-			veinSize = 8
+			veinSize = 7
 
 		[world.gen.TIN]
 			#Minimum Y-coordinate (base height) of veins
