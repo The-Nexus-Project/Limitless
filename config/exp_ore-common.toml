@@ -5,15 +5,15 @@
 	maximum_exp_from_ore = 350
 	#Defines how small (minimally) can be one vein
 	#Range: 1 ~ 10
-	minimum_vein_size = 2
+	minimum_vein_size = 1
 	#Defines how big (maximally) can be one vein
 	#Range: 1 ~ 64
-	maximum_vein_size = 4
+	maximum_vein_size = 3
 	#Defines if the ore should even generate (cause it is craftable)
 	should_ore_generate = true
 	#Defines how much veins of the exp ore should be generated per one chunk
 	#Range: 0 ~ 100
-	veins_per_chunk = 3
+	veins_per_chunk = 4
 	#Defines minimum exp that the ore can drop
 	#Range: 1 ~ 100000
 	minimum_exp_from_ore = 200
