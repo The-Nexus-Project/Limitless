@@ -7,36 +7,48 @@ assignees: Gbergz
 
 ---
 
-**IF YOU CAN IDENTIFY WHICH MOD CAUSES THE ISSUES/CRASHES PLEASE REPORT IT ON THEIR ISSUER TRACKER!**
+**Remember! 
+If you can identify which mod is crashing, please report it on their Issue Tracker instead of this one!**
 
-**IF YOU CAN IDENTIFY WHICH MOD CAUSES THE ISSUES/CRASHES PLEASE REPORT IT ON THEIR ISSUER TRACKER!**
-
-^^ **Please remove the text above if you're reporting something else.** ^^
-
-
-
-----------------------
-
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-Remember to report it to the Mod Author if you can indentify which mod it is!
+**Describe what happened:**
+A clear and concise description of what happened.
+(Remove this text & the text above^ and only provide the correct info.)
 
 **To Reproduce**
-Steps to reproduce the behavior: (Change these steps if required.)
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps to reproduce (double check if you can do it yourself):
+1. Do this.
+2. Do that.
+3. And finally..
+4. Result.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+(Remove this text & the text above^ and only provide the correct info.)
+
+**Crash-reports**
+If applicable, upload your Crash-reports help explain your problem.
+DON'T PASTE THE ENTIRE CRASH REPORT HERE!
+USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
+(Remove this text & the text above^ and only provide the link.)
+
+**Logs / Debuglogs**
+If applicable, upload your Logs to help explain your problem.
+DON'T PASTE THE ENTIRE CRASH REPORT HERE!
+USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
+(Remove this text & the text above and only provide the link.)
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+Use upload site like Imgur.
+(Remove this text & the text above^ and only provide the link.)
+
+**Java Info:**
+ - Java Version: 
+ - 64bit/32bit: 
+
+**My OS (Mac/Win10/Linux)**
+- 
 
 **Additional context**
 Add any other context about the problem here.
-
-**Crash reports**
-Put any crash reports here. Please don't post whole crash reports here, use Paste sites like: Paste.ee, Gist-Github, Pastebin & Hastebin etc.
+(Remove this text & the text above^ and only provide the correct info.)
