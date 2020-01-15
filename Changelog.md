@@ -1,3 +1,71 @@
+<h1>v1.10</h1>
+(**Note that a, b & c updates could be released some time after this update. Hotfixes**)
+
+
+**Known Issue(s)**
+- Ticking Entity Crash in the nether. (Being investigated.)
+- Console / Logs being spammed by 'Event Fired!'. (Being investigated.)
+
+
+**Added**
+- [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
+- [Bonsai Trees 2](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [Powah](https://www.curseforge.com/minecraft/mc-mods/powah)
+
+
+**Removed**
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) (**Already available.**)
+- [Heaven Paradise Plant Mod](https://www.curseforge.com/minecraft/mc-mods/heaven-paradise-plants) (**Caused issues & hasn't been updated since Aug 27, 2019.**)
+- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) (**Available in VanillaTweaks**)
+
+
+**World Gen**
+- Removed Pirateship from spawning.
+
+
+**Changes**
+- Adjusted some of Silent's Ores Height & Spawn percentage. (**Silent's Mechanisms**)
+- Gobber Ore are now more rare. (**Gobbber 2**)
+- Gobber Ore Vein changed from 3 -> 1. (**Gobber 2**)
+- Disabled 1UP & Regen Infernal Effects. (**Infernal Mobs.**)
+- Made Infernals a little bit more rare, not by alot. (**Infernal Mobs.**)
+- The Wither Boss can no longer become Infernal. (**Infernal Mobs.**)
+- The Ender Dragon Boss can no longer become Infernal. (**Infernal Mobs.**)
+- Disabled Armor Rustle sound when having Armor on. (**Sound Control.**)
+- Re-enabled Cave Reverb. (**Sound Control**)
+- Removed some Large Structures from from generating in the World. (**Could've caused issues!**) (**Ruins.**)
+- Creepers no longer burn in the daylight. (**Vanilla Tweaks**)
+- Changed the Maximum amount of Backups to keep, 4 -> 2. (**FTB Backups.**)
+- Disabled Generous Sheeps. (**Always dropped 3 wool pieces.**)
+- Increased the XP Ore min-amount when mined, 150 -> 200. (**EXP Ore.**)
+- Changed default Difficulty for singleplayer, Normal -> Hard. (**Minecraft**)
+- The Auto-Clicker now required RF per tick to function. (**Click Machine.**)
+- Any Explosions are now disabled inside Chunk Claims, Creepers & TNT for example. (**Chunk Claim.**)
+- Food are now allowed to be eaten inside other player Claimed Chunks. (**Chunk Claim.**)
+- Renaming an Item now always cost 1 level. (**Anvil Tweaks.**)
+- Fiery Torch from DruidCraft is now able to be placed on the Ceiling of a block. ( [CeilingTorch](https://github.com/bl4ckscor3/CeilingTorch/issues/7) )
+- Stone Torch from Silent Gear is now able to be placed on the Ceiling of a block. ( [CeilingTorch](https://github.com/bl4ckscor3/CeilingTorch/issues/9) )
+- Farlander houses are now a little bit less common.
+
+
+**Fixes**
+- Hopefully fixed CraftTweaker throwing out recipe errors. (**Thanks Ilankathor & Nonsanity!**)
+- Hopefully fixed an issue where items could disappear in the Crafting Tables. (**Thanks Ilankathor & Nonsanity!**)
+- Fixed a Potential Crash at startup. (**Cyclic**)
+- Fixed a Crash at startup. (**Botania**)
+- A crash was fixed when the Mipmap levels were changed in-game. (**Sound Control.**)
+- Fixed Emerald Paxel Recipe. (**Not being able to craft the correct Shovel**)
+- Fixed a recipe conflict with Watering Can from Pickle Tweaks & Mystical Agriculture. (**Changed recipes.**)
+- An issue were fixed when the Water could turn to any color for a split second when items were picked up close by. (**Botania**)
+- Fixed some minor issues within mods by updating them.
+
+
+**Updated**
+- Any mod that had an update available.
+
+
 <h1>v1.09</h1>
 
 **Known Issue**
