@@ -1,8 +1,9 @@
 <h1>v1.10</h1>
+
 (**Note that a, b & c updates could be released some time after this update. Hotfixes**)
 
 
-**Known Issue(s)**
+**Known Issue(s):**
 - Ticking Entity Crash in the nether. (Being investigated.)
 - Console / Logs being spammed by 'Event Fired!'. (Being investigated.)
 
