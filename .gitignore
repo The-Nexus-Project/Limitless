@@ -48,3 +48,5 @@ ct_dumps/recipetype.txt
 config/xaerominimap.txt
 
 config/trashslot-client.toml
+
+reauth.toml

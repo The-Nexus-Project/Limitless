@@ -1,0 +1,22 @@
+
+#Range: min = 0, max = 2147483647
+["Basic Enregy Cell"]
+	capacity = "1000000"
+	transfer = "250"
+
+["Hardened Enregy Cell"]
+	capacity = "5000000"
+	transfer = "1000"
+
+["Blazing Enregy Cell"]
+	capacity = "12000000"
+	transfer = "4000"
+
+["Niotic Enregy Cell"]
+	capacity = "25000000"
+	transfer = "20000"
+
+["Spirited Enregy Cell"]
+	capacity = "100000000"
+	transfer = "500000"
+

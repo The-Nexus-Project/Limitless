@@ -1,0 +1,32 @@
+#Energy per solid fuel tick. [default: 30]
+#Eg: Coal has 1600 fuel tick, so will generate 48000 FE.
+#Range: > 1
+fuelEnergyBase = 30
+
+#
+#Range: min = 0, max = 2147483647
+["Basic Furnator"]
+	capacity = "50000"
+	transfer = "120"
+	perTick = "90"
+
+["Hardened Furnator"]
+	capacity = "100000"
+	transfer = "400"
+	perTick = "220"
+
+["Blazing Furnator"]
+	capacity = "500000"
+	transfer = "900"
+	perTick = "500"
+
+["Niotic Furnator"]
+	capacity = "1000000"
+	transfer = "3000"
+	perTick = "2400"
+
+["Spirited Furnator"]
+	capacity = "5000000"
+	transfer = "20000"
+	perTick = "10000"
+

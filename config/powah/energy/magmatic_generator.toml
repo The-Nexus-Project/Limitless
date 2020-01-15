@@ -1,0 +1,34 @@
+#
+#List of fluids used in Magmatic Generator.
+#fluid registry name = heat per 100 mb eg: ["minecraft:lava=10000", "examplemod:fluid=1000"]
+#Min = 1, max = 2147483647
+magmaticFluids = ["minecraft:lava=10000"]
+#Enable this to allow other mods to add their fluids. [default:true]
+magmaticFluidsAPI = true
+
+#Range: min = 0, max = 2147483647
+["Basic Magmatic Generator"]
+	capacity = "50000"
+	transfer = "120"
+	perTick = "90"
+
+["Hardened Magmatic Generator"]
+	capacity = "100000"
+	transfer = "400"
+	perTick = "220"
+
+["Blazing Magmatic Generator"]
+	capacity = "500000"
+	transfer = "900"
+	perTick = "500"
+
+["Niotic Magmatic Generator"]
+	capacity = "1000000"
+	transfer = "3000"
+	perTick = "2400"
+
+["Spirited Magmatic Generator"]
+	capacity = "5000000"
+	transfer = "20000"
+	perTick = "10000"
+
