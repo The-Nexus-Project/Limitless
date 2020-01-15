@@ -1,3 +1,18 @@
+<h1>v1.10a</h1>
+
+**NOTE!**
+Optional Update, you don't need to update.
+
+**Added**
+- No mods.
+
+**Removed**
+- [Plant Tech 2]
+
+**Changes**
+- Removed PlantTech2 because it was causing alot of crashing issues, once this is fixed. It'll be re-added. (**Sorry if you we're using it!**)
+
+
 <h1>v1.10</h1>
 
 (**Note that a, b & c updates could be released some time after this update. Hotfixes**)
