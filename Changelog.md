@@ -7,7 +7,7 @@ Optional Update, you don't need to update.
 - No mods.
 
 **Removed**
-- [Plant Tech 2]
+- [Plant Tech 2](https://www.curseforge.com/minecraft/mc-mods/planttech-2)
 
 **Changes**
 - Removed PlantTech2 because it was causing alot of crashing issues, once this is fixed. It'll be re-added. (**Sorry if you we're using it!**)
