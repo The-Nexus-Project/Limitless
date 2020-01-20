@@ -1,7 +1,7 @@
 
 [spawn]
 	# This determines the spawn rate of berry bushes (1/n). Set this to 0 will disable the spawn.
-	#Range: 0 ~ 50
+	#Range: 0 ~ 256
 	spawn_rate = 25
 
 	[spawn.banned]

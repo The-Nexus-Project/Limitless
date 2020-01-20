@@ -1,27 +1,27 @@
 
 #Range: min = 0, max = 2147483647
 ["Basic Solar Panel"]
-	capacity = "1000"
 	transfer = "24"
 	perTick = "10"
+	capacity = "1000"
 
 ["Hardened Solar Panel"]
-	capacity = "10000"
 	transfer = "60"
 	perTick = "40"
+	capacity = "10000"
 
 ["Blazing Solar Panel"]
-	capacity = "50000"
 	transfer = "190"
 	perTick = "140"
+	capacity = "50000"
 
 ["Niotic Solar Panel"]
-	capacity = "80000"
 	transfer = "500"
 	perTick = "450"
+	capacity = "80000"
 
 ["Spirited Solar Panel"]
-	capacity = "200000"
 	transfer = "1800"
 	perTick = "1200"
+	capacity = "200000"
 

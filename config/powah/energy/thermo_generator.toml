@@ -15,27 +15,27 @@ coolantFluidsAPI = true
 
 #Range: min = 0, max = 2147483647
 ["Basic Thermoelectric Generator"]
-	capacity = "5000"
 	transfer = "40"
 	perTick = "20"
+	capacity = "5000"
 
 ["Hardened Thermoelectric Generator"]
-	capacity = "40000"
 	transfer = "80"
 	perTick = "40"
+	capacity = "40000"
 
 ["Blazing Thermoelectric Generator"]
-	capacity = "100000"
 	transfer = "300"
 	perTick = "140"
+	capacity = "100000"
 
 ["Niotic Thermoelectric Generator"]
-	capacity = "250000"
 	transfer = "900"
 	perTick = "450"
+	capacity = "250000"
 
 ["Spirited Thermoelectric Generator"]
-	capacity = "1000000"
 	transfer = "2000"
 	perTick = "1200"
+	capacity = "1000000"
 

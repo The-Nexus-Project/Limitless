@@ -5,27 +5,27 @@ range = 4
 #
 #Range: min = 0, max = 2147483647
 ["Basic Energizing Rod"]
-	capacity = "10000"
-	transfer = "60"
 	energizing = "40"
+	transfer = "60"
+	capacity = "10000"
 
 ["Hardened Energizing Rod"]
-	capacity = "30000"
-	transfer = "140"
 	energizing = "100"
+	transfer = "140"
+	capacity = "30000"
 
 ["Blazing Energizing Rod"]
-	capacity = "90000"
-	transfer = "400"
 	energizing = "300"
+	transfer = "400"
+	capacity = "90000"
 
 ["Niotic Energizing Rod"]
-	capacity = "200000"
-	transfer = "1000"
 	energizing = "700"
+	transfer = "1000"
+	capacity = "200000"
 
 ["Spirited Energizing Rod"]
-	capacity = "500000"
-	transfer = "2800"
 	energizing = "1200"
+	transfer = "2800"
+	capacity = "500000"
 
