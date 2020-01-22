@@ -85,9 +85,9 @@
 		#Range: > 0
 		cooldown = 900
 		#Range: 50 ~ 999
-		range_min = 998
+		range_min = 999
 		#Range: > 1000
-		range_max = 5000
+		range_max = 15000
 
 	[Commands.tpa]
 		#Range: > 0
