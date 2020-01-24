@@ -14,7 +14,7 @@
 		nether_base = 0.2
 		#Chance of recall or wormhole potions spawning in a dungeon chest. 0 to disable.
 		#Range: 0.0 ~ 1.0
-		dungeon_potion = 0.75
+		dungeon_potion = 0
 		#Chance of a BountifulBaubles item spawning in a dungeon chest
 		#(excluding recall/wormhole potions). 0 to disable.
 		#Range: 0.0 ~ 1.0
