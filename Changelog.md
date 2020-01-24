@@ -1,3 +1,67 @@
+<h1>v1.11</h1>
+(**Note that a, b & c updates could be released some time after this update. Hotfixes**)
+
+
+**Known Issue(s)**
+- Ticking Entity Crash in the nether. (Being investigated.)
+- Console / Logs being spammed by 'Event Fired!'. (Being investigated.)
+
+
+**Added**
+- [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage) (**+ required libs.**) (**pre configured**)
+- [SpikeTraps](https://www.curseforge.com/minecraft/mc-mods/spike-traps)
+- [TorchSlabs](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod)
+- [Swamp Expansion](https://www.curseforge.com/minecraft/mc-mods/swamp-expansion)
+- [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+
+
+**Removed**
+- [Persistent Bits](https://www.curseforge.com/minecraft/mc-mods/persistent-bits)
+- [Illagers+](https://www.curseforge.com/minecraft/mc-mods/illagers)
+
+
+**World-Gen Changes**
+- Removed 'Witherworshipers' structure. (**Ruins.**)
+- Removed 'Fountain' structure. (**Ruins.**)
+- Removed 'Mininghut' structure. (**Ruins.**)
+
+
+**Changes**
+- Disabled 'Worm Hole' Potion from spawning in Dungeon Chests. (**Bountiful Baubles.**)
+- Changed the Arrow Scale-size, 1.5 -> 1.2! (**Xaero's Minimap.**)
+- Enabled Playerheads & Playernames to be shown on the Minimap. (**Xaero's Minimap.**)
+- Changed '/rndtp' command maximum TP distance, 5000 -> 15000.
+- Changed 'Backpacked Mod' inventory rows from 1 -> 3. (**total of 27 slots.**)
+- Added 'PAUSE' variable to the Batch Startup file. (**Server Files.**)
+
+
+**Recipe Changes**
+- Removed the 'Industrial Foregoing' Block Placer recipe. **(Temporarily. Causes crashes inside claimed areas.**) (**Can be re-enabled manually.**)
+- Changed the recipe for the 'Simple Chunk Loader'. (**ChunkNoGoByeBye.**)
+- Changed Recipe for Energy Core. (**Overloaded.**)
+- Changed Recipe for Fluid Core. (**Overloaded.**)
+- Changed Recipe for Item Core. (**Overloaded.**)
+- Changed Recipe for Gobber Ingot. (**Gobber 2.**)
+- Changed Recipe for End Gobber Ingot. (**Gobber 2.**)
+- Changed Recipe for Nether Gobber Ingot. (**Gobber 2.**)
+- Changed Crafting Output for Gobber Ingot. (**x3 -> x1.**) (**Gobber 2.**)
+- Changed Crafting Output for Nether Gobber Ingot. (**3 -> 1.**) (**Gobber 2.**)
+- Changed Crafting Output for End Gobber Ingot. (**x3 -> x1.**) (**Gobber 2.**)
+
+
+**Fixes**
+- Fixed a recipe conflict between Empowered Ender Pearl and Ender Pearl Block. (**Changed Recipe for Empowered Ender Pearl.**)
+- Fixed a recipe conflict between 'Dull Ender Pearl' & 'Ender Pearl Fragment'. (**Changed Dull Ender Pearl recipe.**)
+- Semi-fixed a recipe conflict between Refined Iron & Steel from EmbellishCraft. (**Smelt Refined Iron from SM.**)
+- Command "/rndtp" available only for operators, now fixed. ( **See** [GitHub Issue](https://github.com/Maciej916/Ma-Essentials/issues/31) **!** )
+- Fixed Discord Status images. (**CraftPresence**)
+
+
+**Updated**
+- Updated mods that had an update available & that didn't break things.
+
+
 <h1>v1.10a</h1>
 
 **NOTE!**
