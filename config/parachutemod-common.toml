@@ -6,8 +6,6 @@
 	maxLavaDistance = 48.0
 	#if true normal thermals are disabled by lava thermals [default: false]
 	lavaDisablesThermals = false
-	#set to true to show contrails from PARACHUTE [default: true]
-	showContrails = true
 	#use heat sources to get thermals to rise up, optionally disables space bar thermals [default: true]
 	lavaThermals = true
 	#delta back momentum value [default: 0.008]
@@ -30,6 +28,9 @@
 	#delta forward momentum value [default: 0.015]
 	#Range: 0.01 ~ 0.02
 	forwardMomentum = 0.015
+	#enable constant forward motion while drifting [default: false]
+	#disables 'W' key forward motion control
+	constantForwardMotion = false
 	#0 (zero) disables altitude limiting [default: 256]
 	#Range: 0 ~ 256
 	heightLimit = 256

@@ -4,6 +4,8 @@
 	#HUD position is one of left|center|right [index 0|1|2 default: 2]
 	#Range: 0 ~ 2
 	hudPosition = 2
+	#set to true to show contrails from PARACHUTE [default: true]
+	showContrails = true
 	#set to true to hear the wind while flying [default: true]
 	useFlyingSound = true
 	#set the burn sound volume (0.0 to 1.0)  [default: 0.5]

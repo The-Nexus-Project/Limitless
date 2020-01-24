@@ -57,7 +57,7 @@ nVidia = false
 	size = 0.8
 	#Range: 0.0 ~ 0.5
 	sizeVariation = 0.1
-	enabled = true
+	enabled = false
 	#Range: 0.0 ~ 0.5
 	hOffset = 0.1
 
@@ -76,7 +76,7 @@ nVidia = false
 	heightMax = 2.2
 	#Range: 0.0 ~ 1.0
 	minBiomeRainfall = 0.4
-	enabled = true
+	enabled = false
 	#Range: 0.0 ~ 0.4
 	hOffset = 0.2
 	#Range: 1.5 ~ 3.5
@@ -151,7 +151,7 @@ nVidia = false
 	#Range: 0.001 ~ 1.0
 	chance = 0.02
 	#Range: 1.0 ~ 15.0
-	lifetime = 4.0
+	lifetime = 3.0
 	#Range: 0.5 ~ 1.0
 	opacityDecay = 0.97
 	#Range: 0.05 ~ 1.0
