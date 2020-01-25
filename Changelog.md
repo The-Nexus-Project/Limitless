@@ -1,3 +1,18 @@
+<h1>v1.11b</h1>
+
+
+**NOTE!** 
+*This mod caused issues(crashes) in the pack, it may or may not be re-added!*
+
+
+**Removed**
+- [PotionCapsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)
+
+
+**Changes**
+- Nothing changed except the mods removed above.
+
+
 <h1>v1.11a</h1>
 
 (**Note that a, b & c updates could be released some time after this update. Hotfixes**)
