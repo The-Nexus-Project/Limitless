@@ -1,8 +1,0 @@
-{
-  "name": "sfm:trigger",
-  "translation_key": "component_groups.sfm.Trigger",
-  "icon": "sfm:textures/gui/component_icon/trigger.png",
-  "members": [
-    "sfm:timed_trigger"
-  ]
-}
