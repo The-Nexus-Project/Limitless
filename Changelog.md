@@ -1,3 +1,21 @@
+<h1>v1.11a</h1>
+(**Note that a, b & c updates could be released some time after this update. Hotfixes**)
+
+
+**NOTE!** 
+*These mods caused issues(crashes) with existing mods in the pack, they may or may not be re-added!*
+
+
+**Removed**
+- [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Spike Traps](https://www.curseforge.com/minecraft/mc-mods/spike-traps)
+- [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
+
+
+**Changes**
+- Nothing changed except the mods removed above.
+
+
 <h1>v1.11</h1>
 
 (**Note that a, b & c updates could be released some time after this update. Hotfixes**)
