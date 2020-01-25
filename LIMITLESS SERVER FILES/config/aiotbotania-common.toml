@@ -1,9 +1,0 @@
-
-[livingwood_tools]
-	#If set to false, Livingwood tools will be disabled.
-	enabled = true
-
-[livingrock_tools]
-	#If set to false, Livingrock tools will be disabled. [default: true]
-	enabled = true
-
