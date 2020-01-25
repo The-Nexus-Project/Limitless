@@ -1,0 +1,12 @@
+
+[general]
+	#TileEntities to allow regardless of the blacklist
+	whitelist = []
+	#TileEntities to disallow (whitelist takes precedence)
+	blacklist = []
+	#How many times the tape roll can be used before it breaks
+	#Range: 0 ~ 2147483646
+	tape_roll_uses = 8
+	#Whether the tape roll consumes paper when used
+	sound = true
+

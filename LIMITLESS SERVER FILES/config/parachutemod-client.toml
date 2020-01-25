@@ -1,0 +1,22 @@
+
+#ClientConfig Config
+[ClientConfig]
+	#HUD position is one of left|center|right [index 0|1|2 default: 2]
+	#Range: 0 ~ 2
+	hudPosition = 2
+	#set to true to show contrails from PARACHUTE [default: true]
+	showContrails = true
+	#set to true to hear the wind while flying [default: true]
+	useFlyingSound = true
+	#set the burn sound volume (0.0 to 1.0)  [default: 0.5]
+	#Range: 0.0 ~ 1.0
+	burnVolme = 0.5
+	#if true steering is 'WASD', otherwise steering is by sight [default: true]
+	WASDControl = true
+	#Parachute color, can be a minecraft color, random, or custom [index 0-26 default: 0 (random)]
+	#Color indexes correspond to [0]random, [1]black, [2]blue, [3]brown, [4]cyan, [5]gray
+	#[6]green, [7]light_blue, [8]lime, [9]magenta, [10]orange, [11]pink, [12]purple
+	#[13]red, [14]silver, [15]white, [16]yellow, [17]custom0 - [26]custom9
+	#Range: 0 ~ 26
+	chuteColor = 0
+

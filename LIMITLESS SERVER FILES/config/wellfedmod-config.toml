@@ -1,0 +1,14 @@
+
+[wellfedconfig]
+	#Range: 0 ~ 48000
+	stick_of_meat_buff_duration = 12000
+	#Range: 0 ~ 100
+	squid_limb_drop_chance = 40
+	#WellFed Config | Duration inputs ranges from: 0 - 48000 and drop rates: 0 - 100
+	#Range: 0 ~ 48000
+	great_feast_buff_duration = 12000
+	#Range: 0 ~ 48000
+	seafood_magnifique_buff_duration = 6000
+	#Range: 0 ~ 100
+	bat_wing_drop_chance = 40
+

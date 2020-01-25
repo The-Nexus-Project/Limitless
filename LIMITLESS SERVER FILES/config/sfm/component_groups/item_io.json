@@ -1,0 +1,8 @@
+{
+  "name": "sfm:item_io",
+  "translation_key": "component_groups.sfm.ItemIO",
+  "icon": "sfm:textures/gui/component_icon/batched_item_transfer.png",
+  "members": [
+    "sfm:batched_item_transfer"
+  ]
+}

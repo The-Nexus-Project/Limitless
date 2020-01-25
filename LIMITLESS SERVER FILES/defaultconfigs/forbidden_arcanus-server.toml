@@ -1,0 +1,59 @@
+
+[oregen]
+	#Generate Arcane Crystal Ore
+	generateArcaneCrystalOre = true
+	#Generate Runestone
+	generateRunestone = true
+	#Generate Dark Runestone
+	generateDarkRunestone = true
+	#Generate Dark Stone
+	generateDarkStone = true
+	#Maximum size of Arcane Crystal Ore vein
+	#Range: 0 ~ 500
+	maxArcaneCrystalOreVeinSize = 6
+	#Maximum Arcane Crystal Ore veins per chunk
+	#Range: 1 ~ 10000000
+	ArcaneCrystalOreCount = 3
+	#Minimum height for the Arcane Crystal Ore
+	#Range: 1 ~ 256
+	ArcaneCrystalOreMinHeight = 0
+	#Maximum height for the Arcane Crystal Ore
+	#Range: 1 ~ 256
+	ArcaneCrystalOreMaxHeight = 20
+	#Maximum size of Runestone vein
+	#Range: 0 ~ 500
+	maxRunestoneVeinSize = 3
+	#Maximum Runestone veins per chunk
+	#Range: 1 ~ 10000000
+	RunestoneCount = 3
+	#Minimum height for the Runestone
+	#Range: 1 ~ 256
+	RunestoneMinHeight = 0
+	#Maximum height for the Runestone
+	#Range: 1 ~ 256
+	RunestoneMaxHeight = 25
+	#Maximum size of Dark Runestone vein
+	#Range: 0 ~ 500
+	maxDarkRunestoneVeinSize = 3
+	#Maximum Dark Runestone veins per chunk
+	#Range: 1 ~ 10000000
+	DarkRunestoneCount = 3
+	#Minimum height for the Dark Runestone
+	#Range: 1 ~ 256
+	DarkRunestoneMinHeight = 0
+	#Maximum height for the Dark Runestone
+	#Range: 1 ~ 256
+	DarkRunestoneMaxHeight = 9
+	#Maximum size of Dark Stone vein
+	#Range: 0 ~ 500
+	maxDarkStoneVeinSize = 20
+	#Maximum Dark Stone veins per chunk
+	#Range: 1 ~ 10000000
+	DarkStoneCount = 20
+	#Minimum height for the Dark Stone
+	#Range: 1 ~ 256
+	DarkStoneMinHeight = 0
+	#Maximum height for the Dark Stone
+	#Range: 1 ~ 256
+	DarkStoneMaxHeight = 8
+

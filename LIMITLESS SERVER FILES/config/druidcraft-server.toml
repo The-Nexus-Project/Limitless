@@ -1,0 +1,69 @@
+
+[oregeneration]
+	#Determines the rarity of amber veins.
+	#Range: 1 ~ 200
+	amber_weight = 2
+	#Determines the rarity of rockroot veins.
+	#Range: 1 ~ 200
+	rockroot_weight = 16
+	#Determines the rarity of fiery glass veins.
+	#Range: 1 ~ 200
+	fiery_glass_weight = 6
+	#Determines the size of an amber vein.
+	#Range: 1 ~ 32
+	amber_size = 8
+	#Determines the size of a moonstone vein.
+	#Range: 1 ~ 32
+	moonstone_size = 8
+	#Determines the rarity of moonstone veins.
+	#Range: 1 ~ 200
+	moonstone_weight = 5
+	#Determines the size of a fiery glass vein.
+	#Range: 1 ~ 32
+	fiery_glass_size = 8
+	#Whether to have ores from this mod spawn at all.
+	generate_ores = true
+	#Determines the size of a rockroot vein.
+	#Range: 1 ~ 32
+	rockroot_size = 3
+
+[toolcontrollers]
+	#Decides what blocks are allowed and not allowed to be affected by the sickle.
+	#Adding '+' to the start of the block will add it, and '-' will remove it.
+	sickle_block_list = []
+
+[droprate]
+	#Rate of hemp seed drops from grass blocks.
+	#Range: 0 ~ 100
+	hemp_seed_rate = 8
+	#Whether to have seeds from this mod drop from grass at all.
+	drop_seeds = true
+
+[entityspawning]
+	#Minimum size of the group when spawned.
+	#Range: 1 ~ 5
+	dreadfish_min_group_size = 1
+	#Allow beetles to spawn?
+	beetle_spawn = true
+	#Maximum size of the group when spawned.
+	#Range: 1 ~ 200
+	beetle_max_group_size = 2
+	#Allow dreadfish to spawn?
+	dreadfish_spawn = true
+	#Determines the rarity of the dreadfish.
+	#Range: 1 ~ 100
+	dreadfish_weight = 24
+	#List of biome types from the biome dictionary that the dreadfish can spawn in. Separate types with a '|' between them.
+	dreadfish_biomes = "SNOWY|COLD"
+	#Maximum size of the group when spawned.
+	#Range: 1 ~ 10
+	dreadfish_max_group_size = 3
+	#Determines the rarity of the beetle.
+	#Range: 1 ~ 200
+	beetle_weight = 5
+	#List of biome types from the biome dictionary that the beetle can spawn in. Separate types with a '|' between them.
+	beetle_biomes = "CONIFEROUS|FOREST|JUNGLE|DENSE"
+	#Minimum size of the group when spawned.
+	#Range: 1 ~ 200
+	beetle_min_group_size = 1
+

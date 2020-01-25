@@ -1,0 +1,19 @@
+
+#General Configuration
+[general]
+	#String to use as placeholder when a value is unavailable.
+	placeholdertext = "--"
+	#Format to display time in. See http://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html#Date_Format_Patterns
+	timeformat = "h:mm a"
+	#The title of the Minecraft window. Leave blank to keep the default window title for your version of Minecraft.
+	#Some special values that will be inserted at runtime:
+	#%mcver% -> The current Minecraft version
+	#%modcount% -> Number of loaded mods
+	#%time% -> Current system time
+	#%playerloc% -> Location of the player, if available
+	#%chunk% -> Current chunk, if available
+	#%biome% -> Current biome, if available
+	#%score% -> Current score of the player, if available
+	#
+	windowtitle = "TNP Limitless"
+

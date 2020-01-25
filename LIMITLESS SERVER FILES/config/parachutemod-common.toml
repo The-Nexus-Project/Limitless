@@ -1,0 +1,46 @@
+
+#CommonConfig Config
+[CommonConfig]
+	#maximum distance to rise from lava thermals [default: 48.0]
+	#Range: 10.0 ~ 100.0
+	maxLavaDistance = 48.0
+	#if true normal thermals are disabled by lava thermals [default: false]
+	lavaDisablesThermals = false
+	#use heat sources to get thermals to rise up, optionally disables space bar thermals [default: true]
+	lavaThermals = true
+	#delta back momentum value [default: 0.008]
+	#Range: 0.005 ~ 0.01
+	backMomentum = 0.008
+	#if true, allow riding in water [default: true]
+	rideInWater = true
+	#thermal rise requires a heat source being held. [default: false]
+	#only torch, redstone torch, campfire, lava bucket are considered sources
+	thermalsRequireHeatItem = false
+	#set to true to always feel the turbulent world of Minecraft [default: false]
+	constantTurbulence = false
+	#delta rotation momentum value [default: 0.35]
+	#Range: 0.1 ~ 0.5
+	rotationMomentum = 0.35
+	#minimum distance from lava to grab thermals [default: 5.0]
+	#if you go less than 3.0 you will most likely dismount in the lava!
+	#Range: 2.0 ~ 10.0
+	minLavaDistance = 5.0
+	#delta forward momentum value [default: 0.015]
+	#Range: 0.01 ~ 0.02
+	forwardMomentum = 0.015
+	#enable constant forward motion while drifting [default: false]
+	#disables 'W' key forward motion control
+	constantForwardMotion = false
+	#0 (zero) disables altitude limiting [default: 256]
+	#Range: 0 ~ 256
+	heightLimit = 256
+	#set to true for PARACHUTE single use [default: false]
+	singleUse = false
+	#delta slide momentum value [default: 0.005]
+	#Range: 0.004 ~ 0.008
+	slideMomentum = 0.005
+	#set to false if you don't want the drift rate to be affected by bad weather [default: true]
+	weatherAffectsDrift = true
+	#enable thermal rise by pressing the space bar [default: true]
+	thermals = true
+

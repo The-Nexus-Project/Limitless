@@ -1,0 +1,48 @@
+#Generate mushrooms
+gen_mushrooms = true
+#Generate cabins
+gen_cabins = true
+#Generate dungeons
+gen_dungeons = true
+#Generate alternate stones
+gen_stones = true
+#Generate pebbles, rocks and speleothems
+gen_decorations = true
+#Generate stones noise
+gen_noise = false
+#Generate ice blocks in cold biomes
+gen_ice = true
+#Cabins spawn rate (min=1 ; max=20 ; default=5)
+#Range: 1 ~ 20
+cabins_spawnrate = 5
+#Dungeons spawn rate (min=1 ; max=20 ; default=3)
+#Range: 1 ~ 20
+dungeons_spawnrate = 3
+#Limestone patches spawn rate (min=1 ; max=50 ; default=6)
+#Range: 1 ~ 50
+limestone_spawnrate = 6
+#Lavastone patches spawn rate (min=1 ; max=50 ; default=6)
+#Range: 1 ~ 50
+lavastone_spawnrate = 6
+#Packed ice patches spawn rate (min=1 ; max=50 ; default=6)
+#Range: 1 ~ 50
+ice_spawnrate = 6
+#Mosses spawn rate (min=1 ; max=50 ; default=16)
+#Range: 1 ~ 50
+mosses_spawnrate = 16
+#Crystals spawn rate (min=1 ; max=50 ; default=15)
+#Range: 1 ~ 50
+effectcrystals_spawnrate = 15
+#Pebbles spawn rate (min=1 ; max=50 ; default=18)
+#Range: 1 ~ 50
+pebbles_spawnrate = 18
+#Rock piles spawn rate (min=1 ; max=50 ; default=14)
+#Range: 1 ~ 50
+rockpiles_spawnrate = 14
+#Speleothems spawn rate (min=1 ; max=50 ; default=24)
+#Range: 1 ~ 50
+speleothems_spawnrate = 24
+#Big speleothems spawn rate (min=1 ; max=50 ; default=16)
+#Range: 1 ~ 50
+big_speleothems_spawnrate = 16
+

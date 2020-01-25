@@ -1,0 +1,25 @@
+
+#General Configuration
+[general]
+	#The upper bound of the time range players can sleep during.
+	#Setting this value lower than the lower bound may lead to undefined behaviour.
+	#Range: 0 ~ 24000
+	max_sleep_time = 23458
+	#If true, players will be allowed to sleep during rain regardless of the daytime value.
+	rain_enables_sleep = true
+	#The required ratio of sleeping players to total players for time to be advanced.
+	#A value of 0.0 will allow a single player to sleep.
+	#A value greater than 1.0 will disable sleeping.
+	#Range: 0.0 ~ 2.0
+	required_sleeping_player_ratio = 1.0
+	#The lower bound of the time range players can sleep during.
+	#Setting this value greater than the upper bound may lead to undefined behaviour.
+	#Range: 0 ~ 24000
+	min_sleep_time = 12541
+	#If true, players will be allowed to sleep during a thunderstorm regardless of the daytime value.
+	thunder_enables_sleep = true
+	#If true, sleeping will clear weather conditions.
+	#If this is set to false while rain/thunder_enables_sleep are set to true, sleeping during
+	#rain/thunder will cause time to be continuously skipped until the players leave their beds or it stops raining/thundering.
+	sleep_clears_weather = true
+

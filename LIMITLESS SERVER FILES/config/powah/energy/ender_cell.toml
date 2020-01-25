@@ -1,0 +1,31 @@
+
+["Basic Ender Cell"]
+	#Range: min = 0, max = 2147483647
+	transfer = "5000"
+	#Range: min = 1, max = 16
+	channels = "2"
+
+["Hardened Ender Cell"]
+	#Range: min = 0, max = 2147483647
+	transfer = "20000"
+	#Range: min = 1, max = 16
+	channels = "4"
+
+["Blazing Ender Cell"]
+	#Range: min = 0, max = 2147483647
+	transfer = "100000"
+	#Range: min = 1, max = 16
+	channels = "7"
+
+["Niotic Ender Cell"]
+	#Range: min = 0, max = 2147483647
+	transfer = "250000"
+	#Range: min = 1, max = 16
+	channels = "11"
+
+["Spirited Ender Cell"]
+	#Range: min = 0, max = 2147483647
+	transfer = "1000000"
+	#Range: min = 1, max = 16
+	channels = "16"
+

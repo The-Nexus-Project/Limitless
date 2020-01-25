@@ -1,0 +1,412 @@
+
+#Drop Chance is out of 100 with the formula: <random 0-99 <= x + Lucky*3 + Looting*2>. This means the Dice will pick a number 0-99, and if you roll less then X in the formula, the item will drop.
+["Drop Chance"]
+	#Drop chance for Wither Skeleton Spine (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_wither_skeleton = 4
+	#Drop chance for spider chitin  (Default: 34).
+	#Range: 0 ~ 100
+	drop_chance_spider_chitin = 34
+	#Drop chance for panda leather  (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_panda_leather = 24
+	#Drop chance for polar leather  (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_polar_leather = 24
+	#Drop chance for Mystical Fox Tail (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_fox = 4
+	#Drop chance for Poison Sack (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_cave_spider = 4
+	#Drop chance for shark skin (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_shark_leather = 24
+	#Drop chance for Ghast's Flame Lung (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_ghast = 4
+	#Drop chance for Evoker's Book (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_evoker = 4
+	#Drop chance for Gloomy Ink Sack (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_squid = 4
+	#Drop chance for guardian hide (Default: 24).
+	#Range: 0 ~ 100
+	drop_chance_guardian_leather = 24
+	#Drop chance for Vampire's Fang (Default: 4).
+	#Range: 0 ~ 100
+	drop_chance_lamprey = 4
+	#Drop chance for wolf hide (Default: 34).
+	#Range: 0 ~ 100
+	drop_chance_wolf_hide = 34
+
+#Turtle/Shell armor is not listed here since their values are based off a in game material by Mojang.
+[Armor]
+
+	#Note for Durability Value in Armor. Vanilla values are; Leather:5, Gold:7, Iron:15, Turtle:25, Diamond:33
+	[Armor."Wither Armor"]
+		#Wither Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		wither_bootsdefense = 3
+		#Wither Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		wither_durabilityValue = 10
+		#Wither Chest Defense Value (Default: 7).
+		#Range: 1 ~ 50
+		wither_chestdefense = 7
+		#Wither Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		wither_legsdefense = 6
+		#Wither Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		wither_enchantability = 15
+		#Wither Helm Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		wither_helmDefense = 5
+		#Should Wither Armor exist? (Default: True)
+		wither_armor_true = true
+
+	[Armor."Magma Armor"]
+		#Magma Legs Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		blaze_legsdefense = 5
+		#Magma Chest Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		blaze_chestdefense = 5
+		#Magma Boots Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		blaze_bootsdefense = 2
+		#Magma Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		blaze_helmDefense = 2
+		#Magma Enchantability Value (Default: 24).
+		#Range: 1 ~ 50
+		blaze_enchantability = 24
+		#Should Magma Armor exist? (Default: True)
+		blaze_armor_true = true
+		#Magma Durability Value (Default: 24).
+		#Range: 1 ~ 50
+		blaze_durabilityValue = 24
+
+	[Armor."Guardian Armor"]
+		#Should Guardian Armor exist? (Default: True)
+		guardian_armor_true = true
+		#Guardian Legs Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		guardian_legsdefense = 4
+		#Guardian Durability Value (Default: 20).
+		#Range: 1 ~ 50
+		guardian_durabilityValue = 25
+		#Guardian Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		guardian_helmDefense = 2
+		#Guardian Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		guardian_bootsdefense = 1
+		#Guardian Chest Defense Value (Default: 5).
+		#Range: 1 ~ 50
+		guardian_chestdefense = 5
+		#Guardian Enchantability Value (Default: 22).
+		#Range: 1 ~ 50
+		guardian_enchantability = 22
+
+	[Armor."Wolf Armor"]
+		#Bear Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		wolf_legsdefense = 2
+		#Bear Durability Value (Default: 5).
+		#Range: 1 ~ 50
+		wolf_durabilityValue = 5
+		#Bear Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		wolf_helmDefense = 1
+		#Bear Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		wolf_chestdefense = 2
+		#Bear Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		wolf_bootsdefense = 1
+		#Bear Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		wolf_enchantability = 15
+		#Should Wolf Armor exist? (Default: True)
+		wolf_armor_true = true
+
+	[Armor."Bee Armor"]
+		#Should Bee Armor exist? (Default: True)
+		bee_armor_true = true
+		#Bee Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		bee_chestdefense = 4
+		#Bee Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bee_bootsdefense = 1
+		#Bee Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bee_legsdefense = 3
+		#Bee Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bee_helmDefense = 1
+		#Bee Enchantability Value (Default: 16).
+		#Range: 1 ~ 50
+		bee_enchantability = 16
+		#Bee Durability Value (Default: 9).
+		#Range: 1 ~ 50
+		bee_durabilityValue = 9
+
+	[Armor."Bone Armor"]
+		#Bone Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bone_enchantability = 15
+		#Bone Chest Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_chestdefense = 3
+		#Bone Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_helmDefense = 1
+		#Bone Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_bootsdefense = 1
+		#Should Bone Armor exist? (Default: True)
+		bone_armor_true = true
+		#Bone Durability Value (Default: 9).
+		#Range: 1 ~ 50
+		bone_durabilityValue = 9
+		#Bone Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_legsdefense = 3
+
+	[Armor."Spider Armor"]
+		#Spider Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_bootsdefense = 1
+		#Spider Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_helmDefense = 1
+		#Spider Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		spider_chestdefense = 4
+		#Spider Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		spider_legsdefense = 3
+		#Spider Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		spider_durabilityValue = 14
+		#Spider Enchantability Value (Default: 16).
+		#Range: 1 ~ 50
+		spider_enchantability = 16
+		#Should Spider Armor exist? (Default: True)
+		spider_armor_true = true
+
+	[Armor."Phantom Armor"]
+		#Phantom Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		phantom_bootsdefense = 1
+		#Phantom Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		phantom_chestdefense = 4
+		#Phantom Helm Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		phantom_helmDefense = 2
+		#Phantom Enchantability Value (Default: 18).
+		#Range: 1 ~ 50
+		phantom_enchantability = 18
+		#Phantom Legs Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		phantom_legsdefense = 4
+		#Should Phantom Armor exist? (Default: True)
+		phantom_armor_true = true
+		#Phantom Durability Value (Default: 18).
+		#Range: 1 ~ 50
+		phantom_durabilityValue = 18
+
+	[Armor."Shulker Armor"]
+		#Shulker Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		shulker_legsdefense = 6
+		#Shulker Durability Value (Default: 30).
+		#Range: 1 ~ 50
+		shulker_durabilityValue = 30
+		#Shulker Enchantability Value (Default: 13).
+		#Range: 1 ~ 50
+		shulker_enchantability = 13
+		#Shulker Helm Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		shulker_helmDefense = 3
+		#Shulker Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		shulker_bootsdefense = 3
+		#Should Shulker Armor exist? (Default: True)
+		shulker_armor_true = true
+		#Shulker Chest Defense Value (Default: 8).
+		#Range: 1 ~ 50
+		shulker_chestdefense = 8
+
+	[Armor."Bear Armor"]
+		#Should Bear Armor exist? (Default: True)
+		bear_armor_true = true
+		#Bear Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bear_legsdefense = 2
+		#Bear Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		bear_chestdefense = 2
+		#Bear Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bear_bootsdefense = 1
+		#Bear Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bear_helmDefense = 1
+		#Bear Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bear_enchantability = 15
+		#Bear Durability Value (Default: 5).
+		#Range: 1 ~ 50
+		bear_durabilityValue = 5
+
+	[Armor."Shark Armor"]
+		#Shark Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		shark_bootsdefense = 1
+		#Shark Chest Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		shark_chestdefense = 2
+		#Shark Enchantability Value (Default: 19).
+		#Range: 1 ~ 50
+		shark_enchantability = 19
+		#Shark Legs Defense Value (Default: 2).
+		#Range: 1 ~ 50
+		shark_legsdefense = 2
+		#Shark Durability Value (Default: 7).
+		#Range: 1 ~ 50
+		shark_durabilityValue = 7
+		#Should Shark Armor exist? (Default: True)
+		shark_armor_true = true
+		#Shark Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		shark_helmDefense = 1
+
+#Attack damage is based off the pickaxe. Shovels will deal .5 damage more, Swords will deal 2 damage more, axes 5 damage more. Harvest level is simple. 0 is wood, 1 is stone, 2 is iron, and 3 is diamond. Nothing vanilla goes past 3. Efficiancy is how fast a thing mines. 2 is wood, 4 is stone, 6 is iron, 8 is diamond.
+[Tools]
+
+	[Tools."Shulkers Tools"]
+		#Should Shulker Tools exist? (Default: True)
+		shulker_tool_true = true
+		#Shulker Tools Attack Damage (Default: 3).
+		#Range: 1.0 ~ 10.0
+		shulker_tool_attackDamage = 3.0
+		#Shulker Tools Durability (Default: 1024).
+		#Range: 1 ~ 50000
+		shulker_tool_durability = 1024
+		#Shulker Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 10
+		shulker_tool_harvestLevel = 3
+		#Shulker Tools Efficiency (Default: 3.5).
+		#Range: 1.0 ~ 50.0
+		shulker_tool_efficiency = 3.5
+		#Shulker Tools Enchantability (Default: 25).
+		#Range: 1 ~ 50
+		shulker_tool_enchantability = 30
+
+	[Tools."Shell Tools"]
+		#Shell Tools Enchantability (Default: 25).
+		#Range: 1 ~ 50
+		shell_tool_enchantability = 25
+		#Shell Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 10
+		shell_tool_harvestLevel = 3
+		#Shell Tools Efficiency (Default: 9.5).
+		#Range: 1.0 ~ 50.0
+		shell_tool_efficiency = 9.5
+		#Shell Tools Durability (Default: 562).
+		#Range: 1 ~ 50000
+		shell_tool_durability = 562
+		#Should Shell Tools exist? (Default: True)
+		shell_tool_true = true
+		#Shell Tools Attack Damage (Default: 3).
+		#Range: 1.0 ~ 10.0
+		shell_tool_attackDamage = 3.0
+
+	[Tools."Wither Tools"]
+		#Should Wither Tools exist? (Default: True)
+		wither_tool_true = true
+		#Wither Tools Enchantability (Default: 20).
+		#Range: 1 ~ 50
+		wither_tool_enchantability = 20
+		#Wither Tools Durability (Default: 330).
+		#Range: 1 ~ 50000
+		wither_tool_durability = 330
+		#Wither Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 50
+		wither_tool_harvestLevel = 3
+		#Wither Tools Efficiency (Default: 5.0).
+		#Range: 1.0 ~ 50.0
+		wither_tool_efficiency = 5.0
+		#Wither Tools Attack Damage (Default: 4.5).
+		#Range: 1.0 ~ 50.0
+		wither_tool_attackDamage = 4.5
+
+	[Tools."Magma Tools"]
+		#Magma Tools Efficiency (Default: 8.0).
+		#Range: 1.0 ~ 50.0
+		blaze_tool_efficiency = 8.0
+		#Should Magma Tools exist? (Default: True)
+		blaze_tool_true = true
+		#Magma Tools Durability (Default: 562).
+		#Range: 1 ~ 50000
+		blaze_tool_durability = 562
+		#Magma Tools Attack Damage (Default: 3.5).
+		#Range: 1.0 ~ 10.0
+		blaze_tool_attackDamage = 3.5
+		#Magma Tools Harvest Level (Default: 3).
+		#Range: 1 ~ 10
+		blaze_tool_harvestLevel = 3
+		#Magma Tools Enchantability (Default: 24).
+		#Range: 1 ~ 50
+		blaze_tool_enchantability = 24
+
+	[Tools."Spider Tools"]
+		#Spider Tools Durability (Default: 132).
+		#Range: 1 ~ 50000
+		spider_tool_durability = 132
+		#Should Spider Tools exist? (Default: True)
+		spider_tool_true = true
+		#Spider Tools Harvest Level (Default: 2).
+		#Range: 1 ~ 50
+		spider_tool_harvestLevel = 2
+		#Spider Tools Efficiency (Default: 6.0).
+		#Range: 1.0 ~ 50.0
+		spider_tool_efficiency = 6.0
+		#Spider Tools Attack Damage (Default: 3.5).
+		#Range: 1.0 ~ 50.0
+		spider_tool_attackDamage = 3.5
+		#Spider Tools Enchantability (Default: 16).
+		#Range: 1 ~ 50
+		spider_tool_enchantability = 16
+
+	[Tools."Bone Tools"]
+		#Bone Tools Enchantability (Default: 15).
+		#Range: 1 ~ 10
+		bone_tool_enchantability = 10
+		#Should Bone Tools exist? (Default: True)
+		bone_tool_true = true
+		#Bone Tools Durability (Default: 132).
+		#Range: 1 ~ 50000
+		bone_tool_durability = 132
+		#Bone Tools Harvest Level (Default: 1).
+		#Range: 1 ~ 10
+		bone_tool_harvestLevel = 1
+		#Bone Tools Efficiency (Default: 5.0).
+		#Range: 1.0 ~ 50.0
+		bone_tool_efficiency = 5.0
+		#Bone Tools Attack Damage (Default: 3.0).
+		#Range: 1.0 ~ 10.0
+		bone_tool_attackDamage = 3.0
+
+[Foods]
+	#Should Bear Flanks exist? (Default: True)
+	bearFlank_true = true
+	#Should Calamari exist? (Default: True)
+	calamari_true = true
+

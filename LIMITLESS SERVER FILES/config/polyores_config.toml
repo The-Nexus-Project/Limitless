@@ -1,0 +1,24 @@
+#Generate ores
+gen_ores = true
+#Holy ore spawn rate (min=1 ; max=100 ; default=7)
+#Range: 1 ~ 100
+holy_ore_spawnrate = 7
+#Levite ore spawn rate (min=1 ; max=100 ; default=4)
+#Range: 1 ~ 100
+levite_ore_spawnrate = 4
+#Toxic ore spawn rate (min=1 ; max=100 ; default=5)
+#Range: 1 ~ 100
+toxic_ore_spawnrate = 5
+#Gravite ore spawn rate (min=1 ; max=100 ; default=5)
+#Range: 1 ~ 100
+gravite_ore_spawnrate = 5
+#Obscure ore spawn rate (min=1 ; max=100 ; default=5)
+#Range: 1 ~ 100
+obscure_ore_spawnrate = 5
+#Blazing ore spawn rate (min=1 ; max=100 ; default=6)
+#Range: 1 ~ 100
+blazing_ore_spawnrate = 6
+#Frosted ore spawn rate (min=1 ; max=100 ; default=5)
+#Range: 1 ~ 100
+frosted_ore_spawnrate = 7
+

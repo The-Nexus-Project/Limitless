@@ -1,0 +1,118 @@
+{
+  "treasure_chest": {
+    "name": "treasure_chest",
+    "minRolls": 12.0,
+    "maxRolls": 12.0,
+    "entries": [
+      {
+        "resourceName": "minecraft:experience_bottle",
+        "min": 12,
+        "max": 36,
+        "weight": 2
+      },
+      {
+        "resourceName": "minecraft:gold_nugget",
+        "min": 8,
+        "max": 56,
+        "weight": 4
+      },
+      {
+        "resourceName": "minecraft:diamond",
+        "min": 1,
+        "max": 4,
+        "weight": 5
+      },
+      {
+        "resourceName": "minecraft:iron_ingot",
+        "min": 8,
+        "max": 24,
+        "weight": 6
+      },
+      {
+        "resourceName": "minecraft:cobweb",
+        "min": 2,
+        "max": 6,
+        "weight": 2
+      },
+      {
+        "resourceName": "minecraft:enchanted_golden_apple",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:diamond_helmet",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:diamond_chestplate",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:diamond_leggings",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:diamond_boots",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:diamond_sword",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:golden_sword",
+        "min": 1,
+        "max": 1,
+        "weight": 3
+      },
+      {
+        "resourceName": "minecraft:golden_chestplate",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:nether_warts",
+        "min": 5,
+        "max": 26,
+        "weight": 4
+      },
+      {
+        "resourceName": "minecraft:arrow",
+        "min": 8,
+        "max": 16,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:golden_carrot",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:golden_apple",
+        "min": 1,
+        "max": 1,
+        "weight": 1
+      },
+      {
+        "resourceName": "minecraft:slimeball",
+        "min": 2,
+        "max": 4,
+        "weight": 3
+      }
+    ]
+  },
+  "config_version": 0
+}

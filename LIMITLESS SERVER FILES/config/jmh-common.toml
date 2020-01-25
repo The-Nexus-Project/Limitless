@@ -1,0 +1,129 @@
+
+[General]
+	#Sets the chance of a mob dropping its head if '__mobSpecificDropChances' is DISABLED.
+	#Range: 1.0E-4 ~ 1.0
+	_overallDropChance = 0.1
+	#If enabled, the looting enchant will have an effect on the drop chance.
+	__enableLootingEnchant = true
+	#Sets head drop chance for Zombies, Skeletons and Creepers if '__enableStandardHeads' is ENABLED.
+	#Range: 1.0E-4 ~ 1.0
+	_creeperSkeletonZombieDropChance = 0.1
+	#If enabled, overrides the _overallDropChance variable with the specific values.
+	__mobSpecificDropChances = true
+	#If enabled, allows Creepers, Skeletons and Zombies to drop their heads.
+	__enableStandardHeads = false
+
+[HeadSpecific]
+	#Range: 1.0E-4 ~ 1.0
+	zombie_horse = 1.0
+	#Range: 1.0E-4 ~ 1.0
+	snowman = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	panda = 0.5
+	#Range: 1.0E-4 ~ 1.0
+	cow = 0.005
+	#Range: 1.0E-4 ~ 1.0
+	magma_cube = 0.005
+	#Range: 1.0E-4 ~ 1.0
+	pig = 0.005
+	#Range: 1.0E-4 ~ 1.0
+	llama = 0.04
+	#Range: 1.0E-4 ~ 1.0
+	charged_creeper = 1.0
+	#Range: 1.0E-4 ~ 1.0
+	mule = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	bat = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	husk = 0.03
+	#Range: 1.0E-4 ~ 1.0
+	rabbit = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	silverfish = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	drowned = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	zombie_pigman = 0.001
+	#Range: 1.0E-4 ~ 1.0
+	dolphin = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	stray = 0.05
+	#Range: 1.0E-4 ~ 1.0
+	shulker = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	turtle = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	vex = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	salmon = 0.05
+	#Range: 1.0E-4 ~ 1.0
+	wandering_trader = 1.0
+	#Range: 1.0E-4 ~ 1.0
+	ocelot = 0.04
+	#Range: 1.0E-4 ~ 1.0
+	horse = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	vindicator = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	phantom = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	evoker = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	mooshroom = 0.002
+	#Range: 1.0E-4 ~ 1.0
+	squid = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	parrot = 0.8
+	#Range: 1.0E-4 ~ 1.0
+	enderman = 2.0E-4
+	#Range: 1.0E-4 ~ 1.0
+	chicken = 0.005
+	#Range: 1.0E-4 ~ 1.0
+	ravager = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	donkey = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	fox = 0.5
+	#Range: 1.0E-4 ~ 1.0
+	slime = 5.0E-4
+	#Range: 1.0E-4 ~ 1.0
+	pillager = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	iron_golem = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	blaze = 0.001
+	#Range: 1.0E-4 ~ 1.0
+	endermite = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	cat = 0.5
+	#Range: 1.0E-4 ~ 1.0
+	guardian = 0.002
+	#Range: 1.0E-4 ~ 1.0
+	ghast = 0.05
+	#Range: 1.0E-4 ~ 1.0
+	sheep = 0.0175
+	#Range: 1.0E-4 ~ 1.0
+	pufferfish = 0.25
+	#Range: 1.0E-4 ~ 1.0
+	villager = 0.005
+	#Range: 1.0E-4 ~ 1.0
+	wolf = 0.02
+	#Range: 1.0E-4 ~ 1.0
+	skeleton_horse = 0.2
+	#Range: 1.0E-4 ~ 1.0
+	zombie_villager = 0.04
+	#Range: 1.0E-4 ~ 1.0
+	elder_guardian = 0.3
+	#Range: 1.0E-4 ~ 1.0
+	polar_bear = 0.1
+	#Range: 1.0E-4 ~ 1.0
+	cave_spider = 0.01
+	#Range: 1.0E-4 ~ 1.0
+	witch = 0.002
+	#Range: 1.0E-4 ~ 1.0
+	cod = 0.05
+	#Range: 1.0E-4 ~ 1.0
+	spider = 0.002
+	#Range: 1.0E-4 ~ 1.0
+	wither = 1.0
+
