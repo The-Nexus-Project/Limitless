@@ -1,0 +1,62 @@
+
+#Config File of the Super Tools mod.
+[SuperTools]
+	#Enable that the Super Tools drop Blocks in Creative Mode(Default: false)
+	creative_block_drops = false
+	#Enable Super Tools(Not the mod) (Default: true)
+	supertools = true
+
+	[SuperTools."Armor Effects"]
+		#Enable the Armor Potion Effects (Default: true)
+		armor_potion_effects = true
+
+		[SuperTools."Armor Effects"."Obsidian Effetcs"]
+			#Enable the Obsidian Armor Potion Effects (Default: true)
+			obsidian_armor_potion_effects = true
+
+			[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1"]
+				#Enable the Obsidian Armor Potion Effects when you have only 1 piece or more pieces (Default: true)
+				obsidian_armor_potion_effects_level1 = true
+
+				[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1".Level2]
+					#Enable the Armor Status Effects when you have every piece(Default: true)
+					obsidian_armor_potion_effects_level2 = true
+
+		[SuperTools."Armor Effects"."Quartz Effects"]
+			#Enable the Quartz Armor Potion Effects (Default: true)
+			quartz_armor_potion_effects = true
+
+	[SuperTools.Durabilities]
+		#Super Tools durabilty (Default: 1561)
+		#Range: 0 ~ 999999999
+		emerald_tools_durabilty = 1561
+		#Super Tools durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		redstone_tools_durabilty = 100
+		#Super Tools durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		"a_bag_of_bonemeal _durabilty" = 100
+		#Super Tools durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		obsidian_tools_durabilty = 2000
+		#Super Tools durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		special_cup_durabilty = 2000
+		#Super Tools durabilty (Default: 150)
+		#Range: 0 ~ 999999999
+		lapis_tools_durabilty = 150
+		#Super Tools durabilty (Default: 1350)
+		#Range: 0 ~ 999999999
+		super_tools_durabilty = 1350
+		#Super Tools durabilty (Default: 1700)
+		#Range: 0 ~ 999999999
+		cup_durabilty = 1700
+		#Super Tools durabilty (Default: 1000)
+		#Range: 0 ~ 999999999
+		quartz_tools_durabilty = 1000
+
+	[SuperTools."Super Axe"]
+		#Set the Maxmium amount of Wood Logs being chopped with the Super Axe
+		#Range: 0 ~ 999999999
+		max_wood_logs = 64
+

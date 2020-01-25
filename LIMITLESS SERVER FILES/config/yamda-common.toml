@@ -1,0 +1,14 @@
+
+#YAMDA Config.
+[common]
+	#Should the layers top of the world be dirt and grass
+	grass_enable = true
+	#Overworld dim ID
+	#Range: -1000 ~ 1000
+	overworldId = 0
+	#Height of the world
+	#Range: 5 ~ 256
+	world_height = 70
+	#Should it always be day
+	day = true
+

@@ -1,0 +1,6 @@
+
+#General options for boots
+[general]
+	#Enable Step Height for Traveller's Boots [true|false]
+	isStepHeightEnabled = true
+

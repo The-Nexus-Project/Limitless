@@ -1,0 +1,1 @@
+craftingTable.removeRecipe(<item:pickletweaks:emerald_shovel>);

@@ -1,0 +1,41 @@
+#
+#List of heat blocks used under Thermoelectric Generator.
+#Block registry name = heat, eg: ["minecraft:lava=1000", "minecraft:magma_block=1200"]
+#Min = 1, max = 2147483647
+solidCoolants = ["minecraft:lava=1000", "minecraft:magma_block=1200"]
+#Enable this to allow other mods to add their heat blocks. [default:true]
+heatBlocksAPI = true
+#
+#List of coolant fluids used in Thermoelectric Generator.
+#Fluid registry name = cooling per mb, eg: ["minecraft:water=1", "examplemod:fluid=-1"]
+#Less number more cold, min = -100, max = 1
+coolantFluids = ["minecraft:water=1"]
+#Enable this to allow other mods to add their coolant fluids. [default:true]
+coolantFluidsAPI = true
+
+#Range: min = 0, max = 2147483647
+["Basic Thermoelectric Generator"]
+	transfer = "40"
+	perTick = "20"
+	capacity = "5000"
+
+["Hardened Thermoelectric Generator"]
+	transfer = "80"
+	perTick = "40"
+	capacity = "40000"
+
+["Blazing Thermoelectric Generator"]
+	transfer = "300"
+	perTick = "140"
+	capacity = "100000"
+
+["Niotic Thermoelectric Generator"]
+	transfer = "900"
+	perTick = "450"
+	capacity = "250000"
+
+["Spirited Thermoelectric Generator"]
+	transfer = "2000"
+	perTick = "1200"
+	capacity = "1000000"
+

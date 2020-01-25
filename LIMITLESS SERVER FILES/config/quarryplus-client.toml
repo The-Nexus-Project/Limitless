@@ -1,0 +1,8 @@
+
+#Beginning of QuarryPlus client configuration.
+[client]
+	#Not used
+	dummyTexture = "minecraft:glass"
+	#True to enable render of machine effect.
+	enableRender = true
+

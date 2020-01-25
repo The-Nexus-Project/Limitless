@@ -1,0 +1,15 @@
+{
+  "blackListMobs": [
+    "minecraft:wither",
+    "minecraft:ender_dragon"
+  ],
+  "specificDrops": {
+    "minecraft:skeleton": 100,
+    "minecraft:spider": 100,
+    "minecraft:zombie": 100,
+    "minecraft:creeper": 100
+  },
+  "maxAmount": 1500,
+  "radius": 2,
+  "extractorToggleItem": "minecraft:nether_star"
+}

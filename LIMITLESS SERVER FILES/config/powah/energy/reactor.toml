@@ -1,0 +1,34 @@
+#
+#List of coolant fluids used in a Reactor.
+#Fluid registry name = coldness per mb, eg: ["minecraft:water=1", "examplemod:fluid=-1"]
+#Less number more cold, min = -100, max = 1
+coolantFluids = ["minecraft:water=1"]
+#Enable this to allow other mods to add their coolant fluids. [default:true]
+coolantFluidsAPI = true
+
+#Range: min = 0, max = 2147483647
+["Basic Reactor"]
+	transfer = "10000"
+	genFactor = "500"
+	capacity = "5000000"
+
+["Hardened Reactor"]
+	transfer = "40000"
+	genFactor = "1200"
+	capacity = "15000000"
+
+["Blazing Reactor"]
+	transfer = "90000"
+	genFactor = "2700"
+	capacity = "25000000"
+
+["Niotic Reactor"]
+	transfer = "250000"
+	genFactor = "6200"
+	capacity = "45000000"
+
+["Spirited Reactor"]
+	transfer = "1000000"
+	genFactor = "9000"
+	capacity = "100000000"
+

@@ -1,0 +1,21 @@
+
+[general]
+	#Generate urns in world
+	generate_urns = true
+	#Percentage chance to attempt to place an urn in a chunk. Actual frequency of urns will be lower as attempts are not always successful
+	#Range: 0.0 ~ 1.0
+	urn_chance = 0.15
+	#Maximum height urns will generate
+	#Range: 0 ~ 255
+	max_height = 40
+	#Minimum height urns will generate
+	#Range: 0 ~ 255
+	min_height = 1
+	#Chance an urn will contain a snake
+	#Range: 0.0 ~ 1.0
+	snake_chance = 0.3
+	#Dimension ids of dimensions that urns will not generate in
+	dimension_blacklist = [1, -1]
+	#Biomes to not generate urns in, in format "mod_id:biome_id". E.g. "minecraft:desert"
+	biome_blacklist = []
+

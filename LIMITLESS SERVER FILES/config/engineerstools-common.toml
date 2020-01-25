@@ -1,0 +1,40 @@
+
+#Settings affecting the logical server side, but are also configurable in single player.
+[server]
+
+	#Opt-out settings
+	[server.optout]
+		#Completely disable the crushing hammer.
+		without_crushing_hammer = false
+		#Completely disable the REDIA tool.
+		without_redia_tool = false
+		#Opt-out any block by its registry name ('*' wildcard matching, comma separated list, whitespaces ignored. You must match the whole name, means maybe add '*' also at the begin and end. Example: '*wood*,*steel*' excludes everything that has 'wood' or 'steel' in the registry name. The matching result is also traced in the log file. 
+		pattern_excludes = ""
+		#Prevent blocks from being opt'ed by registry name ('*' wildcard matching, comma separated list, whitespaces ignored. Evaluated before all other opt-out checks. You must match the whole name, means maybe add '*' also at the begin and end. Example: '*wood*,*steel*' includes everything that has 'wood' or 'steel' in the registry name.The matching result is also traced in the log file.
+		pattern_includes = ""
+
+	#Miscellaneous settings
+	[server.miscellaneous]
+		#Enables experimental features. Use at own risk.
+		with_experimental = false
+
+	#Settings to tweak the performance, or use cases normally no change should be required here.
+	[server.tweaks]
+		#Durability of the REDIA tool in percent, which the tool has when it is crafted. Allows to tune initial repairing investments for getting efficiency and furtune.
+		#Range: 25 ~ 100
+		redia_tool_initial_durability_percent = 50
+		#Durability (maximum item damage) of the REDIA tool.
+		#Range: 750 ~ 4000
+		redia_tool_durability = 3000
+		#If safe attacking is enabled, this defines in milliseconds how long you cannot accidentally hit passive non-agressive mobs when breaking blocks. The time does not affect preventing to hit villagers, own pets, or zombie pigmen.
+		#Range: 10 ~ 2500
+		redia_tool_attack_cooldown_ms = 10
+		#Disable the REDIA tool feature to prevent accidentally hitting own pets, villagers, or bloody zombie pigmen.
+		without_safe_attacking = false
+		#Defines the fortune depending on the durability. 
+		#Ten values have to given as integer numbers, (between 0 and 3), and the curve must be rising left-to-right.
+		redia_tool_furtune_curve = "0,0,0,0,0,1,2,2,3,3"
+		#Defines the efficiency scaling depending on the durability. 
+		#Ten values have to given in precent, (between 10 and 250), and the curve must be rising left-to-right. 100% corresponds to vanilla diamond tools. The first number specifies the efficiency factor between 0% and 10% durability, second 10% to 20%, last 90% to 100%.
+		redia_tool_efficiency_curve = "10,60,90,100,120,140,170,200,220,230"
+
