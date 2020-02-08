@@ -16,7 +16,7 @@
 	#Generate footsteps as a quadruped (horse)
 	"Footsteps as Quadruped" = false
 	#Enable Footprint particle effects
-	"Enable Footprint Particles" = true
+	"Enable Footprint Particles" = false
 	#Enable armor rustle and rain splash accents for footstep acoustics
 	"Enable Footstep Accents" = false
 	#Style of footprint to display for a player
@@ -30,6 +30,9 @@
 ["Mob Effect Options"]
 	#Show arrow particle trail during flight
 	"Show Arrow Particle Trail" = false
+	#Toolbar master volume scale
+	#Range: 0 ~ 100
+	"Toolbar Volume Scale" = 50
 	#Show breath effect in cold regions and underwater
 	"Show Breath Effect" = true
 	#Enable toolbar item sound effects

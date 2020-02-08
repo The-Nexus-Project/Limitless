@@ -82,7 +82,7 @@
 	costPerHealth = 5000
 	#Energy Per Tick to use No Clip. [Default: 100000]
 	#Range: > 0
-	noClipEnergyPerTick = 100000
+	noClipEnergyPerTick = 600000
 	#Max level to feed up too. [Default By Vanilla MC: 20]
 	#Range: > 0
 	maxFoodLevel = 20

@@ -59,4 +59,7 @@ alarmSoundVolume = 0.3
 #How fast can you rotate when mounted to a camera and holding W-A-S-D?
 #Range: 0.0 ~ 1.7976931348623157E308
 cameraSpeed = 2.0
+#What is the maximum value that can be set for an alarm's range option? Do note, that this may be limited by chunk loading distance. Higher values may also not be finetuneable.
+#Range: > 1
+maxAlarmRange = 100
 

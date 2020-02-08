@@ -1,0 +1,1 @@
+furnace.addRecipe("wrplat_to_plat", <item:silents_mechanisms:platinum_ingot>, <item:wyrmroost:platinum_ingot>, 1, 200);

@@ -25,6 +25,8 @@
 	#Block range of entity special effect handling
 	#Range: 16 ~ 64
 	"Block Range" = 24
+	#Replace client side Randomizers with faster versions
+	"Replace Randoms" = true
 
 #Defines how Sound Control logging will behave
 ["Logging Options"]
