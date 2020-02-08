@@ -1,3 +1,47 @@
+<h1>v1.12</h1>
+
+(**Note that 'a', 'b' & 'c' updates could be released some time after this update. Hotfixes**)
+
+
+**Added**
+- [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
+
+
+**Removed**
+- [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring) (**Temporarily until rewrite of Mod arrives.**)
+- [FlooCraft](https://www.curseforge.com/minecraft/mc-mods/floocraft)
+
+
+**Changes**
+- Disabled the Footprint Particles on the ground when you move around. (**Mob Effects.**)
+- Disabled the 'Webber' Infernal Effect. (**Infernal Mobs.**)
+- Made the Gobber Ores a little bit more common. (**Gobber 2.**)
+- Increased NoClip Energy Per-tick, 100000 -> 600000. (**Overloaded.**)
+- Increased the Distance of Health-Tags over mobs, 8 -> 10 blocks. (**Neat.**)
+
+
+**Recipe Changes**
+- Added Ability to craft Platinum Armor & Tools with Silent's Mechanisms Platinum Ingots. (**WyrmRoost.**)
+- Added Ability to smelt down WyrmRoost Platinum Ingot to get Silent's Mechanisms Platinum Ingot. (**WyrmRoost.**)
+- Tweaked the 'Single Chunk Loader' recipe a little bit. (**A little bit easier recipe.**)
+- Changed the 'Single Chunk Loader' recipe output from 4 to 2.
+
+
+**Fixes**
+- Fixed multiple Ores yielding the wrong output when smelted in a Furnace/Blastfurnace.
+- Fixed some some Ingot-Blocks when crafted back yielding Ingots from another mod vs from what it was originally crafted from.
+- Fixed a recipe conflict between 'Iron Platform' & 'Iron Beam'! (**MCWs Bridges & EmbellishCraft.**)
+- A potential crash when tabbing in and out of the game was fixed. (**Sound Control.**) ( See: [Issue](https://github.com/OreCruncher/SoundControl/issues/4#issuecomment-577681682) )
+- Fixed a recipe conflict with Terracotta Bricks. (**Mystical World & EmbellishCraft.**) (**Thanks [Craft90](https://github.com/craft90) !**)
+- Fixed a recipe conflict with Sandstone Bricks. (**EmbellishCraft & Quark.**)
+
+
+**Updated**
+- Updated Forge to Recommended Version 28.2.0!
+- Updated mods that had an update available & that didn't break things.
+
+
 <h1>v1.11b</h1>
 
 
