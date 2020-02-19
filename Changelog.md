@@ -20,10 +20,11 @@
 - [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 - [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
 - [Carpet Stairs Mod](https://www.curseforge.com/minecraft/mc-mods/carpet-stairs-mod)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
 
 
 **Removed**
-- No Mods.
+- [MCFurnace](https://www.curseforge.com/minecraft/mc-mods/mcfurnace)
 
 
 **Changes**
@@ -62,7 +63,6 @@
 
 
 **Updated**
-- Updated Forge to version 31.1.12!
 - Any mod that had an update available, that also didn't break things.
 
 ---------------
