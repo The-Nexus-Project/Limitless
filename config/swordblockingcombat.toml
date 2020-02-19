@@ -1,0 +1,10 @@
+
+[general]
+	#Percentage an incoming attack will be reduced by when blocking.
+	#Range: 0.0 ~ 1.0
+	"Blocked Damage Ratio" = 0.5
+	#Swords to exclude from blocking. Intended for modded swords that already have their own right-click function. Format for every entry is "<namespace>:<id>".
+	"Blocking Exclusion List" = []
+	#Items to include for blocking. Intended for modded swords that don't extend vanilla swords. Format for every entry is "<namespace>:<id>".
+	"Blocking Inclusion List" = []
+

@@ -6,14 +6,8 @@
 	#A storage block for ender pearls. Eating a chorus fruit will teleport you to a nearby ender pearl block.
 	#If a silverfish burrows into an ender pearl block, it will become an endermite.
 	"BlockOfEnderPearls enabled" = true
-	#A decorative block made from 4 moonstones of the same color.
-	"BlockOfMoonstone enabled" = true
 	#Smelt glowstone in a furnace to get smooth glowstone.
 	"SmoothGlowstone enabled" = true
-
-	[Building.BlockOfMoonstone]
-		#If true, Moonstone blocks change their light levels according to the moon phase.
-		"Moon glow" = true
 
 	[Building.BlockOfEnderPearls]
 		#If true, eating a Chorus Fruit while in range of an Ender Pearl Block will teleport you to it.
@@ -117,8 +111,6 @@
 		"Damage absorbed" = 0.75
 
 	[Tweaks.AmbientMusicImprovements]
-		#If true, has a chance of playing Charm music.
-		"Play Charm music" = true
 		#If true, the six Creative music tracks may play in survival mode.
 		"Play Creative music" = true
 		#Override the delay (in ticks) between ambient music tracks.  If zero, does not override the track default.
@@ -173,10 +165,6 @@
 	#Right-click a bat with a bucket to capture it.
 	#Right-click your Bat in a Bucket to release the bat and help locate entities around you.
 	"BatInABucket enabled" = true
-	#A moonstone helps align builds. Right-click while sneaking to bind a moonstone to any location.
-	#When you are aligned with the location on the X or Z axis, the stone will glow and the homing sound will play.When standing on the original location, a chime sound will play.
-	#This works across dimensions, helping you prceisely align portals between the Overworld and the Nether.
-	"Moonstones enabled" = true
 
 	[Tools.BatInABucket]
 		#Number of seconds that entities will receive the glowing effect.
@@ -214,17 +202,18 @@
 	#Fumaroles are small columns of hot steam rising from the nether floor.
 	#Sometimes they erupt, sending entities that are placed on them high into the air.
 	"Fumaroles enabled" = true
-	#Villages can spawn in swamps and jungles. Villagers spawning in these villages will use their correct biome texture.
-	"MoreVillageBiomes enabled" = true
 	#Cartographers sell Structure Maps that can be used to find additional overworld structures.
 	"StructureMaps enabled" = true
+	#Gold deposits spawn in the Nether that can be broken to receive gold nuggets.
+	"NetherGoldDeposits enabled" = true
+	#Villages can spawn in swamps, jungles and bedrock-edition biomes.
+	#Villagers spawning in these villages will use their correct biome texture.
+	"MoreVillageBiomes enabled" = true
 	#Allows additional hostile mobs to spawn inside world structures.
 	#If allow normal mob spawns is false, only mobs specified in additional spawns will appear.
 	"AdditionalMobsInStructures enabled" = true
 	#Add colored runes in stronghold End Portal frames. Two portals with the same runes will be linked together.
 	"EndPortalRunes enabled" = true
-	#Gold deposits spawn in the Nether that can be broken to receive gold nuggets.
-	"NetherGoldDeposits enabled" = true
 	#Adds additional trades to village professions. 
 	#Librarians buy back any enchanted books and sell curse break books, 
 	#butchers and leatherworkers will trade zombie flesh for meat and leather, 
@@ -286,6 +275,10 @@
 		"Villager experience awarded" = 5
 		#Maximum emerald cost of a general structure map.
 		"General map maximum cost" = 7
+
+	[World.Fumaroles]
+		#Volume of the eruption. 1.0 is full volume, 0.0 silent.
+		"Eruption volume" = 0.25
 
 	[World.EndPortalRunes]
 		#If true, sneak-clicking with an empty hand or colored rune removes an eye of ender from its frame.

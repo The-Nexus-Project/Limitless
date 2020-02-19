@@ -1,0 +1,15 @@
+
+[NAUSEA]
+	#The strength of the Nausea effect
+	#Range: 0.0 ~ 10.0
+	nauseaModifier = 0.1
+	#Set to true to activate stumbling movement when nauseous
+	stumbling = false
+	#Set to true if stumbling movement should happen even while standing still when nauseous
+	alwaysStumbling = false
+
+[PORTAL]
+	#The strength of the portal distortion effect
+	#Range: 0.0 ~ 10.0
+	portalModifier = 0.2
+

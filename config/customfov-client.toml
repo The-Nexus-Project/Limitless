@@ -1,0 +1,60 @@
+#Set to true to disable all vanilla FoV modifiers
+staticFoV = false
+#Set to true to disable all FoV modifiers, including modded ones
+superStaticFoV = false
+
+[Flying]
+	#The minimum FoV flying modifier value
+	#Range: -10.0 ~ 10.0
+	flyingMin = -10.0
+	#The maximum FoV flying modifier value
+	#Range: -10.0 ~ 10.0
+	flyingMax = 10.0
+	#The modifier to multiply by the original FoV modifier
+	#Range: 0.0 ~ 10.0
+	flyingModifier = 1.0
+
+[Aiming]
+	#The maximum FoV aiming modifier value
+	#Range: -10.0 ~ 10.0
+	aimingMax = 10.0
+	#The modifier to multiply by the original FoV modifier
+	#Range: 0.0 ~ 10.0
+	aimingModifier = 1.0
+	#The minimum FoV aiming modifier value
+	#Range: -10.0 ~ 10.0
+	aimingMin = -10.0
+
+[Sprinting]
+	#The modifier to multiply by the original FoV modifier
+	#Range: 0.0 ~ 10.0
+	sprintingModifier = 1.0
+	#The minimum FoV sprinting modifier value
+	#Range: -10.0 ~ 10.0
+	sprintingMin = -10.0
+	#The maximum FoV sprinting modifier value
+	#Range: -10.0 ~ 10.0
+	sprintingMax = 10.0
+
+["Speed Effects"]
+	#The maximum FoV effects modifier value
+	#Range: -10.0 ~ 10.0
+	effectsMax = 0.0
+	#The minimum FoV effects modifier value
+	#Range: -10.0 ~ 10.0
+	effectsMin = -0.0
+	#The modifier to multiply by the original FoV modifier
+	#Range: 0.0 ~ 10.0
+	effectsModifier = 0.0
+
+[Underwater]
+	#The modifier to multiply by the original FoV modifier
+	#Range: 0.0 ~ 10.0
+	underwaterModifier = 1.0
+	#The maximum FoV underwater modifier value
+	#Range: -10.0 ~ 10.0
+	underwaterMax = 10.0
+	#The minimum FoV underwater modifier value
+	#Range: -10.0 ~ 10.0
+	underwaterMin = -10.0
+

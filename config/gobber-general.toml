@@ -3,18 +3,18 @@
 [gobber2_ore]
 	#Chances of Gobber Ore pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
-	gobberOreChance = 6
+	gobberOreChance = 10
 	#Maximal height for Gobber Ore pocket generation [0-255, default: 30]
 	#Range: 0 ~ 255
-	gobberOreMaxHeight = 27
+	gobberOreMaxHeight = 30
 	#Generate Gobber Ore in the world [true / false]
 	gobberOreGeneration = true
 	#Size of Gobber Ore pockets [0-100, default: 3]
 	#Range: 0 ~ 100
-	gobberOreSize = 1
+	gobberOreSize = 2
 	#Minimal height for Gobber Ore pocket generation, [0-255, default: 20]
 	#Range: 0 ~ 255
-	gobberOReMinHeight =10
+	gobberOReMinHeight = 16
 
 #Gobber Nether Ore Generation
 [gobber2_ore_nether]
@@ -31,13 +31,13 @@
 	gobberOreNetherSize = 1
 	#Chances of Gobber Nether Ore pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
-	gobberOreNetherChance = 6
+	gobberOreNetherChance = 10
 
 #Gobber End Ore Generation
 [gobber2_ore_end]
 	#Minimal height for Gobber End Ore pocket generation, [0-255, default: 5]
 	#Range: 0 ~ 255
-	gobberOreEndMinHeight = 0
+	gobberOreEndMinHeight = 5
 	#Generate Gobber End Ore in the world [true / false]
 	gobberOreEndGeneration = true
 	#Size of Gobber End Ore pockets [0-100, default: 5]
@@ -45,22 +45,22 @@
 	gobberOreEndSize = 1
 	#Maximal height for Gobber End Ore pocket generation [0-255, default: 50]
 	#Range: 0 ~ 255
-	gobberOreEndMaxHeight = 255
+	gobberOreEndMaxHeight = 50
 	#Chances of Gobber End Ore pocket being generated [0-100, default: 10]
 	#Range: 0 ~ 100
-	gobberOreEndChance = 6
+	gobberOreEndChance = 10
 
 #Gobber Lucky Block Generation
 [gobber2_lucky_block]
 	#Size of Gobber Lucky Block pockets [0-100, default: 3]
 	#Range: 0 ~ 100
-	gobberLuckyBlockSize = 3
+	gobberLuckyBlockSize = 1
 	#Chances of Gobber Lucky Block pocket being generated [0-100, default: 20]
 	#Range: 0 ~ 100
-	gobberLuckyBlockChance = 8
+	gobberLuckyBlockChance = 15
 	#Minimal height for Gobber Lucky Block pocket generation, [0-255, default: 1]
 	#Range: 0 ~ 255
-	gobberLuckyBlockMinHeight = 5
+	gobberLuckyBlockMinHeight = 1
 	#Maximal height for Gobber Lucky Block pocket generation [0-255, default: 255]
 	#Range: 0 ~ 255
 	gobberLuckyBlockMaxHeight = 255

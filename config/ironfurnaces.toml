@@ -1,0 +1,71 @@
+
+#Furnace Settings
+[furnaces]
+
+	[furnaces.iron_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 160
+		#Range: 2 ~ 72000
+		speed = 160
+
+	[furnaces.obsidian_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 20
+		#Range: 2 ~ 72000
+		speed = 20
+
+	[furnaces.crystal_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 40
+		#Range: 2 ~ 72000
+		speed = 40
+
+	[furnaces.diamond_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 80
+		#Range: 2 ~ 72000
+		speed = 80
+
+	[furnaces.copper_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 180
+		#Range: 2 ~ 72000
+		speed = 180
+
+	[furnaces.emerald_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 40
+		#Range: 2 ~ 72000
+		speed = 40
+
+	[furnaces.silver_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 140
+		#Range: 2 ~ 72000
+		speed = 140
+
+	[furnaces.gold_furnace]
+		# Number of ticks to complete one smelting operation.
+		# 200 ticks is what a regular furnace takes.
+		# Default: 120
+		#Range: 2 ~ 72000
+		speed = 120
+
+#JEI Settings
+[jei]
+
+	[jei.jei]
+		# Enable or disable the Click Area inside the GUI in all of Iron Furnaces' furnaces.
+		enable_jei_click_area = true
+		# Enable or disable the Catalysts in Jei for Iron Furnaces.
+		enable_jei_catalysts = true
+		# Enable or disable the JeiPlugin of Iron Furnaces.
+		enable_jei = true
+

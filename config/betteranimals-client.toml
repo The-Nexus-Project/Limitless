@@ -1,0 +1,28 @@
+
+[minecraft]
+	replace_wolf = false
+	replace_sheep = false
+	replace_cat = true
+	replace_spider = true
+	replace_polarbear = true
+	replace_chicken = false
+	replace_mooshroom = false
+	replace_cow = false
+	replace_cavespider = true
+	replace_pig = false
+	replace_ocelot = true
+	replace_fox = true
+	replace_squid = false
+	replace_silverfish = true
+
+[midnight]
+	replace_nightstag = true
+
+[quark_compat]
+	#enable overriding quark's override. Chicken must be enabled as well.
+	enablequarkoverridechicken = true
+	#enable overriding quark's override. Cow must be enabled as well.
+	enablequarkoverridecow = true
+	#enable overriding quark's override. Pig must be enabled as well.
+	enablequarkoverridepig = true
+

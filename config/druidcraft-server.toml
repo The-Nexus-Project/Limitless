@@ -40,30 +40,49 @@
 	drop_seeds = true
 
 [entityspawning]
+	#List of biome types from the biome dictionary that the dreadfish cannot spawn in. Define as strings with "s and separate with a comma.
+	dreadfish_exclusions = ["NETHER", "END"]
+	#Maximum size of the group when spawned.
+	#Range: 1 ~ 200
+	lunar_moth_max_group_size = 5
+	#Maximum size of the group when spawned.
+	#Range: 1 ~ 10
+	dreadfish_max_group_size = 3
+	#Minimum size of the group when spawned.
+	#Range: 1 ~ 200
+	lunar_moth_min_group_size = 2
+	#Minimum size of the group when spawned.
+	#Range: 1 ~ 200
+	beetle_min_group_size = 1
 	#Minimum size of the group when spawned.
 	#Range: 1 ~ 5
 	dreadfish_min_group_size = 1
+	#List of biome types from the biome dictionary that lunar moths cannot spawn in. Define as strings with "s and separate with a comma.
+	lunar_moth_exclusions = ["DENSE"]
 	#Allow beetles to spawn?
 	beetle_spawn = true
 	#Maximum size of the group when spawned.
 	#Range: 1 ~ 200
 	beetle_max_group_size = 2
+	#List of biome types from the biome dictionary that beetles cannot spawn in. Define as strings with "s and separate with a comma.
+	beetle_exclusions = [""]
+	#List of biome types from the biome dictionary that the lunar moth can spawn in. Define as strings with "s and separate with a comma.
+	lunar_moth_biomes = ["FOREST", "PLAINS", "MOUNTAIN", "HILLS"]
 	#Allow dreadfish to spawn?
 	dreadfish_spawn = true
 	#Determines the rarity of the dreadfish.
 	#Range: 1 ~ 100
 	dreadfish_weight = 24
-	#List of biome types from the biome dictionary that the dreadfish can spawn in. Separate types with a '|' between them.
-	dreadfish_biomes = "SNOWY|COLD"
-	#Maximum size of the group when spawned.
-	#Range: 1 ~ 10
-	dreadfish_max_group_size = 3
+	#List of biome types from the biome dictionary that the dreadfish can spawn in. Define as strings with "s and separate with a comma.
+	dreadfish_biomes = ["SNOWY", "COLD"]
+	#Determines the rarity of the lunar moth.
+	#Range: 1 ~ 200
+	lunar_moth_weight = 2
 	#Determines the rarity of the beetle.
 	#Range: 1 ~ 200
 	beetle_weight = 5
-	#List of biome types from the biome dictionary that the beetle can spawn in. Separate types with a '|' between them.
-	beetle_biomes = "CONIFEROUS|FOREST|JUNGLE|DENSE"
-	#Minimum size of the group when spawned.
-	#Range: 1 ~ 200
-	beetle_min_group_size = 1
+	#List of biome types from the biome dictionary that the beetle can spawn in. Define as strings with "s and separate with a comma.
+	beetle_biomes = ["CONIFEROUS", "FOREST", "JUNGLE", "DENSE"]
+	#Allow lunar moths to spawn?
+	lunar_moth_spawn = true
 
