@@ -1,3 +1,71 @@
+<h1>v1.13</h1>
+
+**NOTE!**
+(Make sure to remove the 'biomesoplenty' config file folder for this update, located in /modpack-root/config/ !)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [InventoryTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn)
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring) (**Re-added!**)
+- [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
+- [Platforms](https://www.curseforge.com/minecraft/mc-mods/platforms) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore) )
+- [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [Custom Nausea](https://www.curseforge.com/minecraft/mc-mods/custom-nausea) (**Less annoying nausea!**)
+- [Custom FoV](https://www.curseforge.com/minecraft/mc-mods/custom-fov)
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (**Re-Added!**)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [Carpet Stairs Mod](https://www.curseforge.com/minecraft/mc-mods/carpet-stairs-mod)
+
+
+**Removed**
+- No Mods.
+
+
+**Changes**
+- Lowered the strength of the Nausea effect. (**Custom Nausea.**)
+- Lowered the strength of the Portal effect. (**Custom Nausea.**)
+- The speed effect no longer affects your FoV, that is if you're not sprinting. (**Custom FoV.**)
+- Disabled Inventory Sorting from **Quark**. (**Replaced by Inventory Tweaks Reborn.**) (**Default Keybind: 'Middle Mouse Button'.**)
+- Increased Vein Size of the Gobber Ore, 1 -> 2. (**Gobber 2.**)
+- Made the Gobber Ores a little bit more common. (*Gobber 2.**)
+- Updated Menu buttons to be less round. (**Openloader.**)
+- Added a Resouce Pack icon. (**Openloader.**)
+- Updated the Sorting button texture. (**Inventory Tweaks Reborn.**)
+- Changed Modname Tooltip color to "Red, c". (**Mod Name Tooltip.**)
+- Added an Advancement when you spawn into a newly generated world or join a server for the first time. (**Welcome!**)
+- Enabled new model for the Fox Mob. (**Better Animal Models.**)
+- Enabled Excavate Auto Pickup, except for the one block you're mining. (**Ore Excavation.**)
+
+
+**Recipe Changes**
+- Tweaked the Recipe for the Angel Ring. (Angel Ring Mod.)
+- Updated the Recipe for the Diamond Ring. (Angel Ring Mod.)
+
+
+**Fixes**
+- A severe duping exploit was fixed in InvTweaks Reborn. (See [Issue](https://github.com/Landmaster/InvTweaksReborn/issues/9) )
+- A 'Ticking Entity' crash was fixed in the mod 'Solar Flux Reborn'. ( **See here**: [Issue](https://gitlab.com/DragonForge/SolarFluxReborn/issues/84) )
+- Fixed Minimap not being exactly in the corner on GUI-Scale Auto, 1, 2 & 4. (**Xaero's Minimap.**)
+- A possible crash was fixed when using the 'Auto Torch'. (**Cyclic.**)
+- Fixed inventory sorting keybind not working.
+- Minor fixes within mod updates.
+
+
+**Server Files**
+- Added a completely new way to download the server files.
+- Added a Linux server startup script.
+
+
+**Updated**
+- Updated Forge to version 31.1.12!
+- Any mod that had an update available, that also didn't break things.
+
+
 <h1>v1.12</h1>
 
 (**Note that 'a', 'b' & 'c' updates could be released some time after this update. Hotfixes**)
