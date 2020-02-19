@@ -54,7 +54,7 @@
 - A possible crash was fixed when using the 'Auto Torch'. (**Cyclic.**)
 - Fixed inventory sorting keybind not working.
 - Minor fixes within mod updates.
-- Removed the search bar that appear in some GUIs, placement was off and or was blocking slots. (**Searchable Chests.**)
+- Removed the search bar that appear in some GUIs, placement was off or was blocking slots/buttons. (**Searchable Chests.**)
 
 
 **Server Files**
