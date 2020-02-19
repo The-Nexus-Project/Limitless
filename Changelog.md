@@ -49,7 +49,6 @@
 
 
 **Fixes**
-- A severe duping exploit was fixed in InvTweaks Reborn. (See [Issue](https://github.com/Landmaster/InvTweaksReborn/issues/9) )
 - A 'Ticking Entity' crash was fixed in the mod 'Solar Flux Reborn'. ( **See here**: [Issue](https://gitlab.com/DragonForge/SolarFluxReborn/issues/84) )
 - Fixed Minimap not being exactly in the corner on GUI-Scale Auto, 1, 2 & 4. (**Xaero's Minimap.**)
 - A possible crash was fixed when using the 'Auto Torch'. (**Cyclic.**)
