@@ -65,6 +65,7 @@
 - Updated Forge to version 31.1.12!
 - Any mod that had an update available, that also didn't break things.
 
+---------------
 
 <h1>v1.12</h1>
 
