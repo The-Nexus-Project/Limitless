@@ -33,7 +33,7 @@
 - The speed effect no longer affects your FoV, that is if you're not sprinting. (**Custom FoV.**)
 - Disabled Inventory Sorting from **Quark**. (**Replaced by Inventory Tweaks Reborn.**) (**Default Keybind: 'Middle Mouse Button'.**)
 - Increased Vein Size of the Gobber Ore, 1 -> 2. (**Gobber 2.**)
-- Made the Gobber Ores a little bit more common. (*Gobber 2.**)
+- Made the Gobber Ores a little bit more common. (**Gobber 2.**)
 - Updated Menu buttons to be less round. (**Openloader.**)
 - Added a Resouce Pack icon. (**Openloader.**)
 - Updated the Sorting button texture. (**Inventory Tweaks Reborn.**)
