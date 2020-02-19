@@ -110,6 +110,7 @@
 - Updated Forge to Recommended Version 28.2.0!
 - Updated mods that had an update available & that didn't break things.
 
+---------------
 
 <h1>v1.11b</h1>
 
@@ -125,6 +126,7 @@
 **Changes**
 - Nothing changed except the mods removed above.
 
+---------------
 
 <h1>v1.11a</h1>
 
@@ -144,6 +146,7 @@
 **Changes**
 - Nothing changed except the mods removed above.
 
+---------------
 
 <h1>v1.11</h1>
 
@@ -209,6 +212,7 @@
 **Updated**
 - Updated mods that had an update available & that didn't break things.
 
+---------------
 
 <h1>v1.10a</h1>
 
@@ -224,6 +228,7 @@ Optional Update, you don't need to update.
 **Changes**
 - Removed PlantTech2 because it was causing alot of crashing issues, once this is fixed. It'll be re-added. (**Sorry if you we're using it!**)
 
+---------------
 
 <h1>v1.10</h1>
 
@@ -293,6 +298,7 @@ Optional Update, you don't need to update.
 **Updated**
 - Any mod that had an update available.
 
+---------------
 
 <h1>v1.09</h1>
 
@@ -348,6 +354,7 @@ Optional Update, you don't need to update.
 **Updated**
 - Any mod that had an update available.
 
+---------------
 
 <h1>v1.08a</h1>
 
@@ -415,6 +422,7 @@ Don't update if you are currently doing stuff with these mods. Though alot have 
 **Updated**
 - Any mod that had an update available.
 
+---------------
 
 <h1>v1.08</h1>
 
@@ -502,6 +510,7 @@ Forge won't be updated until a Mod depends on a newer version! Could've caused i
 **Updated**
 - Mods that had an update available.
 
+---------------
 
 <h1>v1.07a</h1>
 
@@ -538,6 +547,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Mods that had an update available.
 - Forge to version 28.1.107!
 
+---------------
 
 <h1>v1.07</h1>
 
@@ -582,6 +592,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Mods that had an update available.
 - Updated Forge from v28.1.96 to v28.1.104!
 
+---------------
 
 <h1>v1.06</h1>
 
@@ -623,6 +634,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Mods that had an update available.
 - Forge to version 28.1.96!
 
+---------------
 
 <h1>v1.05</h1>
 
@@ -661,6 +673,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Mods with updates available.
 - Forge to version 28.1.87!
 
+---------------
 
 <h1>v1.04b</h1>
 
@@ -676,6 +689,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 **Updated**
 - 1 mod.
 
+---------------
 
 <h1>v1.04a</h1>
 
@@ -685,6 +699,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 **Updated**
 - 2 mods.
 
+---------------
 
 <h1>v1.04</h1>
 
@@ -731,6 +746,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Every mod with an update available.
 - Forge to version 28.1.61!
 
+---------------
 
 <h1>v1.03</h1>
 
@@ -793,6 +809,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 - Every mod with an update available.
 - Forge to version 28.1.44!
 
+---------------
 
 <h1>v1.02.1</h1>
 
@@ -807,7 +824,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 **NOTE**
 - Adventure Tools is removed temporarily to fix Server Issues.
 
-
+---------------
 
 <h1>v1.02</h1>
 
@@ -869,7 +886,7 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 **Server Files**
 - You can download Server Files on our CurseForge page [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless). (Server-Packs on the right side)
 
-
+---------------
 
 <h1>v1.01</h1>
 
@@ -897,3 +914,5 @@ Update v1.08 arrives Thursday, Dec 26th. Could be some hotfixes before that.
 
 **Server Files**
 - You can download Server Files [here](https://www.curseforge.com/minecraft/modpacks/tnp-limitless/files/2799416).
+
+---------------
