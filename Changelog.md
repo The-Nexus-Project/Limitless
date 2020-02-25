@@ -1,3 +1,44 @@
+<h1>v1.13.1</h1>
+
+**NOTE!**
+The mod [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked) has been removed this update, be sure to empty out any existing backpacks. To not lose any important items!
+
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods.
+
+
+**Removed**
+- [Permasomnia](https://www.curseforge.com/minecraft/mc-mods/permasomnia)
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+
+
+**Changes**
+- Some very minor changes.
+
+
+**World Gen Changes**
+- The 'Random Plants' structure can now only spawn in Forests & Plains. (**Ruins.**)
+- Prevented the 'Balloon Structure' to spawn in any dimension except the Overworld. (**Ruins.**)
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Server Files**
+- Added a Server Icon. (**Mod-Pack Icon.**)
+- Reverted to the previous way of doing Server Files.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.13</h1>
 
 **NOTE!**
