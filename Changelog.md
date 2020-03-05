@@ -1,3 +1,49 @@
+<h1>v1.14</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) (**Pre-configured.**)
+- [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+
+
+**Removed**
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Parachute Mod](https://www.curseforge.com/minecraft/mc-mods/parachutemod)
+
+
+**Changes**
+- Overhauled the entire Main Menu & Menu Buttons. (**PackMenu.**)
+- Formatted Main Menu versioning texts better, bottom right. (**BetterTitleScreen.**)
+- Made Gobber Ores a little bit more common. (**Gobber 2.**)
+- Made buttons even less round. (**Pack Menu.**)
+- Some other changes. (**within Mods.**)
+
+
+**Fixes**
+- A severe duping exploit was fixed in InvTweaks Reborn. (See: [CF](https://www.curseforge.com/minecraft/mc-mods/it-reborn/files/2894850) )
+- Minor fixes within mod updates.
+
+
+**Server Files**
+- Added a Linux Server-Startup Script. (**Thanks darkfire000!**)
+
+
+**Resources**
+- Updated Resource Pack Icon. (**Open Loader.**)
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.13.1</h1>
 
 **NOTE!**
