@@ -20,7 +20,7 @@ dimensionsToSpawnIn=overworld
 # list of other biomes in which this template may spawn
 # biome corresponding to directory is always assumed, listed or not
 # generic templates should leave this list empty
-biomesToSpawnIn=
+biomesToSpawnIn=forest, plains
 #
 # criterion expression specifying types of biome where template spawns
 # this is in addition to those explicitly listed as biomesToSpawnIn

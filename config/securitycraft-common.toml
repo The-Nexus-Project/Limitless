@@ -62,4 +62,6 @@ cameraSpeed = 2.0
 #What is the maximum value that can be set for an alarm's range option? Do note, that this may be limited by chunk loading distance. Higher values may also not be finetuneable.
 #Range: > 1
 maxAlarmRange = 100
+#Should the sentry/inventory scanner/laser block/etc. ignore players and entities that are invisible?
+respect_invisibility = false
 

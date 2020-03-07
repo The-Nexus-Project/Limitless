@@ -34,7 +34,7 @@
 	#Tools blacklisted from excavating
 	"Tool Blacklist" = []
 	#Blocks blacklisted from being excavated
-	"Block Blacklist" = ["minecraft:grass_block", "minecraft:stone", "minecraft:dirt", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone", "minecraft:netherrack", "minecraft:soul_sand", "nethercraft:nether_dirt", "biomesoplenty:flesh", "mysticalagriculture:soulstone", "minecraft:end_stone", "extcaves:stone_lavastone", "embellishcraft:basalt"]
+	"Block Blacklist" = ["minecraft:grass_block", "minecraft:stone", "minecraft:dirt", "minecraft:sand", "minecraft:red_sand", "minecraft:sandstone", "minecraft:red_sandstone", "minecraft:netherrack", "minecraft:soul_sand", "nethercraft:nether_dirt", "biomesoplenty:flesh", "mysticalagriculture:soulstone", "minecraft:end_stone", "extcaves:stone_lavastone", "embellishcraft:basalt", "extcaves:stone"]
 	#The maximum number of blocks that can be excavated at once
 	#Range: > 1
 	Limit = 256

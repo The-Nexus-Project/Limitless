@@ -7,9 +7,9 @@
 	#Show which version of Minecraft Coder Pack (MCP) the client is running.
 	showMcpVersion = false
 	#Show which version of Minecraft the client is currently running.
-	showMcVersion = true
+	showMcVersion = false
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§9§lTNP Limitless §f§l| §3§lv1.13"]
+	text = ["§cTNP Limitless", "§cVersion: §4§o1.14", "§7Minecraft 1.14.4"]
 
