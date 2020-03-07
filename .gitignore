@@ -50,3 +50,9 @@ config/xaerominimap.txt
 config/trashslot-client.toml
 
 reauth.toml
+
+BotaniaVars.dat
+
+patchouli_data.json
+
+minecraftinstance.json
