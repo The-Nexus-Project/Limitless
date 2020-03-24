@@ -1,3 +1,37 @@
+<h1>v1.15</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful)
+- [Featured Servers](https://www.curseforge.com/minecraft/mc-mods/featured-servers)
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Material Master](https://www.curseforge.com/minecraft/mc-mods/material-master) (**New required library by** [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) )
+
+**Removed**
+- [Dynamic Surroundings: SoundControl](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-soundcontrol)
+- [Dynamic Surroundings: MobEffects](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-mobeffects)
+- [Taffy DAF](https://www.curseforge.com/minecraft/mc-mods/taffydaf)
+
+
+**Changes**
+- Added a Featured Server, (the official Limitless Server). This will no longer override(remove) any existing servers upon updating the modpack.
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Fixed Resource Pack being invalid & having the wrong name.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 28.2.3!
+
+---------------
+
 <h1>v1.14</h1>
 
 **Always remember to backup your world(s) before updating!**
