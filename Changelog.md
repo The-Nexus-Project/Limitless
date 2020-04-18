@@ -3,7 +3,8 @@
 **Alot of mods removed & quite a few mods added!**
 
 **NOTE! It's highly recommended to reset The Nether with this update!**
-**Obviously this can be ignored if you have important builds in The Nether.**
+
+**(Obviously this can be ignored if you have important builds in The Nether.)**
 
 **And always remember to backup your world(s) before updating!**
 
@@ -25,7 +26,7 @@
 - [BetterCompass](https://www.curseforge.com/minecraft/mc-mods/better-compass)
 - [Bones](https://www.curseforge.com/minecraft/mc-mods/bones)
 - [BlazeSwordMod](https://www.curseforge.com/minecraft/mc-mods/blaze-sword-mod)
-- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
+- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by** [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) **!** )
 - [InvTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**) (**Will be re-added if available on CurseForge again.**)
 - [Nutritious Milk](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk)
 - [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) (**Removed due to requests.**)
@@ -33,7 +34,7 @@
 - [SimplyTrophies](https://www.curseforge.com/minecraft/mc-mods/simply-trophies)
 - [Stone Chest](https://www.curseforge.com/minecraft/mc-mods/stone-chest)
 - [Stone Crafting Table](https://www.curseforge.com/minecraft/mc-mods/stone-crafting-table) (**There's alternatives that provides the same functionality.**)
-- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) !)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in** [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) **!** )
 - [Wyrmroost](https://www.curseforge.com/minecraft/mc-mods/wyrmroost) (**This WILL be re-added at some point!**)
 
 
