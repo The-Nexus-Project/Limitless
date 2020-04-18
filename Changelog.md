@@ -1,3 +1,71 @@
+<h1>v1.16</h1>
+
+**Alot of mods removed & quite a few mods added!**
+
+**NOTE! It's highly recommended to reset The Nether with this update!**
+**Obviously this can be ignored if you have important builds in The Nether.**
+
+**And always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) (**ALPHA VERSION! Report issues on their issue tracker.** (**Found here:** [IE GitHub](https://github.com/BluSunrize/ImmersiveEngineering/issues) )
+- [JEI Tweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+- [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) (+ [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex) )
+- [Pam's HC2 Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
+- [Strange](https://www.curseforge.com/minecraft/mc-mods/strange)
+- [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay)
+
+
+**Removed**
+- [Better Muffling](https://www.curseforge.com/minecraft/mc-mods/better-muffling) (**Replaced by another mod.**)
+- [BetterCompass](https://www.curseforge.com/minecraft/mc-mods/better-compass)
+- [Bones](https://www.curseforge.com/minecraft/mc-mods/bones)
+- [BlazeSwordMod](https://www.curseforge.com/minecraft/mc-mods/blaze-sword-mod)
+- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
+- [InvTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**) (**Will be re-added if available on CurseForge again.**)
+- [Nutritious Milk](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk)
+- [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) (**Removed due to requests.**)
+- [Searchable Chests](https://www.curseforge.com/minecraft/mc-mods/searchable-chests) (**Replaced by Quark's Inv Searching.**)
+- [SimplyTrophies](https://www.curseforge.com/minecraft/mc-mods/simply-trophies)
+- [Stone Chest](https://www.curseforge.com/minecraft/mc-mods/stone-chest)
+- [Stone Crafting Table](https://www.curseforge.com/minecraft/mc-mods/stone-crafting-table) (**There's alternatives that provides the same functionality.**)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) !)
+- [Wyrmroost](https://www.curseforge.com/minecraft/mc-mods/wyrmroost) (**This WILL be re-added at some point!**)
+
+
+**Changes**
+- Enabled Quark's Inventory Sorting temporarily. (**Button top right over inventory slots. Or any other container.**)
+- New Biome Ambient sounds. (**Can be turned down in Music & Sounds menu, under Ambient/Environment. The Slider.**)
+- Disabled Zinc & Copper Ore. (**Create.**) (**To prevent Duplicate Ores.**)
+- Disabled **Apotheosis** Enchantment Tooltips to prevent having duplicate tooltips.
+- Reverted the Tamed Cat Model back to it's original Vanilla model. (**BetterAnimals.**)
+- Shortened the Sword Blocking window. (**SwordBlockingCombat.**)
+- Enabled Chest Searching button. (**Quark.**)
+- Updated Title Screen menu background. (**PackMenu.**)
+- Updated Options menu background. (**PackMenu.**)
+- Lowered the spawn% of a balloon structure generating in the Overworld, 7 -> 5 weight. (**Ruins.**)
+- Hid some items from View in JEI. (**JEITweaker.**)
+- Removed TMechworks Aluminum Ore from Worldgen.
+- Made Pam's HarvestCraft fruit trees a little less common, 500 weight -> 1000 weight.
+- Updated Window Title name.
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Fixed multiple furnace recipes & normal recipes outputting the wrong items.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 28.2.4!
+
+---------------
+
 <h1>v1.15</h1>
 
 **Always remember to backup your world(s) before updating!**
