@@ -1,3 +1,40 @@
+<h1>v1.17</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+**Added**
+- [Bouncy Bouncy](https://www.curseforge.com/minecraft/mc-mods/bouncy-bouncy)
+- [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+- [Smaller Nether Portals](https://www.curseforge.com/minecraft/mc-mods/smaller-nether-portals)
+- [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)
+- [Pam's DesertCraft](https://www.curseforge.com/minecraft/mc-mods/pams-desertcraft)
+- [Industrial Agriculture](https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture) (**Mystical Agriculture Addon!**)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [WyrmRoost](https://www.curseforge.com/minecraft/mc-mods/wyrmroost)
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- Made multiple Ruins structures more rare and more spread out. (**Ruins Mod.**)
+- Made Biomes O' Plenty the default world generator when creating a new world.
+- Hid some items from view in JEI.
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 28.2.11!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.16</h1>
 
 **Alot of mods removed & quite a few mods added!**
