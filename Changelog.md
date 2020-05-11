@@ -15,7 +15,7 @@
 
 
 **Removed**
-- No mods removed!
+- [Smoke](https://www.curseforge.com/minecraft/mc-mods/smoke) (**No longer available on CurseForge!**)
 
 
 **Changes**
