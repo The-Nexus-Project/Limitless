@@ -1,3 +1,25 @@
+<h1>v1.17.1</h1>
+
+**Very minor update. Optional.**
+
+**Added**
+- No mods added!
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- Added some scripts for WyrmRoost.
+
+
+**Recipe Changes**
+- Added Ability to craft Platinum Armor & Tools with Silent's Mechanisms Platinum Ingots. (**WyrmRoost.**)
+- Added Ability to smelt down WyrmRoost Platinum Ingot to get Silent's Mechanisms Platinum Ingot. (**WyrmRoost.**)
+
+---------------
+
 <h1>v1.17</h1>
 
 **Always remember to backup your world(s) before updating!**
