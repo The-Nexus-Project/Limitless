@@ -1,3 +1,53 @@
+<h1>v1.18</h1>
+
+**This update brings some mod updates and replaces the current Minimap mod. Be sure to backup your waypoints!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2969923) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) )
+
+
+**Removed**
+- [Bouncy Bouncy](https://www.curseforge.com/minecraft/mc-mods/bouncy-bouncy) (**Currently removed from CurseForge!**)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) (**Performance Issues.**)
+
+
+**Changes**
+- Changed 'Version' in Main Menu to 'Pack Version'.
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 28.2.18!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
+<h1>v1.17.2</h1>
+
+**Another very minor update. Optional.**
+
+**Added**
+- No mods added!
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- Removed Server from Multiplayer Section.
+
+---------------
+
 <h1>v1.17.1</h1>
 
 **Very minor update. Optional.**
