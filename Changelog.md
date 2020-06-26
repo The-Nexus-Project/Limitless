@@ -18,6 +18,9 @@
 **Changes**
 - Added an Official TNP Limitless 1 Server to the Multiplayer Section.
 
+**Updated**
+- 4 mods have been updated, a must to get the update approved. Other than that nothing else is updated.
+
 ---------------
 
 <h1>v1.18</h1>
