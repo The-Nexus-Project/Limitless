@@ -1,3 +1,25 @@
+<h1>v1.18.1</h1>
+
+**Minor update!**
+
+**This minor update adds an Official TNP Limitless Server! (Found by default in-game.)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added an Official TNP Limitless 1 Server to the Multiplayer Section.
+
+---------------
+
 <h1>v1.18</h1>
 
 **This update brings some mod updates and replaces the current Minimap mod. Be sure to backup your waypoints!**
