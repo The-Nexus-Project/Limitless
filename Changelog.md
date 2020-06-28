@@ -1,3 +1,25 @@
+<h1>v1.18.2</h1>
+
+**Another very minor update!**
+
+**Optional!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Updated**
+- 1 mod has been updated, a must to get the update approved. Other than that nothing else is updated.
+
+---------------
+
 <h1>v1.18.1</h1>
 
 **Minor update!**
