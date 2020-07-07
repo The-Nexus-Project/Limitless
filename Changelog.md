@@ -1,3 +1,32 @@
+<h1>v1.19</h1>
+
+**This update replaces the current Grave mod as the previous one has been removed from CurseForge.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+
+
+**Removed**
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) (**Currently removed from CurseForge!**)
+
+
+**Changes**
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 28.2.23!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.18.2</h1>
 
 **Another very minor update!**
