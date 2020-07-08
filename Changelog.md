@@ -2,6 +2,8 @@
 
 **This update replaces the current Grave mod as the previous one has been removed from CurseForge.**
 
+**The mod Travel Bag has also been removed due to the same fate.**
+
 **Always remember to backup your world(s) before updating!**
 
 
@@ -11,6 +13,7 @@
 
 **Removed**
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) (**Currently removed from CurseForge!**)
+- [Travel Bag](https://www.curseforge.com/minecraft/mc-mods/travel-bag) (**Currently removed from CurseForge!**)
 
 
 **Changes**
