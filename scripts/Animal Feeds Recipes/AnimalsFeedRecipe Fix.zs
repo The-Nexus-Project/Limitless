@@ -1,1 +1,0 @@
-craftingTable.addShapeless("animal_feeds", <item:essentials:animal_feed>, [<item:mysticalworld:cooked_beetroot>, <item:mysticalworld:cooked_carrot>, <item:minecraft:sugar>, <item:minecraft:baked_potato>]);

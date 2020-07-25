@@ -1,3 +1,0 @@
-#If true, chests that have been named with a name tag will display their name above them.
-renderChestNameTags = true
-
