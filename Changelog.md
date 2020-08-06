@@ -1,3 +1,42 @@
+<h1>v1.19.1</h1>
+
+**This update removes the Official Server from the Multiplayer section due to it closing its doors + updated mods.**
+
+**Also added the mod Performant this update.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) (+ [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) )
+
+
+**Removed**
+- [Featured Servers](https://www.curseforge.com/minecraft/mc-mods/featured-servers)
+
+
+**Changes**
+- Removed the Official Server from the Multiplayer section.
+- Disabled the FPS counter under the Minimap.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.19</h1>
 
 **This update replaces the current Grave mod as the previous one has been removed from CurseForge.**
