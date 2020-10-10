@@ -1,3 +1,41 @@
+<h1>v1.19.2</h1>
+
+**This update removes a mod that shouldn't of been there in the first place.**
+
+**Remember to ALWAYS back up your world(s) before updating! Could be very important.**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- [More Ores](https://www.curseforge.com/minecraft/mc-mods/moreores-mod) (**Why was this even in the pack?**)
+
+
+**Changes**
+- **Neat** tag no longer overlaps player names.
+- **Neat** tag now only shows for the entity looked at.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed alot of duplicate ores generating. (**Oops?**)
+- Fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.19.1</h1>
 
 **This update removes the Official Server from the Multiplayer section due to it closing its doors + updated mods.**
